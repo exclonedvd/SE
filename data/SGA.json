@@ -1,202 +1,722 @@
 [
   {
-    "question": "Il reclutamento nella Forza Armata è il processo di:",
+    "question": "Il Codice dell’ordinamento militare (COM) è:",
     "answers": [
-      "Cessazione del servizio.",
-      "Selezione e arruolamento del personale.",
-      "Solo avanzamento di carriera.",
-      "Addestramento basico."
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Quali sono le principali fonti normative citate per reclutamento e stato giuridico?",
-    "answers": [
-      "D.Lgs. 66/2010 e D.P.R. 90/2010.",
-      "Codice Civile e Penale.",
-      "Solo circolari interne.",
-      "D.Lgs. 81/08."
+      "D.Lgs. 15 marzo 2010, n. 66",
+      "DPR 15 marzo 2010, n. 90",
+      "D.Lgs. 28 gennaio 2014, n. 8",
+      "L. 78/1983"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Tra le categorie del personale militare NON rientra:",
+    "question": "Il TUOM è:",
     "answers": [
-      "Ufficiali.",
-      "Sottufficiali.",
-      "Magistrati militari.",
-      "Graduati e truppa."
+      "D.Lgs. 66/2010",
+      "DPR 90/2010",
+      "DM 2002",
+      "Circolare SMA 1/2005"
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
-    "question": "Il VFP1 prevede:",
+    "question": "L’art. 2268 del COM ha:",
     "answers": [
-      "Età 18–25 e ferma di 1 anno.",
-      "Età 25–35 e ferma di 4 anni.",
-      "Solo per laureati.",
-      "Accesso diretto a SP."
+      "Istituito il Ministero della Difesa",
+      "Abrogato le norme previgenti in materia di ordinamento militare",
+      "Abrogato il DPR 90/2010",
+      "Riformato i ruoli dei Marescialli"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il 'personale non direttivo' comprende:",
+    "answers": [
+      "Ufficiali",
+      "Sottufficiali, Graduati e Militari di truppa",
+      "Solo Graduati",
+      "Personale civile della Difesa"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Le categorie del personale militare sono:",
+    "answers": [
+      "Ufficiali, Sottufficiali, Graduati, Militari di truppa",
+      "Ufficiali e Truppa",
+      "Direttivi e Funzionari",
+      "Ufficiali, Civili, Truppa"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Il VFP4 richiede:",
+    "question": "Tra i gradi del ruolo Graduati rientra:",
     "answers": [
-      "Essere ex VFP1 e meno di 30 anni.",
-      "Più di 7 anni di servizio.",
-      "Nessun requisito precedente.",
-      "Più di 35 anni."
+      "Maresciallo 2ª classe",
+      "1° Aviere Capo",
+      "Sergente Maggiore",
+      "Capitano"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Tra i gradi del ruolo Sottufficiali rientra:",
+    "answers": [
+      "Primo Maresciallo",
+      "Aviere Capo",
+      "1° Aviere",
+      "Allievo"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Nel concorso per il ruolo Marescialli, la quota interna è:",
+    "question": "Tra i gradi della truppa rientra:",
     "answers": [
-      "10%",
-      "20%",
-      "30% (10% sergenti, 20% truppa SP)",
-      "70%"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Lo ‘stato giuridico’ del militare è:",
-    "answers": [
-      "Il solo stipendio.",
-      "L’insieme di diritti e doveri derivanti dall’essere militare.",
-      "Solo le sanzioni disciplinari.",
-      "Solo le norme sanitarie."
+      "Sergente",
+      "Aviere Scelto",
+      "Primo Maresciallo",
+      "Graduato Aiutante"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Le posizioni di stato durante il servizio permanente includono:",
+    "question": "Per reclutamento si intende:",
     "answers": [
-      "Servizio effettivo, aspettativa, sospensione dall’impiego.",
-      "Ferma prefissata, congedo, licenza.",
-      "Congedo assoluto, ausiliaria, riserva.",
-      "Solo servizio effettivo."
+      "Il solo avanzamento di carriera",
+      "L’insieme dei processi con cui la Forza Armata seleziona e arruola il personale",
+      "La formazione presso le scuole",
+      "La gestione amministrativa del personale"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Le attività di reclutamento e selezione sono condizionate da:",
+    "answers": [
+      "Disponibilità di istruttori",
+      "Stanziamenti di bilancio",
+      "Norme NATO soltanto",
+      "Piani comunali"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Lo scopo del reclutamento è individuare risorse migliori valutando:",
+    "answers": [
+      "Solo titoli di studio",
+      "Qualità psico-fisiche, livello morale/culturale e motivazione/attitudine alla collaborazione",
+      "Solo conoscenza lingue",
+      "Solo punteggio scolastico"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Lo Stato Maggiore della Difesa (SMD) nel reclutamento:",
+    "answers": [
+      "Bandisce i concorsi",
+      "Ripartisce fondi tra le FF.AA. e coordina gli S.M. con il vertice politico e l’area tecnico-amministrativa",
+      "Gestisce scuole di formazione",
+      "Valuta gli idonei sanitari"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Lo Stato Maggiore Aeronautica — 1° Reparto:",
+    "answers": [
+      "Gestisce pensioni",
+      "Elabora e propone le politiche di reclutamento AM in raccordo con DGPM",
+      "Nomina i comandanti di reparto",
+      "Rilascia brevetti di volo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il Comando Scuole AM:",
+    "answers": [
+      "Solo addestra piloti",
+      "Programma la selezione, organizza il Centro di Selezione AM e fornisce feedback su efficacia della politica",
+      "Non ha funzioni nel reclutamento",
+      "Si occupa solo di logistica"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La DGPM (Direzione Generale per il Personale Militare):",
+    "answers": [
+      "È responsabile dell’attività concorsuale ed emette i bandi",
+      "Gestisce solo stipendi",
+      "Nomina i RLS",
+      "Non pubblica bandi"
     ],
     "correctIndex": 0
   },
   {
-    "question": "L’aspettativa per motivi di salute non dipendente da causa di servizio comporta nel 2° anno:",
+    "question": "I bandi sono pubblicati:",
     "answers": [
-      "100% per tutto l’anno.",
-      "50% primo semestre, 0% secondo semestre.",
-      "0% sempre.",
-      "Solo progressione bloccata ma stipendio pieno."
+      "Solo sul sito AM",
+      "Su G.U. 4ª serie speciale (concorsi pubblici) e su B.U. Difesa (concorsi interni)",
+      "Solo sul B.U.",
+      "Solo su stampa locale"
     ],
     "correctIndex": 1
   },
   {
-    "question": "La sospensione dall’impiego ha effetti:",
+    "question": "Tra le fasi rientrano la definizione SMA di:",
     "answers": [
-      "Aumento retribuzione.",
-      "50% retribuzione e anzianità ridotta.",
-      "Nessun effetto economico.",
-      "Retroattività delle promozioni."
+      "Uniformi",
+      "Aliquote numeriche per ruoli/categorie/specialità e linee per individuare l’idoneo",
+      "Missioni estere",
+      "Orari di servizio"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Una causa di cessazione dal SP è:",
+    "question": "Le prove concorsuali sono orientate a valorizzare:",
     "answers": [
-      "Trasferimento di sede.",
-      "Limiti di età o infermità permanente.",
-      "Richiamo in servizio.",
-      "Cambio di specialità."
+      "Solo cultura generale",
+      "Cultura generale e buona conoscenza delle lingue",
+      "Solo prove fisiche",
+      "Solo informatica"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Il Ruolo d’Onore riguarda:",
+    "question": "Per l’ammissione VFP1 possono concorrere:",
     "answers": [
-      "Militari con demerito disciplinare.",
-      "Militari non idonei per infermità da causa di servizio.",
-      "Solo civili del Ministero.",
-      "Marescialli in quiescenza."
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "L’esclusività nel SP significa:",
-    "answers": [
-      "Divieto di esercitare altri lavori senza autorizzazione.",
-      "Possibilità di lavoro libero.",
-      "Obbligo di doppio impiego.",
-      "Solo per ufficiali."
+      "Cittadini italiani di ambo i sessi 18–25 anni con diploma di scuola secondaria di primo grado",
+      "Solo maschi 20–26 anni laureati",
+      "Cittadini UE 18–30 anni",
+      "Solo civili con 3 anni di servizio"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Chi emana i bandi di concorso?",
+    "question": "La ferma VFP1 è:",
     "answers": [
-      "SMA – 1° Reparto.",
-      "Comando Scuole A.M.",
-      "Direzione Generale del Personale Militare.",
-      "Stato Maggiore Difesa."
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Il Comando Scuole A.M. gestisce:",
-    "answers": [
-      "La selezione tramite Centro di Selezione.",
-      "L’addestramento operativo avanzato.",
-      "Solo la logistica.",
-      "Le missioni all’estero."
+      "1 anno rinnovabile a domanda per un ulteriore anno",
+      "2 anni non rinnovabili",
+      "4 anni rinnovabili",
+      "6 mesi con proroga automatica"
     ],
     "correctIndex": 0
   },
   {
-    "question": "L’anzianità relativa è:",
+    "question": "Tra i requisiti VFP1 figurano:",
     "answers": [
-      "Il tempo effettivo nel grado.",
-      "La posizione rispetto ai pari grado in graduatoria di merito.",
-      "L’anzianità di servizio totale.",
-      "L’età anagrafica."
+      "Solo test di efficienza fisica",
+      "Godimento diritti civili/politici e assenza condanne o procedimenti per delitti non colposi",
+      "Solo certificato medico sportivo",
+      "Patente militare"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Tra le posizioni in congedo NON figura:",
+    "question": "Ulteriore requisito VFP1:",
     "answers": [
-      "Ausiliaria.",
-      "Riserva.",
-      "Complemento.",
-      "Servizio effettivo."
+      "Esame di lingue",
+      "Esito negativo a test alcool/droga/sostanze psicotrope a scopo non terapeutico",
+      "Servizio civile assolto",
+      "Licenza di volo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Possono concorrere a VFP4:",
+    "answers": [
+      "Tutti i cittadini 18–30",
+      "I VFP1 (o in rafferma annuale), in servizio o in congedo senza demerito, età ≤ 30 anni compiuti",
+      "Solo VSP",
+      "Solo personale in SPE"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La ferma iniziale VFP4 è:",
+    "answers": [
+      "4 anni, con possibilità di due rafferme biennali",
+      "2 anni rinnovabili",
+      "1 anno rinnovabile",
+      "6 anni non rinnovabili"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il transito in servizio permanente dopo VFP4/rafferme avviene:",
+    "answers": [
+      "Senza corsi",
+      "Dopo idoneità e corso presso SVT di Taranto/Scuola Specialisti AM di Caserta",
+      "Solo per titoli",
+      "Automaticamente dopo 4 anni"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La graduatoria per il transito tiene conto anche di:",
+    "answers": [
+      "Ordini del giorno",
+      "Attitudine e rendimento, qualità morali/culturali, esito dei corsi/abilitazioni, titoli di studio",
+      "Solo età",
+      "Residenza"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il ruolo Sergenti è alimentato da:",
+    "answers": [
+      "Concorsi esterni",
+      "VSP mediante concorso interno a domanda per titoli ed esami",
+      "Solo VFP1",
+      "Scorrimento automatico"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Per il ruolo Sergenti è previsto:",
+    "answers": [
+      "Nessun corso",
+      "Obbligo di corso di aggiornamento e formazione professionale",
+      "Solo tirocinio",
+      "Esame orale finale"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il ruolo Marescialli è alimentato:",
+    "answers": [
+      "Per il 100% dall’esterno",
+      "Per il 70% da esterni e per il 30% da interni (10% Sergenti, 20% Truppa in s.p.)",
+      "Solo da interni",
+      "Per il 50% da esterni e 50% interni"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Per l’accesso al ruolo Marescialli è previsto:",
+    "answers": [
+      "Obbligo di corso di qualificazione",
+      "Nessun corso",
+      "Solo prova fisica",
+      "Solo titolo di studio"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Per i Sergenti, tra i requisiti per il concorso interno a Maresciallo figura:",
+    "answers": [
+      "Età max 35 anni",
+      "Non aver superato il 40° anno di età",
+      "Essere in SPE da 10 anni",
+      "Essere Ufficiale di complemento"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Tra i requisiti di merito richiesti ai Sergenti:",
+    "answers": [
+      "Media sufficiente",
+      "Qualifica “superiore alla media” negli ultimi 4 anni",
+      "Solo idoneità fisica",
+      "Corso allievi marescialli già svolto"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ulteriore requisito per i Sergenti:",
+    "answers": [
+      "Almeno una consegna di rigore nell’ultimo biennio",
+      "Nessuna consegna di rigore nell’ultimo biennio",
+      "Due elogi formali",
+      "Idoneità linguistica STANAG 3"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Per la Truppa in s.p., oltre ai requisiti dei Sergenti, è necessario:",
+    "answers": [
+      "6 anni di servizio e laurea",
+      "7 anni di servizio effettivo di cui 4 in s.p. e diploma di istruzione secondaria di secondo grado",
+      "Solo 3 anni di servizio",
+      "Patente militare C"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Per 'status' si intende:",
+    "answers": [
+      "La retribuzione mensile",
+      "La posizione di un soggetto in un ordinamento giuridico rispetto a un gruppo sociale",
+      "Il grado rivestito",
+      "L’anzianità assoluta"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Lo 'stato giuridico' del militare:",
+    "answers": [
+      "Comprende solo i doveri",
+      "Comprende il complesso di diritti e doveri del rapporto d’impiego con lo Stato",
+      "Riguarda solo il trattamento economico",
+      "È definito solo da regolamenti interni"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Tra le principali fonti recenti sullo stato giuridico figurano:",
+    "answers": [
+      "L. 599/1954 soltanto",
+      "D.Lgs. 66/2010, DPR 90/2010 e D.Lgs. 8/2014",
+      "Solo il Codice civile",
+      "Circolari di reparto"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il giuramento richiama, tra gli altri, il dovere di:",
+    "answers": [
+      "Neutralità politica",
+      "Fedeltà alla Repubblica e osservanza di Costituzione e leggi",
+      "Iscrizione obbligatoria a un sindacato",
+      "Segretezza assoluta"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Tra i doveri esplicitati nelle slide NON figura:",
+    "answers": [
+      "Diligenza",
+      "Rettitudine",
+      "Subordinazione",
+      "Obiezione di coscienza"
     ],
     "correctIndex": 3
   },
   {
-    "question": "Nel ruolo Marescialli la quota esterna è:",
+    "question": "Il dovere di legalità implica:",
     "answers": [
-      "70%",
-      "30%",
-      "50%",
-      "20%"
-    ],
-    "correctIndex": 0
-  },
-  {
-    "question": "Un obiettivo del reclutamento è:",
-    "answers": [
-      "Solo ridurre i costi.",
-      "Valutare qualità psicofisiche, morali, culturali e motivazionali.",
-      "Solo aumentare i numeri.",
-      "Limitare la tecnologia."
+      "Applicare solo regolamenti interni",
+      "Rispettare le leggi poste a tutela dell’interesse dello Stato",
+      "Rispettare solo ordini del diretto superiore",
+      "Riferirsi solo al COM"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Le fasi del reclutamento NON includono:",
+    "question": "Per il personale non direttivo lo status si distingue per:",
     "answers": [
-      "Definizione aliquote e criteri.",
-      "Emissione del bando.",
-      "Valutazioni culturali/linguistiche.",
-      "Nomina del Governo."
+      "Ruolo e grado",
+      "Provincia e comune",
+      "Corpo e arma",
+      "Funzione e stipendio"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L’anzianità di grado assoluta è:",
+    "answers": [
+      "Il tempo trascorso nel grado",
+      "L’ordine di precedenza tra pari grado",
+      "Il punteggio concorsuale",
+      "La data di arruolamento"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L’anzianità di grado relativa è:",
+    "answers": [
+      "Tempo trascorso nel grado",
+      "Ordine di precedenza tra pari grado nello stesso ruolo determinato da graduatorie di merito",
+      "La media dei giudizi annuali",
+      "La data di nascita"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il servizio temporaneo è:",
+    "answers": [
+      "Rapporto stabile e continuativo",
+      "Rapporto a termine destinato a estinguersi allo scadere",
+      "Un richiamo in servizio",
+      "Una posizione disciplinare"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il servizio permanente è:",
+    "answers": [
+      "Rapporto stabile e continuativo, professionalità come esclusività e retribuzione predeterminata",
+      "Rapporto a progetto",
+      "Solo per ufficiali",
+      "Sempre part‑time"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il congedo assoluto è:",
+    "answers": [
+      "Una licenza breve",
+      "L’assenza di idoneità all’esercizio delle attribuzioni del grado per età o infermità",
+      "Una posizione economica",
+      "Un incarico temporaneo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La professione di militare è incompatibile con:",
+    "answers": [
+      "Ogni altra professione salvo eccezioni previste, per il principio di esclusività (art. 98 Cost.)",
+      "Qualsiasi attività saltuaria non retribuita",
+      "Incarichi autorizzati",
+      "Partecipazione a convegni fuori servizio"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Tra le attività saltuarie ammesse rientra:",
+    "answers": [
+      "Prestazioni artistiche fuori orario",
+      "Incarico retribuito senza autorizzazione",
+      "Consulenza continuativa privata",
+      "Gestione di impresa durante il servizio"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Gli incarichi retribuiti:",
+    "answers": [
+      "Sono sempre liberi",
+      "Devono essere conferiti o preventivamente autorizzati dalla DGPM",
+      "Sono vietati anche con autorizzazione",
+      "Sono ammessi solo se pagati in contanti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il servizio effettivo richiede:",
+    "answers": [
+      "Idoneità fisica al SMI e impiego concreto nelle mansioni",
+      "Solo presenza in caserma",
+      "Solo idoneità amministrativa",
+      "Solo titolo di studio"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L’aspettativa è:",
+    "answers": [
+      "Una sanzione",
+      "Sospensione temporanea dell’obbligo di prestare servizio; max in genere 2 anni nel quinquennio",
+      "Una ricompensa",
+      "Un periodo di licenza ordinaria"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La sospensione dall’impiego è:",
+    "answers": [
+      "Una modalità di ferie",
+      "Privazione temporanea dell’effettivo servizio, misura cautelare disposta con decreto",
+      "Una promozione",
+      "Un trasferimento d’autorità"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Tra i tipi di aspettativa NON figura:",
+    "answers": [
+      "Per prigionia/disperso",
+      "Per infermità temporanee",
+      "Per motivi privati",
+      "Per trasferimento d’autorità in altra F.A."
     ],
     "correctIndex": 3
+  },
+  {
+    "question": "Per prigionia di guerra (art. 902):",
+    "answers": [
+      "Il tempo è computato per metà",
+      "È disposta di diritto e il tempo è computato per intero con intera retribuzione",
+      "È a domanda",
+      "Si perde la retribuzione"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Per infermità temporanea dipendente da causa di servizio:",
+    "answers": [
+      "Tempo computato per metà",
+      "Si dispone a domanda o d’autorità dopo accertamenti; tempo computato per intero",
+      "Mai concessa",
+      "Si perde l’anzianità"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Per infermità non dipendente da causa di servizio:",
+    "answers": [
+      "1° anno 100%; 2° anno 1° semestre 50%, 2° semestre 0%; tempo computato per intero ai fini pensionistici",
+      "1° anno 50%; 2° anno 0%",
+      "Sempre senza trattamento",
+      "Non è prevista"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Per motivi privati (art. 901):",
+    "answers": [
+      "Minimo 4 mesi; nessuna competenza; tempo non computato ai fini pensione; nessuna promozione",
+      "Massimo 2 mesi; piena retribuzione",
+      "Minimo 1 mese; tempo computato",
+      "Nessun vincolo di servizio"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il Comandante di Corpo può concedere:",
+    "answers": [
+      "Per infermità da causa di servizio fino a 24 mesi; per infermità non da causa di servizio fino a 12 mesi continuativi",
+      "Solo aspettative per motivi privati",
+      "Solo per prigionia",
+      "Solo fino a 6 mesi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La DGPM (II Reparto) è competente:",
+    "answers": [
+      "Per motivi privati e per infermità non dipendente da causa di servizio oltre 12 mesi",
+      "Solo per prigionia",
+      "Solo per aspettative inferiori a 12 mesi",
+      "Solo per aspettative per studio"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La sospensione può avere carattere:",
+    "answers": [
+      "Solo disciplinare",
+      "Precauzionale, disciplinare o penale",
+      "Solo penale",
+      "Solo amministrativo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Effetti economico‑pensionistici della sospensione:",
+    "answers": [
+      "Retribuzione piena e tempo intero",
+      "50% delle competenze e tempo computato a metà",
+      "Nessuna retribuzione e nessun computo",
+      "Solo indennità operative"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La cessazione per limiti di età prevede:",
+    "answers": [
+      "Collocamento automatico in congedo assoluto",
+      "Atto vincolante; in congedo in ausiliaria/riserva o, se non idonei al SMI, in congedo assoluto",
+      "Solo pensione senza congedo",
+      "Scelta libera dell’interessato"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La cessazione per infermità ricorre se:",
+    "answers": [
+      "Si superano 2 anni di aspettativa nel quinquennio o non si riacquista l’idoneità allo scadere del periodo massimo",
+      "Si ha un richiamo in servizio",
+      "Si viene trasferiti",
+      "Si chiede aspettativa per motivi privati"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La cessazione a domanda:",
+    "answers": [
+      "È sempre accolta",
+      "Può non essere accolta per casi previsti (penali, disciplinari, gravi motivi di servizio)",
+      "È ammessa solo a fine anno",
+      "È vietata in pace"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La cessazione per scarso rendimento comporta:",
+    "answers": [
+      "Collocamento in riserva dopo ammonizione e parere delle commissioni/autorità d’avanzamento",
+      "Degradazione automatica",
+      "Congedo assoluto sempre",
+      "Nessuna conseguenza"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La cessazione per non idoneità alle funzioni del grado:",
+    "answers": [
+      "Si applica solo agli ufficiali",
+      "Deriva da insufficienti qualità morali/di carattere/intellettuali/militari o professionali; collocamento in riserva o congedo assoluto",
+      "È sempre per motivi fisici",
+      "Comporta promozione"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il transito nell’impiego civile avviene quando:",
+    "answers": [
+      "Si è giudicati non idonei al SMI per lesioni dipendenti o meno da causa di servizio",
+      "Si chiede motivi privati",
+      "Si raggiunge l’età di 60 anni",
+      "Si cambia specialità"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La decadenza per incompatibilità professionale si ha quando:",
+    "answers": [
+      "Si svolgono attività incompatibili e non si smette entro 15 giorni dalla diffida ministeriale",
+      "Si partecipa a convegni",
+      "Si pubblica un articolo",
+      "Si insegna in PA su autorizzazione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Per ferma volontaria/rafferma il servizio è:",
+    "answers": [
+      "Permanente",
+      "Temporaneo; la cessazione può avvenire per scadenza, a domanda, per inidoneità, per protratto scarso rendimento o per perdita del grado/condanna per delitti non colposi",
+      "Solo per scadenza",
+      "Solo per inidoneità"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "I militari in congedo:",
+    "answers": [
+      "Non hanno alcun obbligo",
+      "Mantengono rapporto di grado e alcuni obblighi di servizio",
+      "Perdono il grado",
+      "Sono sempre richiamati"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il personale in congedo assoluto:",
+    "answers": [
+      "È idoneo all’esercizio delle attribuzioni del grado",
+      "Non è idoneo per età o infermità",
+      "È in riserva di completamento",
+      "È in ausiliaria"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il ruolo d’onore comprende:",
+    "answers": [
+      "Militari idonei a ogni impiego",
+      "Militari permanentemente non idonei per mutilazioni/invalidità per causa di servizio collocati in congedo assoluto; richiamabili solo con consenso in incarichi compatibili",
+      "Solo ufficiali",
+      "Solo personale civile"
+    ],
+    "correctIndex": 1
   }
 ]

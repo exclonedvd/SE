@@ -1,202 +1,322 @@
 [
   {
-    "question": "Il D.Lgs. 81/08 si applica:",
+    "question": "L’Accordo Stato-Regioni del 21 dicembre 2011 ha stabilito:",
     "answers": [
-      "Solo al settore privato.",
-      "A tutti i settori, pubblici e privati, e a tutti i lavoratori.",
-      "Solo ai lavoratori dipendenti militari.",
-      "Solo ai cantieri."
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "L’art. 2087 c.c. impone:",
-    "answers": [
-      "La tutela dell’ambiente.",
-      "L’obbligo dell’imprenditore di tutelare integrità fisica e morale del lavoratore.",
-      "La sospensione del lavoro notturno.",
-      "Nulla in tema di sicurezza."
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Gli obblighi NON delegabili del Datore di Lavoro (art. 17) sono:",
-    "answers": [
-      "Nomina RSPP e valutazione dei rischi/DVR.",
-      "Sorveglianza sanitaria e DPI.",
-      "Formazione dei lavoratori e vigilanza.",
-      "Gestione straordinari e turni."
+      "Le linee guida per l’organizzazione dei corsi di formazione per i lavoratori in materia di sicurezza",
+      "La riduzione degli obblighi di formazione",
+      "Solo i requisiti dei RLS",
+      "La soppressione del DVR"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Il Dirigente, ai sensi del D.Lgs. 81/08:",
+    "question": "Tra i riferimenti costituzionali richiamati nelle slide figurano:",
     "answers": [
-      "Non ha compiti in sicurezza.",
-      "Attua le direttive del DL, organizza e vigila.",
-      "È solo medico competente.",
-      "È RLS di diritto."
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Il Preposto:",
-    "answers": [
-      "È figura intermedia con doveri di controllo e segnalazione.",
-      "È responsabile del bilancio aziendale.",
-      "Non può interrompere lavorazioni pericolose.",
-      "Non ha doveri formativi."
+      "Art. 32 e art. 35",
+      "Art. 48 e art. 52",
+      "Art. 1 e art. 11",
+      "Art. 55 e art. 56"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Il Servizio di Prevenzione e Protezione comprende:",
+    "question": "L’art. 2087 c.c. impone all’imprenditore di:",
     "answers": [
-      "Solo RLS.",
-      "RSPP e ASPP.",
-      "Solo medico competente.",
-      "Solo addetti antincendio."
+      "Stipulare assicurazioni obbligatorie per tutti",
+      "Adottare le misure necessarie a tutelare integrità fisica e personalità morale dei lavoratori",
+      "Concedere ferie aggiuntive",
+      "Valutare i rischi solo su richiesta"
     ],
     "correctIndex": 1
   },
   {
-    "question": "In ambito militare il SLPP è previsto da:",
+    "question": "La normativa-quadro in materia di sicurezza è:",
     "answers": [
-      "Art. 249 DPR 90/10.",
-      "Art. 3 D.Lgs. 81/08.",
-      "Art. 32 Costituzione.",
-      "Art. 2087 c.c."
+      "D.Lgs. 231/2001",
+      "D.Lgs. 81/2008",
+      "DPR 90/2010",
+      "D.Lgs. 196/2003"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il D.Lgs. 81/08 contiene:",
+    "answers": [
+      "13 Titoli, 306 articoli e 52 allegati",
+      "10 Titoli, 200 articoli e 20 allegati",
+      "5 Capi, 100 articoli",
+      "Solo un allegato tecnico"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Il Medico Competente deve visitare gli ambienti di lavoro:",
+    "question": "L’art. 3, comma 1, prevede che il D.Lgs. 81/08 si applichi a:",
     "answers": [
-      "Almeno una volta l’anno.",
-      "Ogni cinque anni.",
-      "Solo su richiesta dei lavoratori.",
-      "Mai."
+      "Solo settore privato",
+      "Tutti i settori, pubblici e privati, tutte le tipologie di rischio e a tutti i lavoratori",
+      "Solo lavoratori subordinati",
+      "Solo aziende con più di 15 dipendenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Per Forze Armate/Polizia e VV.F. (art. 3, c.2):",
+    "answers": [
+      "Non si applica mai",
+      "Si applica tenendo conto delle particolari esigenze connesse al servizio, anche all’estero",
+      "Si applica solo in pace",
+      "Si applica solo in Italia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L’art. 244 DPR 90/2010 disciplina:",
+    "answers": [
+      "La previdenza militare",
+      "Organizzazione e attività per tutela salute e sicurezza del personale AD, in Italia e all’estero",
+      "Uniformi e insegne",
+      "Reclutamento ufficiali"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Tra le particolari esigenze dell’art. 245 DPR 90/2010 NON rientra:",
+    "answers": [
+      "Unicità di comando e controllo",
+      "Tutela informazioni militari",
+      "Capacità e prontezza d’impiego",
+      "Esenzione dalle misure di sicurezza"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Il Datore di Lavoro secondo art. 2 D.Lgs. 81/08 è:",
+    "answers": [
+      "Il responsabile della sicurezza antincendio",
+      "Il titolare del rapporto di lavoro o soggetto con poteri decisionali e di spesa",
+      "Il RSPP",
+      "Il dirigente più anziano"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Nel DPR 90/2010 (art. 246) le funzioni di DL fanno capo:",
+    "answers": [
+      "Al Capo di SMD",
+      "Ai titolari di Enti/Distaccamenti con autonomia gestionale e poteri decisionali e di spesa",
+      "Solo ai generali di corpo d’armata",
+      "Ai direttori di reparto medici"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Obblighi NON delegabili del DL (art. 17) sono:",
+    "answers": [
+      "Valutazione dei rischi/DVR e designazione RSPP",
+      "Nomina medico competente e squadre emergenza",
+      "Formazione generale",
+      "Sorveglianza sanitaria"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Il RLS è:",
+    "question": "Tra gli obblighi del DL (artt. 17–18) figura:",
     "answers": [
-      "Nomnato dal DL sempre.",
-      "Eletto/designato per rappresentare i lavoratori sulla sicurezza.",
-      "Sempre un funzionario del sindacato.",
-      "Solo per aziende >1000 dipendenti."
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Quota RLS oltre 1000 dipendenti:",
-    "answers": [
-      "6",
-      "3",
-      "1 ogni 100",
-      "2"
+      "Designare RSPP e squadre di emergenza",
+      "Delegare DVR",
+      "Emanare leggi",
+      "Togliere DPI"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Gli addetti antincendio e primo soccorso sono:",
+    "question": "Il Dirigente è definito (art. 2 lett. d):",
     "answers": [
-      "Non obbligatori.",
-      "Figure formate con compiti specifici durante emergenze.",
-      "Solo volontari senza formazione.",
-      "Solo esterni."
+      "Tecnico manutentore",
+      "Chi attua direttive del DL organizzando l’attività e vigilando su di essa",
+      "Chi rappresenta i lavoratori",
+      "Chi svolge sorveglianza sanitaria"
     ],
     "correctIndex": 1
   },
   {
-    "question": "L’Accordo Stato-Regioni 21/12/2011:",
+    "question": "Il Preposto è definito (art. 2 lett. e):",
     "answers": [
-      "Elimina la formazione.",
-      "Prevede formazione obbligatoria per i lavoratori.",
-      "Riguarda solo i cantieri.",
-      "È abrogato."
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Nel D.Lgs. 81/08 il campo di applicazione alle Forze Armate:",
-    "answers": [
-      "Non esiste.",
-      "È escluso.",
-      "È previsto con adattamenti (art. 3 c.1-2).",
-      "Vale solo in missione estera."
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Il Datore di Lavoro è definito da:",
-    "answers": [
-      "Art. 2 D.Lgs. 81/08.",
-      "Art. 244 D.P.R. 90/10.",
-      "Art. 38 D.Lgs. 81/08.",
-      "Art. 25 D.Lgs. 81/08."
+      "Chi sovrintende all’attività lavorativa e garantisce l’attuazione delle direttive, controllando la corretta esecuzione",
+      "Il capo di Stato Maggiore",
+      "Il RSPP",
+      "Un consulente esterno"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Tra i compiti del RSPP rientra:",
+    "question": "Compiti tipici del Preposto (art. 19) includono:",
     "answers": [
-      "Elaborare il DVR e collaborare con il medico competente.",
-      "Erogare direttamente tutte le formazioni.",
-      "Gestire le paghe.",
-      "Emettere bandi di concorso."
+      "Vigilare su comportamenti a rischio, impedire usi pericolosi di attrezzature, istruire e segnalare anomalie",
+      "Redigere il bilancio",
+      "Stabilire contributi previdenziali",
+      "Nominare i RLS"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Nelle Forze Armate esistono:",
+    "question": "Il concetto di “preposto di fatto” implica che:",
     "answers": [
-      "Solo RLS civili.",
-      "RLS civili e RLS militari (art. 250 DPR 90/10).",
-      "Solo RLS militari.",
-      "Nessun RLS."
+      "Conta solo la qualifica formale",
+      "Responsabilità derivano dalle mansioni effettive svolte",
+      "Non ha responsabilità",
+      "Vale solo per civili"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Il principio costituzionale che tutela la salute è:",
+    "question": "Il SPP è l’insieme di:",
     "answers": [
-      "Art. 35.",
-      "Art. 32.",
-      "Art. 12.",
-      "Art. 2087."
+      "RSPP e ASPP che individuano/valutano rischi, propongono misure, procedure e formazione",
+      "Solo il medico competente",
+      "Solo antincendio",
+      "Solo consulenti esterni"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In ambito AD, lo SLPP (art. 249 DPR 90/10):",
+    "answers": [
+      "È aperto a consulenti esterni",
+      "È composto esclusivamente da personale militare/civile AD con requisiti art. 32 D.Lgs. 81/08 e adeguata abilitazione",
+      "È solo civile",
+      "Non ha requisiti"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Chi può sospendere lavorazioni pericolose?",
+    "question": "Lo SLCPP è:",
     "answers": [
-      "Solo il DL.",
-      "Il Preposto, se necessario (art. 19).",
-      "Solo il medico.",
-      "Nessuno."
+      "Servizio comprensoriale di prevenzione e protezione quando coesistono più organismi AD",
+      "Servizio logistico carburanti",
+      "Servizio comunale",
+      "Nucleo NBCR"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La direttiva di riferimento per compiti/organici SPP in AD è:",
+    "answers": [
+      "UCOPRATA 003 ed. 2019",
+      "UCOPRATA 001 ed. 2010",
+      "ENAC Regolamento",
+      "DPR 90/1950"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Requisiti del Medico competente (art. 38 D.Lgs. 81/08) includono:",
+    "answers": [
+      "Solo laurea generica",
+      "Specializzazione in medicina del lavoro/preventiva o altri titoli indicati",
+      "Patente B",
+      "Abilitazione antincendio"
     ],
     "correctIndex": 1
   },
   {
-    "question": "La sorveglianza sanitaria è compito:",
+    "question": "In ambito AD (art. 257 DPR 90/10) le funzioni di medico competente sono svolte:",
     "answers": [
-      "Del RSPP.",
-      "Del Medico Competente (art. 25).",
-      "Del RLS.",
-      "Del Preposto."
+      "Da consulenti privati",
+      "Prioritariamente da ufficiali medici in possesso dei requisiti",
+      "Solo da civili",
+      "Da RSPP"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Il campo di applicazione del D.Lgs. 81/08 comprende:",
+    "question": "Tra i compiti del medico competente (art. 25) rientra:",
     "answers": [
-      "Solo lavoratori dipendenti.",
-      "Anche tirocinanti e soggetti equiparati.",
-      "Solo personale civile.",
-      "Solo ditte private."
+      "Valutare i rischi con DL e SPP, sorveglianza sanitaria, informazione ai lavoratori, visita ambienti almeno annuale",
+      "Redigere il bilancio",
+      "Individuare il DL",
+      "Erogare pensioni"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Definizione di RLS (art. 2):",
+    "answers": [
+      "Tecnico manutentore",
+      "Persona eletta/designata per rappresentare i lavoratori su salute e sicurezza",
+      "Dirigente medico",
+      "Preposto"
     ],
     "correctIndex": 1
+  },
+  {
+    "question": "Numero RLS in base ai dipendenti:",
+    "answers": [
+      "1 fino a 200; 3 tra 200 e 1000; 6 oltre 1000",
+      "1 fino a 50; 2 fino a 200; 4 oltre 200",
+      "Sempre 1",
+      "Sempre 3"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In AD (art. 250 DPR 90/10) operano:",
+    "answers": [
+      "Solo RLS civili",
+      "RLS militari e RLS civili; i militari sono designati dal DL su proposta non vincolante della rappresentanza militare/APCSM",
+      "Solo RLS militari eletti",
+      "Nessun RLS"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Tra le prerogative RLS (D.Lgs. 81/08) figura:",
+    "answers": [
+      "Accesso ai luoghi di lavoro, consultazione su DVR e designazioni, formazione adeguata e partecipazione a riunioni periodiche",
+      "Nomina del DL",
+      "Irrogare sanzioni",
+      "Gestire la cassa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Per D.Lgs. 81/08 'lavoratore' è:",
+    "answers": [
+      "Solo subordinato a tempo indeterminato",
+      "Persona che svolge attività nell’organizzazione di un DL pubblico o privato, con o senza retribuzione (salvo domestici/familiari)",
+      "Solo tirocinante",
+      "Solo dipendente privato"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Tra gli obblighi del lavoratore (art. 20) rientra:",
+    "answers": [
+      "Rimuovere dispositivi di sicurezza se intralciano",
+      "Osservare disposizioni, usare correttamente attrezzature/DPI, segnalare deficienze/pericoli",
+      "Designare RSPP",
+      "Redigere DVR"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il lavoratore deve:",
+    "answers": [
+      "Astenersi dalla formazione",
+      "Partecipare a formazione/addestramento e sottoporsi a sorveglianza sanitaria",
+      "Evitare di segnalare pericoli",
+      "Delegare a terzi l’uso dei DPI"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Gli addetti antincendio e primo soccorso:",
+    "answers": [
+      "Sono designati, formati e addestrati all’uso dei presidi",
+      "Sono nominati solo in aziende a rischio basso",
+      "Non richiedono formazione",
+      "Operano solo in orario straordinario"
+    ],
+    "correctIndex": 0
   }
 ]

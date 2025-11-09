@@ -1,102 +1,662 @@
 [
   {
-    "question": "Che cos’è il reato militare?",
+    "question": "Secondo le slide, il reato è:",
     "answers": [
-      "Reato previsto dal Codice Penale Militare",
-      "Qualsiasi reato commesso da un militare",
-      "Reato commesso in tempo di guerra",
-      "Infrazione disciplinare grave"
+      "Violazione della legge morale",
+      "Violazione del diritto preventivamente riconosciuto e protetto dalla legge",
+      "Violazione del regolamento interno",
+      "Violazione di un ordine del comandante"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La legge penale militare è detta complementare perché:",
+    "answers": [
+      "Abroga il codice penale comune",
+      "Si applica solo in guerra",
+      "Le disposizioni del codice penale comune si applicano anche alla legge penale militare",
+      "Non richiede elementi soggettivi"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Tra legge penale militare e comune prevale:",
+    "answers": [
+      "Sempre la legge comune",
+      "Sempre la legge penale militare",
+      "Quella più favorevole",
+      "Quella cronologicamente successiva"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La legge penale militare è speciale perché:",
+    "answers": [
+      "Tutela diritti privati",
+      "Si applica solo al personale civile",
+      "Salvaguarda l’efficienza delle FF.AA. e impone doveri particolari (coraggio, onore, lealtà)",
+      "Si applica solo ai parà"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Le leggi penali militari sono raccolte in:",
+    "answers": [
+      "Un unico codice del 1975",
+      "C.P.M.P. (3 libri) e C.P.M.G. (4 libri), entrambi del 1941",
+      "Solo regolamenti interforze",
+      "Codice militare del 1865"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il C.P.M.G. entra in vigore:",
+    "answers": [
+      "Solo su decisione del Governo",
+      "Dal momento della dichiarazione di stato di guerra o in casi straordinari anche in pace",
+      "Mai in territorio estero",
+      "Solo in territorio metropolitano"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il C.P.M.P. è:",
+    "answers": [
+      "Sempre in vigore",
+      "Solo in guerra",
+      "Solo per l’Esercito",
+      "Solo su navi"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Quando si applica il Codice Penale Militare di Guerra?",
+    "question": "Una modifica recente al C.P.M.G. ha:",
     "answers": [
-      "In tempo di pace",
-      "Solo in missioni all’estero",
-      "In tempo di guerra o operazioni assimilate",
-      "In tempo di pace all’estero"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Qual è un esempio di reato contro la disciplina?",
-    "answers": [
-      "Diserzione",
-      "Spionaggio",
-      "Insubordinazione",
-      "Vilipendio"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Cosa comporta la degradazione nel CPMP?",
-    "answers": [
-      "Licenziamento",
-      "Sospensione temporanea",
-      "Perdita definitiva della qualità di militare",
-      "Retrogradazione simbolica"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Chi giudica in primo grado i reati militari in tempo di pace?",
-    "answers": [
-      "Corte d’Appello",
-      "Tribunale Militare",
-      "Corte dei Conti",
-      "T.A.R."
+      "Escluso i corpi di spedizione all’estero",
+      "Assoggettato al C.P.M.G. anche i corpi di spedizione all’estero e il personale di comando/controllo di supporto in patria",
+      "Abolito la pena dell’ergastolo",
+      "Soppresso i reati contro la fedeltà"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Il reato di vilipendio colpisce:",
+    "question": "Una differenza generale tra CPMP e CPMG è:",
     "answers": [
-      "La bandiera",
-      "Il codice etico",
-      "L'onore della Forza Armata",
-      "L’equipaggiamento"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Cosa si intende per 'inosservanza della consegna'?",
-    "answers": [
-      "Una dimenticanza",
-      "Una violazione di ordini specifici di guardia o sorveglianza",
-      "Una negligenza tecnica",
-      "Un errore procedurale"
+      "Riduzione delle pene in guerra",
+      "Inasprimento delle pene in guerra e previsione di particolari reati",
+      "Assenza di ergastolo in guerra",
+      "Stesse pene e stessi reati"
     ],
     "correctIndex": 1
   },
   {
-    "question": "L’insubordinazione si verifica quando:",
+    "question": "Nel C.P.M.G. è possibile:",
     "answers": [
-      "Il militare è assente",
-      "Si rifiuta un ordine",
-      "Si aggredisce verbalmente/fisicamente un superiore",
-      "Si chiede un cambio mansione"
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "La legittima difesa è:",
-    "answers": [
-      "Una pena",
-      "Una causa di non punibilità",
-      "Un illecito minore",
-      "Una procedura"
+      "Solo ammenda",
+      "Pena dell’ergastolos",
+      "Solo arresto",
+      "Solo sanzione disciplinare"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Il Codice Penale Militare di Pace si applica:",
+    "question": "Tra i reati tipici del C.P.M.G. rientrano:",
     "answers": [
-      "Solo all’estero",
-      "Solo ai superiori",
-      "In tempo di pace in territorio nazionale",
-      "Solo a ufficiali"
+      "Assenteismo e ferie",
+      "Disfattismo, sedizione e codardia",
+      "Smarrimento tesserino",
+      "Ricettazione civile"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L’art. 1 C.P.M.P. stabilisce che la legge penale militare si applica:",
+    "answers": [
+      "Solo ai militari in servizio effettivo",
+      "Ai militari in servizio alle armi e a quelli considerati tali",
+      "Solo agli ufficiali",
+      "Solo ai volontari"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Sono militari in servizio:",
+    "answers": [
+      "Solo in missione all’estero",
+      "I cittadini alle armi dalla presentazione fino al congedo illimitato/assoluto",
+      "Solo in ferma prefissata",
+      "Solo di carriera"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Sono considerati in servizio anche:",
+    "answers": [
+      "Sospesi dall’impiego, in aspettativa, arbitrariamente assenti; detenuti in carcere militare per reati militari",
+      "Congedati illimitati senza reati",
+      "Personale civile",
+      "Appartenenti a protezione civile"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Per l’art. 37 CPMP costituisce reato militare:",
+    "answers": [
+      "Solo ciò che viola il codice penale comune",
+      "Qualsiasi violazione della legge penale militare",
+      "Ogni illecito disciplinare",
+      "Solo i reati di guerra"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il reato esclusivamente militare è:",
+    "answers": [
+      "Sempre anche comune",
+      "Non previsto dal codice comune e lede interessi esclusivamente militari (es. diserzione)",
+      "Solo contro il patrimonio",
+      "Solo contro la persona"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il reato obiettivamente militare è:",
+    "answers": [
+      "Solo militare",
+      "Previsto anche dal codice comune e lede indirettamente interessi militari (es. furto, truffa)",
+      "Solo disciplinare",
+      "Un illecito amministrativo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "È imputabile chi:",
+    "answers": [
+      "È privo di capacità",
+      "Ha capacità di intendere e di volere e coscienza/volontà del fatto",
+      "Ha più di 21 anni",
+      "È militare di carriera"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il reato doloso si ha quando:",
+    "answers": [
+      "L’evento non è voluto",
+      "L’evento è previsto e voluto dal soggetto",
+      "Deriva da caso fortuito",
+      "Deriva da imperizia senza volontà"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il reato colposo si ha quando l’evento:",
+    "answers": [
+      "È voluto",
+      "Non è voluto e deriva da negligenza/imprudenza/imperizia",
+      "È più grave di quello voluto",
+      "È di guerra"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il reato preterintenzionale si ha quando:",
+    "answers": [
+      "Non vi è evento",
+      "L’evento è meno grave",
+      "Deriva un evento più grave di quello voluto",
+      "È commesso senza coscienza"
     ],
     "correctIndex": 2
+  },
+  {
+    "question": "Tra le cause soggettive di non punibilità rientra:",
+    "answers": [
+      "Legittima difesa",
+      "Caso fortuito o forza maggiore (es. ubriachezza non volontaria)",
+      "Stato di necessità sempre",
+      "Pena accessoria"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Tra le cause oggettive di non punibilità rientra:",
+    "answers": [
+      "Esercizio di un diritto e adempimento di un dovere/ordine legittimo",
+      "Minore età",
+      "Infermità di mente",
+      "Stupefazione cronica"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Le cause di non imputabilità includono:",
+    "answers": [
+      "Minore età, infermità di mente, sordomutismo (per alcuni reati), intossicazione cronica, ubriachezza/stupefazione",
+      "Solo ubriachezza volontaria",
+      "Solo minore età",
+      "Solo infermità"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Tra le specie di ubriachezza il codice distingue:",
+    "answers": [
+      "Solo cronica",
+      "Accidentale, volontaria/colposa, preordinata, abituale, cronica",
+      "Solo accidentale e volontaria",
+      "Solo preordinata"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Un’aggravante tipica del reato militare è:",
+    "answers": [
+      "Aver agito con paura",
+      "Aver agito nonostante dovere di esporsi al pericolo, rango/comando, uso armi di dotazione, in servizio",
+      "Aver confessato",
+      "Aver restituito il maltolto"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Altra aggravante è:",
+    "answers": [
+      "Fatto alla presenza di 3 o più militari o in circostanze di pubblico scandalo; commesso all’estero o in uniforme",
+      "Fatto in caserma",
+      "Fatto in Italia",
+      "Fatto fuori servizio"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Un’attenuante prevista è:",
+    "answers": [
+      "Eccesso di zelo o provocazione",
+      "Aver agito con armi",
+      "Essere ufficiale",
+      "Essere in servizio"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L’attenuante per i militari con meno di 30 giorni di servizio si applica:",
+    "answers": [
+      "A tutti i reati",
+      "Solo ai reati esclusivamente militari",
+      "Solo ai reati comuni",
+      "Solo ai reati contro la persona"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Quanto alle fasi del reato, esso può essere:",
+    "answers": [
+      "Latente o manifesto",
+      "Tentato o consumato",
+      "Eventuale o necessario",
+      "Colposo o doloso"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La pena è:",
+    "answers": [
+      "Una sanzione privata",
+      "Una sanzione pubblica inflitta dallo Stato al colpevole",
+      "Una misura disciplinare",
+      "Un risarcimento civile"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La reclusione militare è:",
+    "answers": [
+      "Da 1 mese a 24 anni (fino a 30 con aggravanti), in stabilimento militare con obbligo di lavoro non retribuito",
+      "Solo arresto in caserma",
+      "Sempre ergastolo",
+      "Solo per ufficiali"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Tra le pene principali rientrano:",
+    "answers": [
+      "Reclusione militare ed ergastolo",
+      "Multe e ammende",
+      "Sospensione",
+      "Degradazione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Tra le pene accessorie rientrano:",
+    "answers": [
+      "Ergastolo e reclusione",
+      "Degradazione, rimozione, sospensione dall’impiego/dal grado, pubblicazione sentenza",
+      "Ammenda",
+      "Misure cautelari"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La degradazione:",
+    "answers": [
+      "È temporanea",
+      "È pena accessoria più grave, perpetua, comporta perdita qualità di militare e allontanamento dalle FF.AA.",
+      "Non si applica alla leva",
+      "È per reclusione da 3 a 5 anni"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La rimozione:",
+    "answers": [
+      "Fa perdere la qualità di militare",
+      "È perpetua, fa perdere i gradi ma si conserva la qualità di militare",
+      "È temporanea",
+      "Si applica solo ai graduati di truppa"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La sospensione dall’impiego:",
+    "answers": [
+      "Si applica ai sottufficiali",
+      "Si applica agli ufficiali condannati a reclusione 1 mese–3 anni",
+      "È perpetua",
+      "Si applica solo in guerra"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La sospensione dal grado:",
+    "answers": [
+      "Per ufficiali",
+      "Per sottufficiali e graduati con reclusione 1 mese–3 anni",
+      "Per tutti i militari",
+      "Solo se ergastolo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La pubblicazione della sentenza di condanna:",
+    "answers": [
+      "È automatica in ogni condanna",
+      "È pena accessoria solo su richiesta del giudice e solo in caso di ergastolo (30 anni)",
+      "Si applica alle assoluzioni",
+      "È disciplinare"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Tra i reati contro la fedeltà rientra:",
+    "answers": [
+      "Alto tradimento",
+      "Truffa",
+      "Percosse",
+      "Ricettazione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "È alto tradimento il militare che:",
+    "answers": [
+      "Offende un inferiore",
+      "Attenta a integrità/Unità dello Stato, vita/libertà P.d.R., Costituzione/forma di governo; commette strage/saccheggio o sequestro a fini di terrorismo per attentare allo Stato",
+      "Abbandona il posto",
+      "Simula infermità"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Rientra tra i reati contro la fedeltà:",
+    "answers": [
+      "Vilipendio a Capo dello Stato, Repubblica, bandiera, Forze Armate",
+      "Allontanamento illecito",
+      "Falso in fogli di via",
+      "Ammutinamento"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "I reati contro la difesa militare (spionaggio) comprendono:",
+    "answers": [
+      "Procacciamento/comunicazione allo straniero di notizie segrete/riservate",
+      "Diffamazione",
+      "Percosse",
+      "Ricettazione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Tra i reati contro il servizio militare rientra:",
+    "answers": [
+      "Violata consegna della sentinella/guardia",
+      "Alto tradimento",
+      "Vilipendio",
+      "Falso in fogli di via"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La diserzione, secondo le slide, si integra quando il militare:",
+    "answers": [
+      "Si assenta 24 ore",
+      "Si allontana senza autorizzazione, rimane assente o non si presenta per 5 giorni consecutivi",
+      "Non risponde alla chiamata entro 12 ore",
+      "Cambia reparto"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La mancanza alla chiamata si configura quando il chiamato alle armi non si presenta entro:",
+    "answers": [
+      "5 giorni; richiamato 3 giorni; per addestramento 8 giorni successivi alla chiamata",
+      "24 ore; 48 ore; 72 ore",
+      "10 giorni per tutti",
+      "7 giorni; 7 giorni; 7 giorni"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Tra i reati contro la disciplina rientra:",
+    "answers": [
+      "Disubbidienza",
+      "Ricettazione",
+      "Falso",
+      "Truffa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La rivolta è:",
+    "answers": [
+      "Reato individuale",
+      "Reato di 4 o più militari in servizio armato che rifiutano/omettono/ritardano di obbedire a un ordine del superiore",
+      "Una sanzione disciplinare",
+      "Un illecito civile"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L’ammutinamento si ha quando 4 o più militari:",
+    "answers": [
+      "Si assentano",
+      "Rifiutano/omettono di obbedire o presentano simultaneamente domanda/esposto/reclamo",
+      "Si addormentano in servizio",
+      "Comm esso da sentinella"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L’insubordinazione si ha quando il militare:",
+    "answers": [
+      "Offende un pari grado",
+      "Uccide o usa violenza/minaccia/ingiuria verso un superiore in sua presenza",
+      "Abbandona il posto",
+      "Viola consegna"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L’abuso d’autorità consiste in violenza/minaccia/ingiuria/offesa da parte di:",
+    "answers": [
+      "Inferiore verso superiore",
+      "Superiore verso inferiore",
+      "Pari grado",
+      "Civile verso militare"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il peculato militare è commesso dal militare che:",
+    "answers": [
+      "Sottrae beni di privati",
+      "Avendo possesso per ragioni d’ufficio di denaro/cose dell’Amministrazione se ne appropria",
+      "Falsifica foglio di via",
+      "Percuote un pari grado"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La malversazione (nelle slide) riguarda l’appropriazione di:",
+    "answers": [
+      "Beni dell’Amministrazione",
+      "Beni di altri militari avuti per ragioni d’ufficio",
+      "Beni di privati",
+      "Beni di enti civili"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il falso in fogli di licenza/via/permesse consiste nel:",
+    "answers": [
+      "Solo uso di falso",
+      "Formare un falso atto o farne dolosamente uso",
+      "Solo appropriazione di moduli",
+      "Solo omissione"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Le percosse puniscono il militare che:",
+    "answers": [
+      "Offende un superiore",
+      "Percuote un altro militare di pari grado",
+      "Diffama un reparto",
+      "Truffa l’Amministrazione"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L’ingiuria (nel testo delle slide) punisce:",
+    "answers": [
+      "Offesa all’onore/decoro di altro militare presente o con comunicazioni/scritti",
+      "Solo minacce",
+      "Solo violenza",
+      "Solo diffamazione a stampa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La diffamazione (nelle slide) punisce:",
+    "answers": [
+      "Offesa alla reputazione comunicando con più persone/mezzi di pubblicità; anche contro un corpo/ente militare",
+      "Offesa in presenza",
+      "Solo verso superiori",
+      "Solo in forma anonima"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La truffa militare consiste nel:",
+    "answers": [
+      "Indurre in errore con artifici per procurarsi profitto con danno di altro militare o dell’Amministrazione",
+      "Sottrarre beni da caserma senza inganno",
+      "Usare documenti falsi",
+      "Percuotere un pari grado"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L’appropriazione indebita (nelle slide) punisce chi:",
+    "answers": [
+      "Si appropria di denaro/cosa mobile di altro militare o Amministrazione di cui abbia possesso a qualsiasi titolo",
+      "Ruba con violenza",
+      "Acquista beni rubati",
+      "Danneggia opere militari"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La ricettazione (nelle slide) punisce chi:",
+    "answers": [
+      "Ricicla denaro",
+      "Acquista/riceve/occulta cose provenienti da qualsiasi reato militare, o si intromette nel farli acquistare/occultare",
+      "Furto in abitazione",
+      "Appropriazione di beni dello Stato"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In tempo di pace operano:",
+    "answers": [
+      "Tribunali ordinari",
+      "Solo tribunali militari",
+      "Corti marziali alleate",
+      "Consigli di disciplina"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Per i reati militari commessi all’estero è competente:",
+    "answers": [
+      "Tribunale militare di Napoli",
+      "Tribunale militare di Roma",
+      "Corte militare d’Appello",
+      "Cassazione"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La richiesta di procedimento ex art. 260 CPMP consente al Comandante di Corpo di:",
+    "answers": [
+      "Punire penalmente reati gravi",
+      "Mantenere fatti di lieve entità (pena max ≤ 6 mesi) nell’ambito disciplinare, comminando sanzione di corpo",
+      "Non segnalare mai i reati",
+      "Assolvere"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "I tribunali militari di 1° grado sono:",
+    "answers": [
+      "4 senza competenza territoriale",
+      "8 con competenza territoriale; per l’estero competente Roma",
+      "12 regionali",
+      "Solo a Roma"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La Corte militare d’Appello:",
+    "answers": [
+      "Ha sede a Milano",
+      "Ha sede a Roma con 2 sezioni distaccate a Verona e Napoli",
+      "È di 3 membri",
+      "Giudica in primo grado"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La Cassazione:",
+    "answers": [
+      "Giudica nel merito",
+      "Esprime giudizi di mera legittimità",
+      "Nomina i giudici militari",
+      "Decide sanzioni disciplinari"
+    ],
+    "correctIndex": 1
   }
 ]

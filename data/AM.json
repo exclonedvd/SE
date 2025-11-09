@@ -1,202 +1,2132 @@
 [
   {
-    "question": "L’Italia è:",
+    "question": "Quale articolo cita espressamente sostegno a famiglia, maternità, infanzia e gioventù?",
     "answers": [
-      "Monarchia costituzionale.",
-      "Repubblica parlamentare dal 1946.",
-      "Repubblica presidenziale.",
-      "Stato federale."
+      "Art. 29",
+      "Art. 31",
+      "Art. 32",
+      "Art. 37"
     ],
     "correctIndex": 1
   },
   {
-    "question": "La bandiera italiana è normata da:",
+    "question": "L’art. 31 prevede, tra l’altro, misure economiche con particolare riguardo a:",
     "answers": [
-      "Art. 11 Cost.",
-      "Art. 12 Cost.",
-      "Art. 1 Cost.",
-      "Statuto Albertino."
+      "Famiglie con reddito basso",
+      "Famiglie numerose",
+      "Famiglie monoparentali",
+      "Famiglie con disabili"
     ],
     "correctIndex": 1
   },
   {
-    "question": "L’emblema della Repubblica include:",
+    "question": "Il Dipartimento per le politiche della famiglia è una struttura di supporto che:",
     "answers": [
-      "Alloro e corona reale.",
-      "Ulivo, quercia, stella, ruota dentata.",
-      "Spiga e falce.",
-      "Aquila e scudo sabaudo."
+      "Amministra scuole militari",
+      "Promuove e raccorda le azioni di Governo in favore della famiglia",
+      "Gestisce pensioni militari",
+      "Sovrintende alle Regioni"
     ],
     "correctIndex": 1
   },
   {
-    "question": "L’inno nazionale è:",
+    "question": "Scopo centrale del Dipartimento è garantire:",
     "answers": [
-      "Fratelli d’Italia (Il Canto degli Italiani).",
-      "Va, pensiero.",
-      "La Marsigliese.",
-      "Giovinezza."
+      "La tutela dei diritti della famiglia in tutte le sue componenti",
+      "La sola tutela della maternità",
+      "La gestione degli asili nido militari",
+      "La disciplina del personale civile"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Il giuramento militare impegna a:",
+    "question": "Chi stabilisce la misura della retta annuale?",
     "answers": [
-      "Obbedire al Governo.",
-      "Difendere Patria, istituzioni democratiche e Costituzione.",
-      "Solo l’AM.",
-      "La NATO."
+      "Capo di SMD",
+      "Ministro Difesa di concerto con MEF",
+      "Parlamento con DDL",
+      "Comandante di Corpo"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Un sostegno alla famiglia del militare nel COM è:",
+    "question": "Chi ha diritto alla retta intera gratuita?",
     "answers": [
-      "Art. 1836 Fondo casa.",
-      "Art. 1 Statuto.",
-      "Art. 32 c.c.",
-      "Art. 2087 c.c."
+      "Figli di ufficiali",
+      "Orfani di guerra/equiparati e orfani di dipendenti militari/civili deceduti per causa di servizio",
+      "Tutti gli orfani",
+      "Figli di personale civile delle Regioni"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Mezza retta gratuita è prevista per i figli di:",
+    "answers": [
+      "Qualsiasi militare in servizio",
+      "Decorati OMdI o MOVM",
+      "Docenti universitari",
+      "Militari in ferma prefissata"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Tra i beneficiari di mezza retta rientrano i figli di mutilati/invalidi di guerra:",
+    "answers": [
+      "Categorie tabella A (prime quattro)",
+      "Qualsiasi invalido civile",
+      "Solo categoria 8^",
+      "Solo invalidi del lavoro"
     ],
     "correctIndex": 0
   },
   {
-    "question": "La data di approvazione della Costituzione è:",
+    "question": "Secondo l’art. 1493, al personale militare si applica:",
     "answers": [
-      "1° gennaio 1948.",
-      "22 dicembre 1947 (in vigore dal 1° gennaio 1948).",
-      "2 giugno 1946.",
-      "25 aprile 1945."
+      "Normativa distinta da PA",
+      "Normativa vigente per PA tenendo conto dello status militare",
+      "Solo codice civile",
+      "Solo norme NATO"
     ],
     "correctIndex": 1
   },
   {
-    "question": "La Regia Aeronautica nasce nel:",
+    "question": "Per personale femminile in ferma prefissata in gravidanza non impiegabile:",
     "answers": [
-      "1911",
-      "1923",
-      "1943",
-      "1909"
+      "Congedo ordinario",
+      "Licenza straordinaria fino all’inizio maternità",
+      "Dispensa senza trattamento",
+      "Trasferimento d’autorità"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Le stellette militari sono ispirate a:",
+    "question": "L’indennità di missione all’estero è prevista da:",
     "answers": [
-      "Stella d’Italia.",
-      "Stella polare.",
-      "Stella cometa.",
-      "Stella alpina."
+      "D.Lgs. 66/2010 art. 1807",
+      "Regio decreto 3 giugno 1926 n. 941",
+      "Legge 78/1983",
+      "DPR 90/2010"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Se la missione è ≥ 6 mesi è dovuto:",
+    "answers": [
+      "Rimborso libri scolastici",
+      "Rimborso di cui alla lett. c) art. 1808 c.1",
+      "Bonus affitto",
+      "Rimborso intero trasloco in Italia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Se la missione è inizialmente ≥ 15 mesi, è dovuto anche:",
+    "answers": [
+      "Rimborso viaggio/trasporto bagaglio famiglia entro 10 mesi",
+      "Rimborso auto",
+      "Rimborso scuola privata",
+      "Indennità speciale unica"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Il motto dell’AM è:",
+    "question": "Se la destinazione all’estero > 1 anno (art. 1808 c.4):",
     "answers": [
-      "Per aspera ad astra.",
-      "Virtute Siderum Tenus.",
-      "Volare oh oh.",
-      "E pluribus unum."
+      "Vietato il trasferimento famiglia",
+      "Ammesso trasferire famiglia con rimborso viaggi e bagagli entro limiti",
+      "Solo il militare ha rimborso",
+      "Si perdono tutte le indennità"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Francesco Baracca è associato a:",
+    "question": "Finalità dell’art. 1829 (benessere) è:",
     "answers": [
-      "Il volo su Vienna.",
-      "Il cavallino rampante e 34 vittorie.",
-      "La prima traversata atlantica.",
-      "La fondazione dell’AM."
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Arturo Ferrarin è noto per:",
-    "answers": [
-      "Raid Roma–Tokyo 1920.",
-      "Comando della 91ª Squadriglia.",
-      "Crociere atlantiche.",
-      "Primo volo 1903."
+      "Incremento produttività e qualità dei servizi",
+      "Riduzione organici",
+      "Solo ricreazione",
+      "Solo assistenza psicologica"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Il simbolo della coccarda tricolore appartiene a:",
+    "question": "Art. 1835 prevede che l’Amministrazione possa:",
     "answers": [
-      "Stemma repubblicano.",
-      "Aeronautica Militare.",
-      "Carabinieri.",
-      "Marina Mercantile."
+      "Istituire solo asili nido interni",
+      "Rimborsare anche parzialmente rette di asili nido nei limiti di bilancio",
+      "Pagare baby-sitter senza limiti",
+      "Erogare voucher universali"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Italo Balbo:",
+    "question": "Il “Fondo casa” (art. 1836) è un fondo di garanzia per:",
     "answers": [
-      "Fu Capo di Stato Maggiore della Difesa.",
-      "Organizzò crociere aeree atlantiche; figura politica del fascismo.",
-      "Fu pilota del raid Roma–Tokyo.",
-      "Inventò la mongolfiera."
+      "Acquisto/costruzione prima casa personale Difesa",
+      "Seconda casa",
+      "Auto di servizio",
+      "Affitti brevi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il Fondo casa è alimentato da:",
+    "answers": [
+      "Imposte comunali",
+      "Riassegnazione allo Stato di parte dei canoni alloggi di servizio",
+      "Fondi UE",
+      "Donazioni"
     ],
     "correctIndex": 1
   },
   {
-    "question": "La Sezione Aerostatica del Genio nasce nel:",
+    "question": "Art. 1837 estende le borse di studio a favore di:",
     "answers": [
-      "1783",
-      "1884",
-      "1909",
-      "1920"
+      "Solo figli personale in servizio",
+      "Vittime del terrorismo e orfani/figli delle medesime",
+      "Solo personale civile",
+      "Studenti con media ≥28"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Il primo volo dei fratelli Wright è del:",
+    "question": "SEGREDIFESA ed. 2002–2003 riguarda:",
+    "answers": [
+      "Codice deontologico",
+      "Orario di lavoro e compenso straordinario del personale militare",
+      "Regole d’ingaggio",
+      "Uniformi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La circolare PERSOMIL 12/02/2015 è un compendio su:",
+    "answers": [
+      "Appalti",
+      "Tutela maternità/paternità e congedi per eventi particolari",
+      "Trasporti",
+      "Pensioni"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il Regolamento SSAM Ed. 2022 richiama all’art. 6:",
+    "answers": [
+      "Solo norme interne",
+      "Applicazione normativa PA su maternità/paternità e rinvio ad art. 1494–1495 COM e art. 598 c.5 TUOM",
+      "Esclusione delle norme PA",
+      "Solo norme UE"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La “politica di sostegno alle famiglie” è:",
+    "answers": [
+      "Un sussidio economico fisso",
+      "Un complesso di attività per creare una rete di supporto al militare e alla famiglia",
+      "Un regolamento disciplinare",
+      "Una direttiva sanitaria"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Tra le problematiche considerate NON rientra:",
+    "answers": [
+      "Invio in OFCN",
+      "Infortuni/ferite in attività operative/addestrative",
+      "Decesso del personale",
+      "Gestione ferie estive"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Lo scopo della politica è:",
+    "answers": [
+      "Ridurre addestramento",
+      "Rendere consapevole il militare degli strumenti di sostegno, garantendone l’efficienza",
+      "Sostituire norme di legge",
+      "Solo fornire sussidi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Le linee guida generali prevedono di:",
+    "answers": [
+      "Limitare iniziative ricreative",
+      "Sviluppare iniziative di benessere, culturali e assistenziali e collaborazione esterna",
+      "Evitare rapporti con famiglie",
+      "Aumentare solo la disciplina"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il Comandante deve nominare:",
+    "answers": [
+      "Ufficiale Consigliere",
+      "Ufficiale Revisore",
+      "Ufficiale Tecnico",
+      "Ufficiale Stenografo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Tra i compiti: raccogliere problematiche familiari tramite Ufficiale Consigliere/ORP e:",
+    "answers": [
+      "Ridurre comunicazioni",
+      "Valutare riunioni informative periodiche e pubblicizzare iniziative",
+      "Gestire contenzioso tributario",
+      "Autorizzare appalti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In caso di notizie allarmanti su OFCN, l’Ufficiale Consigliere contatta:",
+    "answers": [
+      "MAECI",
+      "URP al numero verde 800482999 per escludere il coinvolgimento",
+      "Prefettura",
+      "Questura"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Tra le iniziative: favorire il supporto di:",
+    "answers": [
+      "Cappellano militare",
+      "Sindacati civili",
+      "UNICEF",
+      "Protezione Civile"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Le strutture assistenziali/ricreative vanno usate:",
+    "answers": [
+      "Senza limiti",
+      "Nel rispetto di sostenibilità finanziaria/logistica e compatibilità con esigenze d’istituto",
+      "Solo per militari single",
+      "Solo in orario di servizio"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il Comandante deve promuovere:",
+    "answers": [
+      "Attività culturali/ricreative per famiglie di militari in OFCN",
+      "Solo attività sportive agonistiche",
+      "Eventi aperti al pubblico",
+      "Nessuna attività"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il Comandante deve divulgare:",
+    "answers": [
+      "Convenzioni dell’Ente e della F.A. utili ai familiari",
+      "Solo ordini del giorno",
+      "Bilanci interni",
+      "Delibere comunali"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Per personale femminile in istruzione e in gravidanza, il Regolamento SSAM rinvia a:",
+    "answers": [
+      "Art. 1494–1495 COM e art. 598, c.5 TUOM",
+      "Art. 31 Cost. e basta",
+      "Solo normativa interna",
+      "Nessuna norma"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Secondo l’art. 6 SSAM, al personale militare si applica:",
+    "answers": [
+      "Solo norme interne",
+      "Normativa PA su maternità/paternità e provvedimenti di concertazione",
+      "Solo norme UE",
+      "Solo codice civile"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L'Italia è:",
+    "answers": [
+      "Una repubblica parlamentare unitaria",
+      "Una monarchia costituzionale",
+      "Una federazione di stati",
+      "Una repubblica presidenziale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La capitale d'Italia è:",
+    "answers": [
+      "Milano",
+      "Roma",
+      "Torino",
+      "Napoli"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La popolazione italiana è di circa:",
+    "answers": [
+      "49 milioni",
+      "54 milioni",
+      "59 milioni",
+      "64 milioni"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Gli Stati enclavi nella Repubblica Italiana sono:",
+    "answers": [
+      "Città del Vaticano e San Marino",
+      "Liechtenstein e Monaco",
+      "Andorra e San Marino",
+      "Monaco e Città del Vaticano"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La penisola italiana è circondata dai mari:",
+    "answers": [
+      "Ligure, Tirreno, Ionio, Adriatico",
+      "Egeo, Ionio, Tirreno, Nero",
+      "Baltico, Mare del Nord, Atlantico",
+      "Egeo, Adriatico, Baltico"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'articolo che definisce il Tricolore nella Costituzione è:",
+    "answers": [
+      "Art. 1",
+      "Art. 12",
+      "Art. 11",
+      "Art. 55"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Le bande del Tricolore sono:",
+    "answers": [
+      "Orizzontali",
+      "Verticali di uguali dimensioni",
+      "Oblique",
+      "Verticali ma di diversa larghezza"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Le proporzioni ufficiali della bandiera sono:",
+    "answers": [
+      "1:2",
+      "3:5",
+      "2:3",
+      "5:8"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il verde, bianco e rosso sono ordinati:",
+    "answers": [
+      "Rosso-Bianco-Verde dall’asta",
+      "Verde-Bianco-Rosso dall’asta",
+      "Bianco-Rosso-Verde dall’asta",
+      "Rosso-Verde-Bianco dall’asta"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il Tricolore italiano trae ispirazione storica da:",
+    "answers": [
+      "La bandiera spagnola",
+      "La bandiera francese rivoluzionaria",
+      "La bandiera austriaca",
+      "La bandiera inglese"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il primo tricolore italiano del 1796 fu bandiera di:",
+    "answers": [
+      "Regno di Sardegna",
+      "Legione Lombarda",
+      "Repubblica Romana 1849",
+      "Regno delle Due Sicilie"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Le tonalità del Tricolore sono state fissate con atti del:",
+    "answers": [
+      "2002 e 2004",
+      "1946 e 1947",
+      "1965 e 1970",
+      "1992 e 1994"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Tra i documenti che definiscono i colori figura:",
+    "answers": [
+      "Circolare PCM 2 giugno 2004",
+      "DL 81/2008",
+      "Legge 181/2017",
+      "DPR 90/2010"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il Pantone tessile del rosso è:",
+    "answers": [
+      "18-1662 TCX (Flame Scarlet)",
+      "11-0601 TCX (Bright White)",
+      "17-6153 TCX (Fern Green)",
+      "19-1764 TCX (Fiery Red)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'alzabandiera in ambito militare è effettuato:",
+    "answers": [
+      "A mezzogiorno",
+      "Alle prime luci dell’alba",
+      "Al tramonto",
+      "A discrezione del comandante"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L'alzabandiera avviene sulle note di:",
+    "answers": [
+      "La Marcia Reale",
+      "L’Inno alla Gioia",
+      "Il Canto degli Italiani",
+      "La Leggenda del Piave"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Nell’emblema, le foglie di ulivo rappresentano:",
+    "answers": [
+      "La forza",
+      "La pace",
+      "La giustizia",
+      "La libertà"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Nell’emblema, la quercia simboleggia:",
+    "answers": [
+      "La pace",
+      "La fede",
+      "La forza e la resistenza",
+      "La prosperità"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La ruota dentata richiama:",
+    "answers": [
+      "Il lavoro (art. 1 Cost.)",
+      "La magistratura",
+      "La sovranità popolare",
+      "La difesa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il nastro rosso riporta la scritta:",
+    "answers": [
+      "REGNO D’ITALIA",
+      "REPUBBLICA ITALIANA",
+      "ITALIA",
+      "UNITÀ D’ITALIA"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Lo stendardo presidenziale attuale è ispirato a una bandiera:",
+    "answers": [
+      "Della Repubblica Italiana 1802–1805",
+      "Del Regno d’Italia 1861",
+      "Della Repubblica Romana 1849",
+      "Del Regno di Sardegna"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La bordatura d’azzurro dello stendardo simboleggia:",
+    "answers": [
+      "La Marina",
+      "Le Forze Armate",
+      "L’UE",
+      "La Polizia di Stato"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La Costituzione fu approvata dall’Assemblea Costituente il:",
+    "answers": [
+      "2 giugno 1946",
+      "22 dicembre 1947",
+      "27 dicembre 1947",
+      "1 gennaio 1948"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Entrò in vigore il:",
+    "answers": [
+      "25 aprile 1945",
+      "2 giugno 1946",
+      "1 gennaio 1948",
+      "1 gennaio 1950"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Gli articoli sono:",
+    "answers": [
+      "100 + 10 disp. finali",
+      "139 + 18 disposizioni transitorie e finali",
+      "120 senza disposizioni",
+      "150 + 12 principi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "I Principi fondamentali vanno dall’articolo:",
+    "answers": [
+      "1 al 12",
+      "13 al 54",
+      "55 al 139",
+      "I al XVIII"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La Parte prima riguarda:",
+    "answers": [
+      "Ordinamento della Repubblica",
+      "Diritti e doveri dei cittadini",
+      "Disposizioni transitorie",
+      "Organi costituzionali"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La Costituzione è detta “rigida” perché:",
+    "answers": [
+      "È molto lunga",
+      "Non può essere modificata",
+      "Prevede un procedimento aggravato e controllo della Corte",
+      "È scritta in latino"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "L’art. 1 afferma che l’Italia è:",
+    "answers": [
+      "Repubblica aristocratica",
+      "Repubblica democratica fondata sul lavoro",
+      "Monarchia parlamentare",
+      "Repubblica presidenziale"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L’art. 4 riconosce:",
+    "answers": [
+      "Il diritto alla proprietà",
+      "Il diritto al lavoro e il dovere di contribuire al progresso",
+      "Il diritto di sciopero",
+      "Il diritto alla salute"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L’art. 11:",
+    "answers": [
+      "Riconosce il diritto di guerra preventiva",
+      "Ripudia la guerra d’offesa e consente limitazioni di sovranità per la pace",
+      "Vieta ogni intervento all’estero",
+      "Afferma la neutralità permanente"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L’art. 27 comma 4:",
+    "answers": [
+      "Introduce la pena di morte",
+      "Esclude la pena di morte",
+      "Introduce ergastolo obbligatorio",
+      "Non tratta di pene"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L’art. 48 stabilisce che il voto è:",
+    "answers": [
+      "Facoltativo e pubblico",
+      "Personale, eguale, libero e segreto",
+      "Obbligatorio e palese",
+      "Riservato ai soli maschi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L’art. 52 afferma:",
+    "answers": [
+      "Il servizio militare sempre obbligatorio per tutti",
+      "La difesa della Patria è sacro dovere del cittadino",
+      "Il divieto di forze armate",
+      "La leva femminile obbligatoria"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "I tre poteri dello Stato sono attribuiti a:",
+    "answers": [
+      "Presidente, Prefetti, Sindaci",
+      "Parlamento, Governo, Magistratura",
+      "Regioni, Province, Comuni",
+      "Esercito, Marina, Aeronautica"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il Parlamento esercita il potere:",
+    "answers": [
+      "Esecutivo",
+      "Giudiziario",
+      "Legislativo",
+      "Costituente"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il Governo esercita il potere:",
+    "answers": [
+      "Legislativo",
+      "Giudiziario",
+      "Esecutivo",
+      "Di controllo"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La Magistratura esercita il potere:",
+    "answers": [
+      "Amministrativo",
+      "Giudiziario",
+      "Esecutivo",
+      "Consultivo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il Ministro della Difesa:",
+    "answers": [
+      "È vertice politico e massimo organo gerarchico del Dicastero",
+      "Comanda operativamente gli stormi",
+      "Non partecipa a organismi internazionali",
+      "Non emana direttive"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Lo Stato Maggiore della Difesa:",
+    "answers": [
+      "Dipende dal MAECI",
+      "È regolato dal D.Lgs. 66/2010 (COM)",
+      "È organo delle Regioni",
+      "È un corpo armato"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Un comando interforze elencato è:",
+    "answers": [
+      "COFS (forze speciali)",
+      "CNSA",
+      "ENAC",
+      "AISCAT"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il COVI è:",
+    "answers": [
+      "Comando Operativo di Vertice Interforze",
+      "Consiglio Operativo di Vigilanza Interna",
+      "Corpo Operatori Volontari Interforze",
+      "Centro Operativo Volo Italia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Le Forze Armate sono costituite da:",
+    "answers": [
+      "Esercito, Marina, Aeronautica, Carabinieri",
+      "Esercito, Marina, Guardia Costiera",
+      "Esercito, Guardia di Finanza, Polizia",
+      "Marina, Aeronautica, Vigili del Fuoco"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La Guardia di Finanza è:",
+    "answers": [
+      "Corpo militare con funzioni di polizia economico-finanziaria",
+      "Parte della Polizia Municipale",
+      "Solo forza di polizia civile",
+      "Corpo della Protezione Civile"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Un compito prioritario delle FF.AA. è:",
+    "answers": [
+      "Solo ordine pubblico",
+      "Difesa dello Stato",
+      "Amministrazione della giustizia",
+      "Gestione dei trasporti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Una missione è:",
+    "answers": [
+      "Difesa degli interessi vitali e salvaguardia spazi euro-atlantici",
+      "Solo assistenza sanitaria",
+      "Costruzione di infrastrutture civili",
+      "Gestione del sistema scolastico"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La mission dell’Aeronautica è:",
+    "answers": [
+      "Solo supporto all’Esercito",
+      "Difendere Italia, sovranità e interessi con Forze Aeree pronte",
+      "Gestire l’aviazione civile",
+      "Garantire solo ricerca aerospaziale"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La vision proposta è essere una FA:",
+    "answers": [
+      "Di massa e generalista",
+      "Di eccellente qualità, equilibrata e proiettabile",
+      "Solo territoriale",
+      "Solo di difesa aerea"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A livello gerarchico la struttura si articola in:",
+    "answers": [
+      "Centrale, Intermedio, Periferico",
+      "Nazionale, Regionale, Comunale",
+      "Politico, Tecnico, Civile",
+      "Direttivo, Esecutivo, Consultivo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A livello funzionale le componenti sono:",
+    "answers": [
+      "Operativa, Logistica, Formativa, Territoriale",
+      "Politica, Civile, Tecnica",
+      "Operativa e Civile",
+      "Solo Operativa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Tra gli enti del livello centrale figura:",
+    "answers": [
+      "Stato Maggiore Aeronautica (SMA)",
+      "Comando di Brigata Locale",
+      "Prefettura",
+      "ENAV"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Tra gli enti del livello periferico figura:",
+    "answers": [
+      "Accademia Aeronautica",
+      "Ministero Economia",
+      "Parlamento",
+      "Consiglio di Stato"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Autore del testo del Canto degli Italiani:",
+    "answers": [
+      "Goffredo Mameli",
+      "Giuseppe Verdi",
+      "Ugo Foscolo",
+      "Giacomo Leopardi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Musica dell’Inno di Mameli:",
+    "answers": [
+      "Giovanni Paisiello",
+      "Michele Novaro",
+      "Nino Rota",
+      "Giacomo Puccini"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Anno di composizione:",
+    "answers": [
+      "1797",
+      "1847",
+      "1861",
+      "1946"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Nel 1946 l’Inno fu scelto come:",
+    "answers": [
+      "Inno regionale",
+      "Inno nazionale provvisorio",
+      "Inno della RSI",
+      "Inno europeo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La legge che nel 2017 lo ha reso inno de iure è:",
+    "answers": [
+      "Legge 181/2017",
+      "D.Lgs. 66/2010",
+      "L. 478/1946",
+      "DPR 90/2010"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il ritornello contiene il verso:",
+    "answers": [
+      "Stringiamci a coorte",
+      "Siam pronti alla vittoria",
+      "Italia, Italia",
+      "Roma caput mundi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "“Coorte” richiama:",
+    "answers": [
+      "Unità amministrativa",
+      "Unità militare romana",
+      "Confraternita religiosa",
+      "Corpo diplomatico"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il giuramento militare attuale è previsto da:",
+    "answers": [
+      "DPR 90/2010 (TUOM) art. 575",
+      "Legge 181/2017",
+      "Costituzione art. 12",
+      "D.Lgs. 81/2008"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La formula include l’impegno a:",
+    "answers": [
+      "Obbedire al sovrano",
+      "Essere fedele alla Repubblica e osservare Costituzione e leggi",
+      "Prestare servizio all’estero",
+      "Servire per 10 anni"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il giuramento collettivo viene:",
+    "answers": [
+      "Prestato senza bandiera",
+      "Prestato in piazza d’armi con truppa schierata",
+      "Svolto solo in aula",
+      "Senza banda o fanfara"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Nel giuramento individuale dei sergenti/graduati:",
+    "answers": [
+      "Si consegna temporaneamente la pistola al comandante",
+      "Si sfila senza armi",
+      "Si giura in borghese",
+      "Si usa la bandiera europea"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Le stellette militari sulle uniformi italiane sono:",
+    "answers": [
+      "Stelle a cinque punte",
+      "Stelle a sei punte",
+      "Scudi araldici",
+      "Frecce tricolori"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La Stella d’Italia, detta anche “Stellone”, simboleggia:",
+    "answers": [
+      "La sovranità popolare",
+      "Il fulgido destino dell’Italia",
+      "La fede religiosa",
+      "La potenza navale"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Un uso improprio delle stellette costituisce:",
+    "answers": [
+      "Reato penale",
+      "Mancanza disciplinare",
+      "Nessuna violazione",
+      "Solo illecito civile"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Tra i simboli dell’Aeronautica Militare NON rientra:",
+    "answers": [
+      "Bandiera di guerra",
+      "Stemma",
+      "Santa Patrona",
+      "Bandiera europea"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "La Santa Patrona dell’Aeronautica Militare è:",
+    "answers": [
+      "Madonna di Loreto",
+      "San Giorgio",
+      "Santa Barbara",
+      "San Michele"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La Bandiera di guerra dell’AM è custodita:",
+    "answers": [
+      "Al Vittoriano",
+      "A Palazzo Aeronautica (Sala delle Costellazioni)",
+      "Al Quirinale",
+      "Al Senato"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ogni movimento della Bandiera è preceduto da:",
+    "answers": [
+      "Salva di cannone",
+      "Tre squilli di attenti e saluto alla Bandiera",
+      "Marcia Reale",
+      "Silenzio fuori ordinanza"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Nelle cerimonie la Bandiera è accompagnata dalle note di:",
+    "answers": [
+      "Il Canto degli Italiani",
+      "La Marcia Reale",
+      "La Leggenda del Piave",
+      "Garibaldi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L’ordine dei colori della coccarda tricolore in WWI (1917-1918) fu invertito in:",
+    "answers": [
+      "Rosso-Bianco-Verde",
+      "Verde-Bianco-Rosso",
+      "Bianco-Rosso-Verde",
+      "Verde-Rosso-Bianco"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La coccarda tricolore fu ufficialmente soppressa:",
+    "answers": [
+      "9 luglio 1936",
+      "28 marzo 1923",
+      "25 gennaio 1971",
+      "1 gennaio 1926"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Dopo l’8 settembre 1943 la coccarda tricolore:",
+    "answers": [
+      "Non fu più usata",
+      "Ricominciò ad apparire sui velivoli italiani",
+      "Fu sostituita da una croce",
+      "Fu resa segreta"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Lo stemma dell’AM richiama soprattutto:",
+    "answers": [
+      "La guerra di Crimea",
+      "La Prima guerra mondiale e le tre specialità aeree",
+      "La Seconda guerra mondiale",
+      "Il Risorgimento"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il DPR che concesse l’attuale stemma è del:",
+    "answers": [
+      "17 ottobre 1920",
+      "25 gennaio 1971",
+      "28 marzo 1923",
+      "30 agosto 1925"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Lo scudo è:",
+    "answers": [
+      "A losanga",
+      "Sannitico inquartato (quattro parti)",
+      "Circolare",
+      "A capo di cavallo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Nel 1º quarto (d’oro) figura:",
+    "answers": [
+      "Grifo rosso",
+      "Cavallo alato azzurro con fiaccola (27ª)",
+      "Quadrifoglio verde",
+      "Leone di San Marco"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Nel 2º quarto (d’argento) figura:",
+    "answers": [
+      "Grifo rosso (91ª “Baracca”)",
+      "Leone marciano",
+      "Cavallo alato",
+      "Aquila bicipite"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nel 3º quarto (d’argento) figura:",
+    "answers": [
+      "Quadrifoglio verde (10ª Caproni)",
+      "Cavallino rampante",
+      "Leone alato",
+      "Serpente visconteo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nel 4º quarto (di porpora) figura:",
+    "answers": [
+      "Leone di San Marco con spada e libro chiuso (87ª “Serenissima”)",
+      "Leone con libro aperto",
+      "Grifone",
+      "Cavalcavia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il motto “Virtute Siderum Tenus” significa:",
+    "answers": [
+      "Valore fino agli abissi",
+      "Con valore verso le stelle",
+      "Con forza fino al mare",
+      "Gloria nei cieli"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il primo mezzo costruito dall’uomo in grado di volare fu:",
+    "answers": [
+      "Il deltaplano",
+      "L’aquilone (Cina, IV–III sec. a.C.)",
+      "Il dirigibile",
+      "L’aliante"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "I fratelli Montgolfier effettuarono il primo volo libero con aerostato il:",
+    "answers": [
+      "5 giugno 1783",
+      "21 novembre 1783",
+      "15 ottobre 1783",
+      "24 settembre 1852"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La prima ascensione umana (pallone frenato) avvenne a Parigi il:",
+    "answers": [
+      "21 novembre 1783",
+      "15 ottobre 1783",
+      "5 giugno 1783",
+      "31 luglio 1790"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Vincenzo Lunardi realizzò la prima ascensione aerostatica in Gran Bretagna il:",
+    "answers": [
+      "15 settembre 1784",
+      "21 novembre 1783",
+      "24 settembre 1852",
+      "15 maggio 1909"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il primo volo con dirigibile direzionabile avvenne il:",
+    "answers": [
+      "24 settembre 1852 (Parigi–Trappes)",
+      "17 dicembre 1903 (Kitty Hawk)",
+      "1909 (Manica)",
+      "1486 (Codice)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il primo volo dei Wright (Flyer) fu:",
+    "answers": [
+      "36 m in 12 s il 17/12/1903",
+      "100 m in 30 s il 17/12/1903",
+      "36 m in 12 s il 17/12/1904",
+      "1 km in 1 min il 1905"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Bleriot compì la trasvolata della Manica nel:",
     "answers": [
       "1903",
-      "1898",
-      "1911",
-      "1923"
+      "1905",
+      "1909",
+      "1911"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La prima scuola di volo militare italiana fu fondata a:",
+    "answers": [
+      "Guidonia",
+      "Centocelle (Roma)",
+      "Ghedi",
+      "Mirafiori"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il primo brevetto di pilota in Italia (1909) fu rilasciato a:",
+    "answers": [
+      "G. D’Annunzio",
+      "Mario Calderara",
+      "P. R. Piccio",
+      "Italo Balbo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Nel 1884 nasce presso il Genio la:",
+    "answers": [
+      "Sezione Dirigibili",
+      "Sezione Aerostatica/Servizio Aeronautico",
+      "Brigata Aeroplani",
+      "Scuola Caccia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il primo impiego operativo (aerostati/dirigibili/aerei) fu nella campagna:",
+    "answers": [
+      "D’Etiopia 1896",
+      "Di Libia 1911–1912",
+      "Di Grecia 1912–13",
+      "Di Spagna 1936–39"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "All’ingresso in guerra (1915) le forze aeree italiane disponevano di circa:",
+    "answers": [
+      "36 aerei",
+      "86 aerei",
+      "860 aerei",
+      "1.200 aerei"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Durante la Grande Guerra furono costruiti circa:",
+    "answers": [
+      "1.200 aerei",
+      "6.000 aerei",
+      "12.000 aerei",
+      "20.000 aerei"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Tra i raid più noti: Pola (1917) e:",
+    "answers": [
+      "Vienna (1918) guidato da D’Annunzio",
+      "Londra (1917)",
+      "Berlino (1918)",
+      "Parigi (1916)"
     ],
     "correctIndex": 0
   },
   {
-    "question": "La coccarda tricolore è:",
+    "question": "Tra gli assi italiani ricordati:",
     "answers": [
-      "Simbolo delle FS.",
-      "Simbolo aeronautico con cerchi verde-bianco-rosso.",
-      "Una medaglia al valore.",
-      "Parte dello stemma repubblicano."
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "La Madonna di Loreto è:",
-    "answers": [
-      "Patrona dell’AM.",
-      "Patrona della Marina.",
-      "Simbolo dell’Esercito.",
-      "Una base aerea."
+      "Baracca e Piccio",
+      "Agello e De Pinedo",
+      "Balbo e Ferrarin",
+      "Niutta e Faggioni"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Il raid Roma–Tokyo coprì circa:",
+    "question": "Le perdite della componente aerea nella WWI furono:",
     "answers": [
-      "1.800 km.",
-      "18.000 km.",
-      "180.000 km.",
-      "8.000 km."
+      "Circa 200 aviatori",
+      "Quasi 2.000 aviatori",
+      "Oltre 9.000 aviatori",
+      "3.500 dispersi"
     ],
     "correctIndex": 1
   },
   {
-    "question": "La bandiera di guerra dell’AM è:",
+    "question": "La Regia Aeronautica nacque con Regio decreto:",
     "answers": [
-      "Uno stendardo blu.",
-      "Il vessillo di reparto da combattimento.",
-      "La coccarda.",
-      "Il tricolore con scudo sabaudo."
+      "28 marzo 1923, n. 645",
+      "17 ottobre 1920",
+      "25 gennaio 1971",
+      "30 agosto 1925"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il Ministero dell’Aeronautica fu istituito il:",
+    "answers": [
+      "1 gennaio 1926",
+      "30 agosto 1925",
+      "28 marzo 1923",
+      "9 luglio 1936"
     ],
     "correctIndex": 1
+  },
+  {
+    "question": "Il 1º gennaio 1926 fu istituito:",
+    "answers": [
+      "Lo Stato Maggiore Aeronautica con Piccio Capo di SMA",
+      "La Pattuglia Acrobatica",
+      "La Reggia Aeronautica",
+      "L’ENAC"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il record mondiale di velocità su idrovolante a pistoni (709,202 km/h) fu di:",
+    "answers": [
+      "Mario De Bernardi (1926)",
+      "Francesco Agello (23/10/1934) su MC72",
+      "Arturo Ferrarin (1928)",
+      "Carlo Del Prete (1928)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il concorso per un moderno caccia portò in linea soprattutto il:",
+    "answers": [
+      "Fiat CR.42 biplano",
+      "Re.2005",
+      "Folgore MC.202",
+      "G.55"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "I primi monoplani italiani (G.50 e MC.200) erano:",
+    "answers": [
+      "Superiori agli inglesi",
+      "Inferiori ai coevi inglesi",
+      "Uguali ai tedeschi",
+      "Solo da addestramento"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Tra i limiti in Battaglia d’Inghilterra:",
+    "answers": [
+      "Abitacolo aperto e privo di radio",
+      "Autonomia eccessiva",
+      "Armamento pesante",
+      "Eccesso di velocità"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Dopo il fallimento SM.85, l’Italia richiese all’alleato:",
+    "answers": [
+      "Messerschmitt 262",
+      "Junkers 87 Stuka",
+      "Heinkel 111",
+      "Focke Wulf 190"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La portaerei “Aquila” (ex transatlantico Roma) al momento dell’armistizio era:",
+    "answers": [
+      "In servizio",
+      "Al 50%",
+      "Completata al 90%",
+      "Appena impostata"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Dopo l’8 settembre 1943, le unità al Sud operarono spesso con:",
+    "answers": [
+      "Luftwaffe",
+      "La Balcan Air Force",
+      "La Regia Marina",
+      "L’Armata Rossa"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Nel 1944 gli Alleati assegnarono ai reparti italiani:",
+    "answers": [
+      "P-39 e Spitfire, e Baltimore ai bombardieri",
+      "Bf 109 e Ju 88",
+      "P-51 e B-17",
+      "Hurricane e Lancaster"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Sottosegretario all’Aeronautica della RSI fu:",
+    "answers": [
+      "Italo Balbo",
+      "Ernesto Botto",
+      "Giuseppe Baylon",
+      "Arrigo Tessari"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il 1º Gruppo Caccia ANR fu riequipaggiato con:",
+    "answers": [
+      "Macchi MC.205",
+      "Reggiane Re.2001",
+      "Fiat G.50",
+      "F-104"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Dal 1944 i reparti caccia ANR transitarono su:",
+    "answers": [
+      "P-39",
+      "Bf 109 tedeschi",
+      "Spitfire",
+      "Hurricane"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il comandante Adriano Visconti:",
+    "answers": [
+      "Fu decorato in Russia",
+      "Morì a Milano nell’aprile 1945",
+      "Affondò la HMS Illustrious",
+      "Guidò il volo su Vienna"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Dal 1946 la Forza Armata si chiama:",
+    "answers": [
+      "Regia Aeronautica",
+      "Aeronautica Militare",
+      "Aviazione Italiana",
+      "Esercito Aereo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La legge dell’8 marzo 1958 riorganizzò:",
+    "answers": [
+      "Ruolo Servizi",
+      "Ruolo Naviganti",
+      "Ruolo Genio",
+      "Ruolo Sanitario"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Tra i velivoli postbellici: vittoria in ambito NATO per il:",
+    "answers": [
+      "F-104G",
+      "Fiat G.91",
+      "AMX",
+      "Eurofighter"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L’intercettore ognitempo entrato in servizio negli anni ’60 fu:",
+    "answers": [
+      "F-104",
+      "Tornado ADV",
+      "G.91Y",
+      "F-86K"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Fino al 1982 l’AM gestì anche:",
+    "answers": [
+      "La Guardia Costiera",
+      "Il controllo del traffico aereo nazionale",
+      "ENAV",
+      "La Polizia Aerea"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Dal 1998 il “Ruolo delle Armi” sostituisce definitivamente:",
+    "answers": [
+      "Ruolo Naviganti",
+      "Ruolo Servizi",
+      "Ruolo Specialisti",
+      "Ruolo Commissariato"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Nella Guerra del Golfo (1990–91) furono impiegati:",
+    "answers": [
+      "AMX A-11",
+      "Tornado IDS",
+      "F-104S ASA-M",
+      "Eurofighter"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L’equipaggio italiano abbattuto e catturato fu:",
+    "answers": [
+      "De Bernardi–Agello",
+      "Bellini–Cocciolone",
+      "Ferrarin–Del Prete",
+      "Visconti–Stefanini"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Nella Allied Force (1999) l’AM effettuò circa:",
+    "answers": [
+      "144 uscite e 655,5 ore",
+      "1.440 uscite e 6.555 ore",
+      "14.400 uscite",
+      "650 ore"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Tra i sistemi di difesa aerea schierati in Puglia:",
+    "answers": [
+      "Spada e Hawk",
+      "Patriot e S-300",
+      "Aster e SAMP/T",
+      "Nike Ajax"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Operazione Odyssey Dawn (2011) vide l’impiego di:",
+    "answers": [
+      "Tornado ECR/IDS, AMX, KC-767/KC-130J",
+      "Solo F-16",
+      "Solo Eurofighter",
+      "B-52 italiani"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Air Policing della NATO è stato svolto anche in:",
+    "answers": [
+      "Islanda e Paesi Baltici",
+      "Portogallo e Spagna",
+      "Svizzera e Austria",
+      "Egitto e Tunisia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Inherent Resolve (dal 2014) ha visto l’impiego di:",
+    "answers": [
+      "F-35C su portaerei",
+      "Tornado, AMX, KC-767 e APR in Kuwait",
+      "Mirage 2000",
+      "Harrier"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il velivolo di 5ª generazione entrato in linea è il:",
+    "answers": [
+      "F-22",
+      "F-35",
+      "Su-57",
+      "Typhoon"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La “superiorità” oggi è declinata come:",
+    "answers": [
+      "Potenza di fuoco",
+      "Superiorità nel dominio dell’informazione",
+      "Solo superiorità numerica",
+      "Supremazia navale"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Tra le operazioni a tutela degli interessi nazionali:",
+    "answers": [
+      "Mare Nostrum e Mare Sicuro",
+      "Enduring Freedom",
+      "Trident Juncture",
+      "Atalanta"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nel 2020, durante il COVID-19, l’AM:",
+    "answers": [
+      "Ha sospeso ogni attività",
+      "Ha garantito trasporti in bio-contenimento e supporto ospedali",
+      "Ha gestito solo scuole di volo",
+      "Ha operato solo all’estero"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La IFTS a Decimomannu ha avviato nel 2022:",
+    "answers": [
+      "Fase I del corso basico",
+      "Fase IV di addestramento avanzato per velivoli di 4ª/5ª gen.",
+      "Solo addestramento elicotteri",
+      "Corso controllori di volo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Nel 2023 il Col. Walter Villadei ha effettuato:",
+    "answers": [
+      "Il primo volo umano orbitale italiano",
+      "Un volo suborbitale su SpaceShipTwo",
+      "Una missione su Soyuz",
+      "Un lancio su Ariane 5"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A gennaio 2024 la missione Ax-3 ha portato:",
+    "answers": [
+      "Un equipaggio interamente americano in orbita bassa",
+      "Un equipaggio europeo con Villadei sulla ISS per 21 giorni",
+      "Solo esperimenti a terra",
+      "Un satellite meteorologico"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Pier Ruggero Piccio nacque a:",
+    "answers": [
+      "Torino",
+      "Venezia",
+      "Roma",
+      "Firenze"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A Piccio sono attribuite nella Grande Guerra:",
+    "answers": [
+      "11 vittorie",
+      "24 vittorie",
+      "30 vittorie",
+      "34 vittorie"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Dopo la guerra, Piccio fu:",
+    "answers": [
+      "Ministro dell’Aeronautica",
+      "Governatore della Libia",
+      "Capo di Stato Maggiore dell’Aeronautica",
+      "Capo di SME"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "L’episodio di fine guerra che coinvolse Piccio fu:",
+    "answers": [
+      "Ferimento su Caporetto",
+      "Cattura il 31/10/1918 e fuga il 4/11/1918",
+      "Ammutinamento di reparto",
+      "Trasferimento in Marina"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ugo Niutta fu assegnato nel 1916 alla:",
+    "answers": [
+      "91ª Squadriglia",
+      "28ª Squadriglia",
+      "11ª Squadriglia",
+      "3ª Sezione Caccia"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La 11ª/28ª Squadriglia impiegava principalmente:",
+    "answers": [
+      "Nieuport 17",
+      "Farman MF 1914",
+      "Caproni Ca.3",
+      "S.V.A.9"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Niutta cadde in combattimento il:",
+    "answers": [
+      "19/04/1917",
+      "3/07/1916",
+      "5/10/1918",
+      "16/12/1940"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il “Volo su Vienna” (9/8/1918) vide tra i protagonisti:",
+    "answers": [
+      "De Bernardi",
+      "Gino Allegri",
+      "Balbo",
+      "Ferrarin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Allegri morì:",
+    "answers": [
+      "Abbattuto su Vienna",
+      "In incidente a San Pelagio (1918)",
+      "In mare durante ammaraggio",
+      "In Africa nel 1940"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Arturo Ferrarin divenne celebre per il raid:",
+    "answers": [
+      "Roma–New York",
+      "Roma–Tokyo (1920)",
+      "Roma–Mosca",
+      "Roma–Buenos Aires"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il raid Roma–Tokyo fu di circa:",
+    "answers": [
+      "12.000 km / 72 h",
+      "18.000 km / 109 h",
+      "7.188 km / 49 h",
+      "2.987 km / 13 h"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il primato di distanza senza scalo del 1928 (Ferrarin–Del Prete) fu con:",
+    "answers": [
+      "S.55",
+      "S.64",
+      "M.39",
+      "Ca.113"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ferrarin morì collaudando a:",
+    "answers": [
+      "Guidonia (1941)",
+      "Tobruk (1940)",
+      "Roma (1959)",
+      "Cleveland (1931)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Francesco Baracca portava sul velivolo il simbolo:",
+    "answers": [
+      "Aquila",
+      "Cavallino rampante",
+      "Leone alato",
+      "Croce di Savoia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Gli abbattimenti ufficiali attribuiti a Baracca sono:",
+    "answers": [
+      "24",
+      "30",
+      "34",
+      "40"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La prima vittoria di Baracca risale al:",
+    "answers": [
+      "1914",
+      "1915",
+      "1916",
+      "1917"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Mario De Bernardi vinse nel 1926:",
+    "answers": [
+      "Bendix",
+      "Coppa Schneider",
+      "Harmon",
+      "MacRobertson"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Con quale aereo vinse De Bernardi la Schneider 1926?",
+    "answers": [
+      "Macchi M.39",
+      "Macchi M.52",
+      "S.64",
+      "CC2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nel 1928 De Bernardi superò:",
+    "answers": [
+      "400 km/h",
+      "450 km/h",
+      "500 km/h",
+      "550 km/h"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "De Bernardi collaudò nel 1941:",
+    "answers": [
+      "Gloster E.28",
+      "Campini-Caproni CC2",
+      "He 178",
+      "Vampire"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Carina Massone Negrone ottenne il brevetto:",
+    "answers": [
+      "1913",
+      "1933",
+      "1935",
+      "1951"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il suo record femminile d’altitudine del 20/6/1935 fu:",
+    "answers": [
+      "11.289 m",
+      "10.500 m",
+      "12.043 m",
+      "13.200 m"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "L’aereo del record 1935 di Massone Negrone era il:",
+    "answers": [
+      "M.39",
+      "Ca.113",
+      "S.55",
+      "CR.32"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La rotta Ghedi–Luxor (1954) coprì circa:",
+    "answers": [
+      "1.200 km",
+      "2.987 km",
+      "7.188 km",
+      "18.000 km"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La prima donna italiana con brevetto (1913) fu:",
+    "answers": [
+      "Massone Negrone",
+      "Ada Marchelli",
+      "Rosina Ferrario",
+      "Cassini"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Rosina Ferrario prese il brevetto a:",
+    "answers": [
+      "Taliedo",
+      "Vizzola Ticino",
+      "Guidonia",
+      "Cameri"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il monoplano delle esibizioni di Ferrario a Cameri (1914) era un:",
+    "answers": [
+      "Bleriot XI",
+      "Gabardini",
+      "Nieuport 11",
+      "S.V.A.9"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Maria Teresa Cassini conseguì il brevetto di primo grado nel:",
+    "answers": [
+      "1933",
+      "1935",
+      "1937",
+      "1913"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Cassini lo ottenne su:",
+    "answers": [
+      "Caproni Ca.100 Idro",
+      "S.V.A.5",
+      "M.52",
+      "S.64"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Mario Aramu nacque a:",
+    "answers": [
+      "Roma",
+      "Cagliari",
+      "Genova",
+      "Udine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Aramu partecipò come pilota alla:",
+    "answers": [
+      "Crociera 1930 Italia–Brasile",
+      "Crociera aerea del Decennale 1933",
+      "Volo su Vienna",
+      "Raid Roma–Tokyo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Aramu cadde in combattimento il:",
+    "answers": [
+      "16/12/1940",
+      "5/10/1918",
+      "7/04/1943",
+      "30/07/1965"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ruggero Bonomi nella RSI fu:",
+    "answers": [
+      "Capo di SM",
+      "Sottosegretario all’Aeronautica",
+      "Ministro Interno",
+      "Capo CAI"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Attilio Biseo nella Crociera del Decennale (1933) fu:",
+    "answers": [
+      "Secondo pilota",
+      "Primo pilota",
+      "Capo formazione",
+      "Osservatore"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L’operazione dimostrativa pianificata nel 1942 da Biseo si chiamava:",
+    "answers": [
+      "Operazione S",
+      "Operazione Z",
+      "Mare Nostrum",
+      "Aquila"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Gianlino Baschirotto in Spagna usò il nome di copertura:",
+    "answers": [
+      "Carlo Del Prete",
+      "Fulco Ruffo di Calabria",
+      "Eduardo Giri",
+      "Mario Bellagambi"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Le vittorie totali confermate attribuite a Baschirotto sono:",
+    "answers": [
+      "5",
+      "9",
+      "11",
+      "22"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A Franco Lucchini sono accreditate:",
+    "answers": [
+      "22 vittorie",
+      "26 vittorie",
+      "34 vittorie",
+      "11 vittorie"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La Croce di Ferro di II classe a Lucchini fu connessa a:",
+    "answers": [
+      "Russia",
+      "Malta/Nord Africa",
+      "Etiopia",
+      "Difesa di Roma 1943"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Italo Balbo fu (1929–1933):",
+    "answers": [
+      "Sottosegretario Marina",
+      "Ministro dell’Aeronautica",
+      "Capo SM Esercito",
+      "Governatore Somalia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Balbo divenne governatore generale della:",
+    "answers": [
+      "Somalia",
+      "Dodecaneso",
+      "Libia",
+      "Eritrea"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Balbo morì per fuoco amico a:",
+    "answers": [
+      "Tripoli",
+      "Bengasi",
+      "Tobruk",
+      "El Alamein"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Quale crociera transatlantica diresse Balbo?",
+    "answers": [
+      "1933 Atlantico settentrionale",
+      "1935 Atlantico meridionale",
+      "1928 Oceano Indiano",
+      "1937 Pacifico"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La 91ª Squadriglia è legata soprattutto alla figura di:",
+    "answers": [
+      "Piccio",
+      "Baracca",
+      "De Bernardi",
+      "Ferrarin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il cavallino rampante divenne simbolo noto anche grazie a:",
+    "answers": [
+      "Ducati",
+      "Alfa Romeo",
+      "Ferrari",
+      "Lancia"
+    ],
+    "correctIndex": 2
   }
 ]

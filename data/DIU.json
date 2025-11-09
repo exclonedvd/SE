@@ -1,201 +1,1081 @@
 [
   {
-    "question": "Il DIU è una branca che:",
+    "question": "Il Diritto internazionale dei conflitti armati è una branca del diritto internazionale pubblico che:",
     "answers": [
-      "Disciplina l’organizzazione interna degli Stati.",
-      "Limita la libertà degli Stati nella conduzione delle ostilità.",
-      "Regola solo i trattati commerciali.",
-      "Riguarda esclusivamente i diritti umani in tempo di pace."
+      "Estende la libertà degli Stati nel condurre le ostilità",
+      "Restringe la libertà degli Stati nel condurre le ostilità per contenere i mali della guerra",
+      "Si occupa solo di relazioni diplomatiche",
+      "Riguarda solo il diritto del mare"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Le principali fonti del DIU includono:",
+    "question": "Tra gli scopi principali del DIU rientra:",
     "answers": [
-      "Solo consuetudine.",
-      "Solo trattati.",
-      "Consuetudine, trattati, principi generali.",
-      "Sentenze interne degli Stati."
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Le quattro Convenzioni di Ginevra sono del:",
-    "answers": [
-      "1919",
-      "1949",
-      "1977",
-      "2002"
+      "Aumentare i danni collaterali",
+      "Proteggere i non combattenti e chi non può più combattere",
+      "Sostenere la propaganda bellica",
+      "Eliminare il controllo umanitario"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Il Protocollo I del 1977 riguarda:",
+    "question": "Il DIU mira, tra l’altro, a:",
     "answers": [
-      "Conflitti armati non internazionali.",
-      "Condotta delle ostilità nei conflitti internazionali.",
-      "Crimini contro l’umanità.",
-      "Sanzioni economiche."
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "Il principio di distinzione impone di:",
-    "answers": [
-      "Colpire sempre centri abitati.",
-      "Distinguere tra civili/combattenti e beni civili/obiettivi militari.",
-      "Usare armi proibite in casi estremi.",
-      "Evitare preavvisi prima degli attacchi."
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "La proporzionalità richiede che il danno ai civili sia:",
-    "answers": [
-      "Sempre nullo.",
-      "Eccessivo rispetto al vantaggio militare.",
-      "Non eccessivo rispetto al vantaggio militare concreto e diretto.",
-      "Irrilevante se l’obiettivo è legittimo."
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Tra i mezzi vietati o regolati figurano:",
-    "answers": [
-      "Armi batteriologiche e chimiche, mine antipersona.",
-      "Fucili d’assalto convenzionali.",
-      "Veicoli corazzati.",
-      "Radio militari."
+      "Facilitare il processo di pace e conciliazione",
+      "Imporre sanzioni economiche",
+      "Stabilire confini marittimi",
+      "Regolare i trattati commerciali"
     ],
     "correctIndex": 0
   },
   {
-    "question": "La perfidia è:",
+    "question": "Il DIU si riferisce al:",
     "answers": [
-      "Un lecito stratagemma.",
-      "Vietata: inganno che sfrutta una protezione (es. falsa resa).",
-      "Una forma di sabotaggio.",
-      "Una tattica non regolata."
+      "Jus ad bellum",
+      "Jus in bello",
+      "Diritto amministrativo internazionale",
+      "Diritto penale internazionale"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Lo spionaggio in abiti civili:",
+    "question": "Per «jus ad bellum» si intende:",
     "answers": [
-      "È sempre protetto dal DIU.",
-      "È lecito ma non dà protezione se scoperto.",
-      "È vietato.",
-      "È perfidia."
-    ],
-    "correctIndex": 1
-  },
-  {
-    "question": "La CPI è stata istituita con:",
-    "answers": [
-      "Statuto di Roma 1998 (in vigore dal 2002).",
-      "Carta ONU 1945.",
-      "Convenzione di Parigi 1993.",
-      "Trattato di Maastricht 1992."
+      "Il diritto di muovere guerra (prerogativa degli Stati)",
+      "Le modalità con cui si conducono le ostilità",
+      "La proibizione assoluta dell’uso della forza",
+      "Il divieto di assistenza umanitaria"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Il principio di complementarità della CPI significa che:",
+    "question": "Una delle fonti del DIU è:",
     "answers": [
-      "La CPI giudica prima degli Stati.",
-      "Interviene solo se lo Stato è inattivo, incapace o non intenzionato.",
-      "Giudica solo Stati, non individui.",
-      "Si applica retroattivamente al 1949."
+      "Solo la consuetudine interna",
+      "Il diritto internazionale consuetudinario",
+      "Le delibere comunali",
+      "Le circolari ministeriali"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Tra le condizioni di giurisdizione della CPI rientra:",
+    "question": "Il diritto internazionale consuetudinario nasce da:",
     "answers": [
-      "Solo la nazionalità della vittima.",
-      "Territorialità, nazionalità dell’autore o rinvio del Consiglio di Sicurezza ONU.",
-      "Approvazione del Paese terzo.",
-      "Unanimità dell’Assemblea generale ONU."
+      "Voto dell’ONU",
+      "Pratica uniforme degli Stati (diuturnitas) e convinzione giuridica (opinio iuris)",
+      "Sentenze penali interne",
+      "Decisioni delle ONG"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Il principio di precauzione impone all’attaccante di:",
+    "question": "Tra i trattati internazionali fondamentali per il DIU figurano:",
     "answers": [
-      "Evitare ogni danno ai civili a prescindere.",
-      "Accertare la natura militare dell’obiettivo e dare preavviso se possibile.",
-      "Usare sempre armi non letali.",
-      "Chiedere autorizzazione alla CPI."
+      "Convenzioni di Ginevra 1949 e Protocolli aggiuntivi 1977",
+      "Convenzioni di Vienna sul diritto dei trattati 1969",
+      "Accordi di Schengen 1995",
+      "Carta ONU 1945"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Un esempio classico di trattato sul DIU anteriore al XX secolo è:",
+    "answers": [
+      "Dichiarazione di San Pietroburgo (1868)",
+      "Statuto di Roma CPI (1998)",
+      "Convenzione di Ottawa (1997)",
+      "Protocollo di Kyoto (1997)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Secondo le slide, i principi riconosciuti dalle nazioni civili includono:",
+    "answers": [
+      "Neutralità e non allineamento",
+      "Umanità, proporzionalità, distinzione, precauzione",
+      "Sovranità assoluta",
+      "Autodeterminazione"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Alcune norme consuetudinarie del DIU sono considerate «jus cogens». Ciò significa che:",
+    "answers": [
+      "Possono essere derogate da accordi bilaterali",
+      "Sono imperative e non modificabili da trattati ordinari",
+      "Si applicano solo in guerra totale",
+      "Vincolano solo gli Stati parte della NATO"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La cosiddetta «clausola Martens»:",
+    "answers": [
+      "È contenuta solo nella Carta ONU",
+      "È riportata nelle Convenzioni di Ginevra 1949, nel Preambolo della IV Convenzione dell’Aja 1907 e nel I Protocollo addizionale 1977",
+      "Riguarda solo il diritto del mare",
+      "Stabilisce i confini terrestri"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Secondo la clausola Martens, in assenza di accordi internazionali, popolazioni e belligeranti restano sotto la protezione:",
+    "answers": [
+      "Delle leggi interne",
+      "Dei principi del diritto delle genti, delle leggi dell’umanità e delle esigenze della coscienza pubblica",
+      "Delle forze armate ONU",
+      "Delle decisioni della CPI"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Un esempio di principio consuetudinario citato nelle slide è:",
+    "answers": [
+      "Principio di distinzione tra combattenti e non combattenti",
+      "Principio di nazionalità effettiva",
+      "Principio di specialità penale",
+      "Principio di territorialità doganale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Le Convenzioni dell’Aja (1899 e 1907) disciplinano:",
+    "answers": [
+      "Le regole sulla conduzione delle ostilità",
+      "Il commercio internazionale",
+      "I brevetti",
+      "Le immunità diplomatiche"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La Convenzione di Ottawa (1997) riguarda il divieto di:",
+    "answers": [
+      "Armi chimiche",
+      "Mine antipersona (uso, produzione, stoccaggio e trasferimento)",
+      "Armi nucleari",
+      "Armi biologiche"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Lo Statuto di Roma (1998) istituisce:",
+    "answers": [
+      "La Corte internazionale di giustizia",
+      "La Corte penale internazionale (CPI)",
+      "Il Consiglio di sicurezza",
+      "L’UNHCR"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il principio di distinzione impone:",
+    "answers": [
+      "Di colpire indiscriminatamente per accelerare la fine del conflitto",
+      "Di distinguere tra civili/beni civili e combattenti/obiettivi militari",
+      "Di proteggere solo i prigionieri",
+      "Di usare armi proibite solo in ritorsione"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il principio di proporzionalità richiede che:",
+    "answers": [
+      "Il vantaggio militare atteso non giustifichi danni eccessivi ai civili",
+      "Si persegua sempre il massimo danno al nemico",
+      "Si eviti ogni uso della forza",
+      "Si usino solo armi leggere"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il principio di precauzione impone:",
+    "answers": [
+      "Di rinviare ogni attacco",
+      "Di prendere tutte le cautele praticabili per minimizzare danni a civili e beni civili",
+      "Di avvertire l’avversario di ogni attacco",
+      "Di usare solo armi non letali"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Affinché si configuri un conflitto armato devono ricorrere almeno due presupposti:",
+    "answers": [
+      "Dichiarazione di guerra e fronti contrapposti",
+      "Intensità dello scontro e organizzazione delle parti in conflitto",
+      "Presenza di forze ONU e embargo",
+      "Sospensione dei diritti politici"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Indicatori dell’intensità includono:",
+    "answers": [
+      "Gravità e diffusione degli scontri, numero di unità governative coinvolte, natura dei sistemi d’arma impiegati",
+      "Numero di profughi registrati dall’UNHCR",
+      "Tasso di inflazione",
+      "Numero di confini attraversati"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Un conflitto armato internazionale sussiste quando:",
+    "answers": [
+      "Due o più Stati ricorrono alla forza armata in modo protratto",
+      "Un gruppo armato attacca un villaggio",
+      "Un attacco terroristico isolato avviene all’estero",
+      "Vi è solo disordine pubblico"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Un conflitto armato non internazionale (interno) sussiste quando:",
+    "answers": [
+      "Due Stati si scambiano note diplomatiche",
+      "All’interno di uno Stato avviene violenza protratta tra autorità governative e gruppi armati organizzati o tra gruppi armati organizzati",
+      "Un solo episodio di sommossa urbana",
+      "Viene dichiarato lo stato di emergenza"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il continuum dei conflitti interni si estende tra:",
+    "answers": [
+      "Crisi economica e terrorismo",
+      "Disordine interno e guerra civile",
+      "Elezioni e colpo di Stato",
+      "Sicurezza nazionale e difesa civile"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Un conflitto interno può assumere carattere internazionale quando:",
+    "answers": [
+      "Interviene uno Stato con proprie truppe o alcuni partecipanti agiscono per conto di uno Stato",
+      "Si usano armi leggere",
+      "Interviene il CICR",
+      "Si supera la soglia del 1% di PIL in spese militari"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il DIU tutela in particolare:",
+    "answers": [
+      "Solo i combattenti",
+      "I non combattenti (popolazione civile) e coloro che non possono più combattere (malati, feriti, prigionieri)",
+      "Solo i prigionieri",
+      "Solo i feriti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "I medici e il personale religioso:",
+    "answers": [
+      "Sono sempre combattenti",
+      "Non sono combattenti e godono di protezione speciale",
+      "Sono obiettivi militari",
+      "Perdono protezione se in zona di guerra"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Secondo la consuetudine richiamata, i beni di carattere civile:",
+    "answers": [
+      "Sono sempre attaccabili",
+      "Sono protetti contro gli attacchi salvo che, e per il tempo in cui, costituiscano obiettivi militari",
+      "Perdono sempre protezione di notte",
+      "Sono attaccabili solo con armi leggere"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Un obiettivo militare è tale quando:",
+    "answers": [
+      "Ha valore culturale",
+      "Contribuisce effettivamente all’azione militare e la sua distruzione offre un vantaggio militare concreto e diretto",
+      "È di proprietà statale",
+      "È vicino a un aeroporto"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il DIU si collega allo «jus ad bellum» in quanto:",
+    "answers": [
+      "Lo sostituisce",
+      "Ne è distinto: il DIU disciplina la condotta delle ostilità, lo jus ad bellum la legittimità dell’uso della forza",
+      "Ne è parte",
+      "È identico"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Le Convenzioni di Ginevra del 1949 hanno tra gli scopi:",
+    "answers": [
+      "Regolare i confini marittimi",
+      "Proteggere feriti, malati, naufraghi, prigionieri di guerra e civili",
+      "Riformare il Consiglio di Sicurezza",
+      "Stabilire le zone di libero scambio"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La sede della Corte penale internazionale è:",
+    "answers": [
+      "Ginevra",
+      "L’Aja",
+      "New York",
+      "Strasburgo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Lo Statuto di Roma fu adottato il:",
+    "answers": [
+      "17 luglio 1998",
+      "1 luglio 2002",
+      "24 ottobre 1945",
+      "31 dicembre 2000"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Lo Statuto è entrato in vigore il:",
+    "answers": [
+      "1 gennaio 1999",
+      "1 luglio 2002",
+      "17 luglio 1998",
+      "1 giugno 2004"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La CPI è:",
+    "answers": [
+      "Un organo dell’ONU",
+      "Un tribunale penale internazionale permanente competente a giudicare individui per i crimini più gravi",
+      "Un tribunale ad hoc temporaneo",
+      "Una corte civile internazionale"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La giurisdizione, competenza e funzionamento della CPI sono disciplinati da:",
+    "answers": [
+      "Carta ONU",
+      "Statuto di Roma",
+      "Convenzioni di Ginevra",
+      "Statuto della CIJ"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il principio di complementarità stabilisce che:",
+    "answers": [
+      "La CPI sostituisce i tribunali nazionali",
+      "La CPI interviene solo quando gli Stati sono inattivi, incapaci o non vogliono perseguire genuinamente",
+      "Gli Stati non hanno competenza sui crimini internazionali",
+      "La CPI è sempre prioritaria"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Secondo le slide, la CPI può attivarsi in caso di:",
+    "answers": [
+      "Eccesso di leggi interne",
+      "Inattività delle autorità statali",
+      "Assenza di trattati di estradizione",
+      "Mutamento di governo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Tra i segnali di 'incapacità' dello Stato figura:",
+    "answers": [
+      "Sistema giudiziario efficiente",
+      "Collasso totale o sostanziale del sistema giudiziario",
+      "Aumento del PIL",
+      "Cambio di costituzione"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Una forma di 'mancanza di volontà' (unwillingness) indicata è:",
+    "answers": [
+      "Processo rapido",
+      "Processo-farsa",
+      "Processo in contumacia",
+      "Processo con giuria"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Un’altra spia di unwillingness è:",
+    "answers": [
+      "Processo ingiustificatamente prolungato",
+      "Processo davanti a corte militare",
+      "Processo con appello",
+      "Processo con rito abbreviato"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Rientra tra i casi di incapacità:",
+    "answers": [
+      "Impossibilità di ottenere custodia dell’imputato o di procurare prove/testimonianze necessarie",
+      "Mancanza di difensori d’ufficio",
+      "Numero eccessivo di reati minori",
+      "Amnistia generale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Uno Stato parte può:",
+    "answers": [
+      "Nominare i giudici della CPI",
+      "Rinviare una situazione alla CPI (self-referral)",
+      "Imporre la condanna",
+      "Sospendere lo Statuto"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il Consiglio di Sicurezza può:",
+    "answers": [
+      "Deferire una situazione alla CPI",
+      "Nominare il Procuratore",
+      "Assolvere gli imputati",
+      "Emettere sentenze"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il Procuratore può attivarsi:",
+    "answers": [
+      "Solo su richiesta del Segretario ONU",
+      "Motu proprio (proprio impulso)",
+      "Solo su rinvio degli Stati",
+      "Solo su ordine della CIJ"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ratione materiae: la CPI giudica limitatamente a:",
+    "answers": [
+      "Tutti i reati penali",
+      "Genocidio, crimini contro l’umanità, crimini di guerra e crimine di aggressione",
+      "Terrorismo e pirateria",
+      "Crimini ambientali"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ratione personae (art. 25): la CPI giudica:",
+    "answers": [
+      "Stati e persone giuridiche",
+      "Solo persone fisiche",
+      "Solo capi di Stato",
+      "Solo militari"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Secondo l’art. 26, sono esclusi dalla competenza:",
+    "answers": [
+      "Gli stranieri",
+      "I minori di 18 anni",
+      "I civili",
+      "I diplomatici"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ratione temporis (art. 11): la CPI può conoscere di crimini:",
+    "answers": [
+      "Compiuti prima dell’entrata in vigore dello Statuto",
+      "Compiuti dopo l’entrata in vigore dello Statuto, e per gli Stati aderenti dopo la loro adesione (salvo dichiarazione art. 12(3))",
+      "Senza limiti temporali",
+      "Solo durante conflitti armati"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ratione loci/personae (art. 12): la CPI ha giurisdizione su crimini:",
+    "answers": [
+      "Compiuti nel territorio di uno Stato parte o da cittadini di Stati parte; oppure su rinvio del Consiglio di Sicurezza",
+      "Compiuti solo da militari in missione ONU",
+      "Compiuti solo in Europa",
+      "Compiuti in Stati non parte"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La CPI è distinta da:",
+    "answers": [
+      "La CIJ (Corte internazionale di giustizia, che giudica controversie tra Stati)",
+      "I tribunali nazionali, che non hanno competenza penale",
+      "Le Corti d’appello nazionali",
+      "Le Commissioni parlamentari"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La personalità giuridica della CPI:",
+    "answers": [
+      "È solo interna",
+      "È di diritto internazionale e interno; la CPI gode di piena indipendenza",
+      "Dipende dal Consiglio d’Europa",
+      "È fittizia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il principio di complementarità implica che la CPI:",
+    "answers": [
+      "Eserciti sempre la priorità",
+      "Si attivi solo in presenza di inattività, incapacità o unwillingness degli Stati",
+      "Non tenga conto dei processi nazionali",
+      "Abbia solo funzione consultiva"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Tra i criteri riassuntivi della competenza NON rientra:",
+    "answers": [
+      "Ratione loci",
+      "Ratione personae",
+      "Ratione voluntatis",
+      "Ratione temporis"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "I crimini internazionali di competenza della CPI sono definiti:",
+    "answers": [
+      "Dalla prassi giudiziaria soltanto",
+      "Dallo Statuto di Roma, art. 5 e seguenti",
+      "Dalla Carta ONU",
+      "Dalle Convenzioni di Vienna"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il DIU vieta mezzi e metodi che:",
+    "answers": [
+      "Massimizzano il vantaggio militare a ogni costo",
+      "Arrecano mali superflui e sofferenze inutili",
+      "Sono tecnologicamente avanzati",
+      "Usano la sorpresa"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il fondamento del divieto di mezzi/ metodi che causano danni estesi, durevoli e gravi all’ambiente è:",
+    "answers": [
+      "Art. 51 Carta ONU",
+      "Art. 35 del I Protocollo aggiuntivo alle Convenzioni di Ginevra",
+      "Statuto di Roma",
+      "Convenzione di Ottawa 1997"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Secondo l’art. 35 I PA:",
+    "answers": [
+      "Il diritto di scegliere mezzi e metodi è illimitato",
+      "Il diritto di scegliere mezzi e metodi non è illimitato",
+      "È vietato usare ogni arma esplosiva",
+      "Sono vietati solo i metodi, non i mezzi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Per mezzi di combattimento si intendono:",
+    "answers": [
+      "Le tattiche di reparto",
+      "Armi o sistemi d’arma usati nella condotta delle ostilità",
+      "Solo gli esplosivi",
+      "Solo le armi leggere"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Per metodi di combattimento si intendono:",
+    "answers": [
+      "Le procedure e modalità operative (tattiche/strategiche) per imporsi sull’avversario",
+      "Solo la logistica",
+      "Solo le regole d’ingaggio",
+      "Solo l’ordine di battaglia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Le «armi laser accecanti» sono vietate in base a:",
+    "answers": [
+      "I Protocollo 1977",
+      "IV Protocollo alla Convenzione di Ginevra del 1980",
+      "Convenzione di Parigi 1993",
+      "Protocollo di Ginevra 1925"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Le armi laser accecanti sono quelle:",
+    "answers": [
+      "Concep ite per causare temporanea disorientazione",
+      "Concepite con intento esclusivo di provocare cecità permanente",
+      "Usate per designare bersagli",
+      "Laser a puntamento civile"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Prima della Convenzione di Ottawa 1997, il II Protocollo 1980 vietava:",
+    "answers": [
+      "Tutte le mine antiuomo",
+      "Le sole mine antipersona non rilevabili",
+      "Solo mine anticarro",
+      "Solo trappole"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La Convenzione di Ottawa 1997 impone:",
+    "answers": [
+      "Solo la limitazione dell’uso delle mine",
+      "Divieto assoluto di uso, stoccaggio, produzione e trasferimento di mine antipersona e obbligo di distruzione/sminamento",
+      "Divieto solo in tempo di pace",
+      "Nessun obbligo post-bellico"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Le armi batteriologiche sono vietate da:",
+    "answers": [
+      "Protocollo di Ginevra 1925 (divieto assoluto, valore consuetudinario)",
+      "Convenzione di Parigi 1993",
+      "Statuto di Roma 1998",
+      "Carta ONU"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Le armi chimiche sono oggetto di:",
+    "answers": [
+      "Convenzione di Parigi 1993 che obbliga a cessarne produzione e distruggere scorte (valore consuetudinario)",
+      "Protocollo I 1977, art. 48",
+      "Convenzione Aja 1907",
+      "Solo consuetudine interna"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Tra le armi di dubbia legittimità citate figurano:",
+    "answers": [
+      "Gas nervini e batteri",
+      "Munizioni all’uranio impoverito, fosforo bianco, sistemi d’arma autonomi (LAWS)",
+      "Mine anticarro",
+      "Proiettili a gomma"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il Trattato di New York del 7 luglio 2017 riguarda:",
+    "answers": [
+      "Armi chimiche",
+      "Armi nucleari",
+      "Mine antipersona",
+      "Bombe a grappolo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il parere della Corte internazionale di Giustizia (1996) afferma che l’uso di armi nucleari è:",
+    "answers": [
+      "Sempre lecito",
+      "Generalmente contrario al DIU ma potenzialmente lecito in ipotesi estreme di legittima difesa per la sopravvivenza dello Stato",
+      "Sempre irrilevante",
+      "Lecito se deciso dall’ONU"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La perfidia (art. 37, c.1, I PA) consiste nel:",
+    "answers": [
+      "Usare mimetizzazione",
+      "Fare appello alla buona fede dell’avversario per ingannarlo facendogli credere di godere/accordare protezione prevista dallo ius in bello",
+      "Imboscate",
+      "Spionaggio in uniforme"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Un esempio di perfidia è:",
+    "answers": [
+      "Uso di rete mimetica",
+      "Simulare l’intenzione di negoziare sotto bandiera parlamentare",
+      "Quietare i motori",
+      "Fingersi rumorosi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Sono esempi di perfidia anche:",
+    "answers": [
+      "Simulare incapacità per ferite/malattia; simulare status di civile/non combattente",
+      "Usare fumo",
+      "Cambio di frequenze radio",
+      "Uso di esche"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Gli stratagemmi (art. 37, c.2, I PA) sono:",
+    "answers": [
+      "Vietati",
+      "Atti per indurre in errore senza violare il DIU e sono consentiti",
+      "Crimini di guerra",
+      "Solo propaganda"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Esempi di stratagemma sono:",
+    "answers": [
+      "Mascheramento, operazioni simulate, false informazioni/messaggi radio",
+      "Perfida e scudi umani",
+      "Uso di bandiera parlamentare per colpire",
+      "Simulare ferite"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Lo spionaggio (art. 46 I PA) è:",
+    "answers": [
+      "Sempre vietato",
+      "Raccolta informazioni in territorio nemico in abiti civili; non è di per sé contrario al DIU",
+      "Consentito solo ai civili",
+      "Crimine di guerra automatico"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il sabotaggio (art. 52, c.2, I PA) è:",
+    "answers": [
+      "Sempre vietato",
+      "Consentito se contro obiettivi che contribuiscono effettivamente all’azione militare del nemico",
+      "Consentito solo in mare",
+      "Consentito solo ai civili"
     ],
     "correctIndex": 1
   },
   {
     "question": "Il saccheggio è:",
     "answers": [
-      "Ammesso contro obiettivi militari.",
-      "Ammesso con autorizzazione del comandante.",
-      "Sempre vietato.",
-      "Vietato solo in ambito urbano."
-    ],
-    "correctIndex": 2
-  },
-  {
-    "question": "Le armi chimiche sono vietate dalla:",
-    "answers": [
-      "Convenzione di Ottawa (1997).",
-      "Convenzione di Parigi (1993).",
-      "Protocollo di Ginevra (1925) sulle armi batteriologiche.",
-      "Statuto di Roma (1998)."
+      "Una forma di requisizione legittima",
+      "Sempre vietato come appropriazione violenta per fini privati (distinto da requisizioni/sequestri per scopi militari)",
+      "Consentito in zona occupata",
+      "Consentito come ritorsione"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Le mine antipersona sono vietate dalla:",
+    "question": "Il principio di limitazione dei mezzi/metodi discende dal:",
     "answers": [
-      "Convenzione di Ottawa (1997).",
-      "Protocollo I (1977).",
-      "Convenzione dell’Aia (1907).",
-      "Carta di Parigi (1990)."
+      "Principio di necessità militare assoluta",
+      "Principio di umanità",
+      "Principio di superiorità numerica",
+      "Principio di deterrenza nucleare"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Secondo le slide, sono vietati i mezzi/metodi che:",
+    "answers": [
+      "Arrecano mali e sofferenze inutili",
+      "Garantiscono sorpresa",
+      "Sono non convenzionali",
+      "Sono automatizzati"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Per giurisdizione ratione temporis della CPI si intende:",
+    "question": "Tra le categorie riassuntive di mezzi elencate in sintesi figurano:",
     "answers": [
-      "Solo fatti anteriori al 1998.",
-      "Crimini commessi dopo l’entrata in vigore dello Statuto.",
-      "Solo crimini di guerra.",
-      "Atti commessi in qualunque tempo."
+      "Solo armi leggere e artiglieria",
+      "Armi convenzionali (mine, incendiari, laser accecanti, batteriologiche, chimiche) e armi di dubbia legittimità (uranio impoverito, fosforo bianco, LAWS)",
+      "Solo armi nucleari",
+      "Solo mine anticarro"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Il jus ad bellum regola:",
+    "question": "Tra i metodi riassunti in sintesi sono compresi:",
     "answers": [
-      "Il diritto di fare guerra (uso della forza).",
-      "La condotta delle ostilità.",
-      "Le immunità diplomatiche.",
-      "Le sanzioni economiche."
+      "Solo imboscate",
+      "Perfidia, stratagemma, spionaggio, sabotaggio, saccheggio",
+      "Solo stratagemma e perfidia",
+      "Solo spionaggio"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Nella conduzione delle ostilità:",
+    "answers": [
+      "Tutti i mezzi e metodi sono consentiti",
+      "Sussistono norme e principi che circoscrivono l’operato degli Stati",
+      "Sono vietati gli accordi",
+      "La forza è illimitata"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "I principi di base sono stati indicati dalla Corte Internazionale di Giustizia nel parere sulle:",
+    "answers": [
+      "Sanzioni economiche",
+      "Armi nucleari",
+      "Armi leggere",
+      "Zone demilitarizzate"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La codificazione definitiva dei principi di base è avvenuta con:",
+    "answers": [
+      "Convenzioni di Vienna 1969",
+      "Protocollo Aggiuntivo alle Convenzioni di Ginevra del 1977",
+      "Statuto di Roma 1998",
+      "Carta ONU 1945"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il principio di umanità impone ai combattenti di:",
+    "answers": [
+      "Massimizzare i danni al nemico",
+      "Evitare sofferenze inutili e mali superflui a combattenti e civili",
+      "Rinunciare sempre all’uso della forza",
+      "Usare armi proibite in ritorsione"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In termini operativi, il principio di umanità si traduce nel divieto di:",
+    "answers": [
+      "Usare armi tecnologiche",
+      "Utilizzare livelli eccessivi di forza irragionevoli rispetto allo scopo",
+      "Attaccare di notte",
+      "Usare la sorpresa"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La prima formulazione richiamata nelle slide è contenuta nella:",
+    "answers": [
+      "Carta ONU",
+      "Dichiarazione di San Pietroburgo del 1868",
+      "Convenzione di Ottawa 1997",
+      "Dichiarazione universale 1948"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Secondo le componenti del principio, uno degli scopi del progresso è:",
+    "answers": [
+      "Aumentare la potenza di fuoco",
+      "Alleviare i danni provocati dalla guerra",
+      "Eliminare la distinzione civili/combattenti",
+      "Imporre la guerra totale"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Secondo il principio:",
+    "answers": [
+      "È legittimo solo l’annientamento totale",
+      "È sufficiente rendere temporaneamente inabili alla lotta il maggior numero di nemici",
+      "È sempre proibito ferire",
+      "È lecito l’uso indiscriminato di armi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "È contrario alle leggi di umanità l’uso di armi che:",
+    "answers": [
+      "Risparmiano i civili",
+      "Aggravano inutilmente le sofferenze dell’avversario",
+      "Sono a bassa letalità",
+      "Vengono usate con preavviso"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il principio di distinzione (art. 48) impone di dirigere le operazioni:",
+    "answers": [
+      "Contro obiettivi militari",
+      "Contro beni culturali",
+      "Contro popolazione civile",
+      "Contro ospedali"
     ],
     "correctIndex": 0
   },
   {
-    "question": "Gli attacchi indiscriminati sono:",
+    "question": "I civili sono:",
     "answers": [
-      "Ammessi se l’obiettivo è di grande valore.",
-      "Vietati in quanto non distinguono tra civili e militari.",
-      "Ammessi con preavviso.",
-      "Ammessi solo di notte."
+      "Chiunque porti armi",
+      "Le persone che non fanno parte delle Forze armate o gruppi militari organizzati",
+      "Solo donne e bambini",
+      "Solo residenti in aree urbane"
     ],
     "correctIndex": 1
   },
   {
-    "question": "Il sabotaggio è:",
+    "question": "Sono obiettivi civili:",
     "answers": [
-      "Sempre vietato.",
-      "Ammesso contro obiettivi militari.",
-      "Perfidia.",
-      "Non regolato dal DIU."
+      "Quelli che non sono obiettivi militari",
+      "Solo scuole e ospedali",
+      "Solo edifici pubblici",
+      "Solo infrastrutture energetiche"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Un bene è obiettivo militare se:",
+    "answers": [
+      "Ha valore storico",
+      "Per natura/ubicazione/destinazione/uso contribuisce all’azione militare e la sua distruzione offre un vantaggio militare preciso",
+      "È vicino a un aeroporto",
+      "È di proprietà statale"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Sono vietati gli attacchi:",
+    "answers": [
+      "Sorpresa",
+      "Indiscriminati che non consentono di selezionare i bersagli",
+      "Di interdizione aerea",
+      "Di precisione"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il principio di proporzionalità bilancia:",
+    "answers": [
+      "Interessi economici degli Stati",
+      "Vantaggio militare dell’attacco e necessità che non causi danni eccessivi ai civili",
+      "Numero di truppe e munizioni",
+      "Propaganda e morale"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Con tale principio si intende bandire:",
+    "answers": [
+      "La cooperazione internazionale",
+      "Il concetto di guerra totale e l’idea che il vantaggio militare possa essere conseguito ad ogni costo",
+      "L’uso di armi leggere",
+      "L’attacco navale"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il danno ai civili, nel quadro del principio, deve essere:",
+    "answers": [
+      "Voluto",
+      "Sempre accidentale e involontario (danno collaterale)",
+      "Ignorato",
+      "Sempre pari al vantaggio"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La proporzionalità dell’attacco è valutata secondo:",
+    "answers": [
+      "Giudizio ex post",
+      "Giudizio prognostico ex ante",
+      "Decisione del nemico",
+      "Voto dell’ONU"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In caso di attacchi ripetuti occorre considerare:",
+    "answers": [
+      "Solo l’ultimo attacco",
+      "L’effetto cumulativo degli attacchi",
+      "Solo le perdite militari",
+      "Solo i danni materiali"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il principio di precauzione impone doveri complementari:",
+    "answers": [
+      "Solo a chi attacca",
+      "A entrambe le parti in conflitto (chi attacca e chi subisce)",
+      "Solo ai civili",
+      "Solo alla parte che subisce"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Tra le misure per chi attacca rientra:",
+    "answers": [
+      "Fare tutto il possibile per accertare che gli obiettivi non siano civili o beni civili",
+      "Sospendere ogni attacco",
+      "Usare la forza massima",
+      "Non dare preavvisi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Sempre per chi attacca, quando possono essere colpiti civili, è richiesto:",
+    "answers": [
+      "Nessun obbligo",
+      "Un avvertimento in tempo utile con mezzi efficaci",
+      "Richiesta al CICR",
+      "Solo propaganda"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Tra le misure per chi subisce l’attacco vi è l’obbligo di:",
+    "answers": [
+      "Usare scudi umani",
+      "Allontanare popolazione civile dalle vicinanze di obiettivi militari",
+      "Collocare obiettivi militari in aree densamente popolate",
+      "Oscurare i segnali di protezione"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Sempre per chi subisce l’attacco si deve:",
+    "answers": [
+      "Evitare di collocare obiettivi militari all’interno o in prossimità di zone densamente popolate",
+      "Concentrare i mezzi militari nei centri cittadini",
+      "Utilizzare civili come deterrente",
+      "Rinunciare alla difesa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "I quattro principi di base della condotta delle ostilità trattati sono:",
+    "answers": [
+      "Neutralità, deterrenza, ritorsione, blocco",
+      "Umanità, distinzione, proporzionalità, precauzione",
+      "Difesa, offesa, interdizione, annientamento",
+      "Legalità, sussidiarietà, precauzione, responsabilità"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il rispetto congiunto dei principi guida:",
+    "answers": [
+      "L’escalation del conflitto",
+      "La condotta delle operazioni militari entro limiti umanitari",
+      "La sospensione degli obblighi internazionali",
+      "La guerra totale"
     ],
     "correctIndex": 1
   }
