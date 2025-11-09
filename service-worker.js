@@ -1,6 +1,6 @@
 /* eslint-disable no-restricted-globals */
-// Auto-generated on 2025-11-09T11:05:15.711825Z
-const VERSION = 'v2.1.0';
+// Auto-generated on 2025-11-09T14:36:52.585631Z
+const VERSION = 'v2.2.0';
 const SHELL_CACHE = `studyhub-shell-${VERSION}`;
 const DATA_CACHE  = `studyhub-data-${VERSION}`;
 const IMG_CACHE   = `studyhub-img-${VERSION}`;
@@ -11,7 +11,6 @@ const APP_SHELL = [
   "./manifest.json",
   "./service-worker.js"
 ];
-
 const DATA_FILES = [
   "./data/AM.json",
   "./data/DC.json",
@@ -21,7 +20,6 @@ const DATA_FILES = [
   "./data/SL.json",
   "./data/index.json"
 ];
-
 const IMG_FILES = [
   "./img/hero-original.png",
   "./img/hero.webp",
@@ -47,11 +45,9 @@ self.addEventListener('install', event => {
 self.addEventListener('activate', event => {
   event.waitUntil((async () => {
     const keys = await caches.keys();
-    await Promise.all(
-      keys
-        .filter(k => ![SHELL_CACHE, DATA_CACHE, IMG_CACHE].includes(k))
-        .map(k => caches.delete(k))
-    );
+    await Promise.all(keys
+      .filter(k => ![SHELL_CACHE, DATA_CACHE, IMG_CACHE].includes(k))
+      .map(k => caches.delete(k)));
     await self.clients.claim();
   })());
 });
@@ -59,21 +55,27 @@ self.addEventListener('activate', event => {
 self.addEventListener('fetch', event => {
   const { request } = event;
   const url = new URL(request.url);
-  // Handle only same-origin
   if (location.origin !== url.origin) return;
 
-  if (url.pathname.startsWith('/data/') || url.pathname.endsWith('.json')) {
-    event.respondWith(cacheFirst(DATA_CACHE, request));
+  // JSON (banche dati): network-first + no-store
+  if (url.pathname.endsWith('.json') || url.pathname.includes('/data/')) {
+    event.respondWith(networkFirstNoStore(DATA_CACHE, request));
     return;
   }
-  if (url.pathname.startsWith('/docs/') || url.pathname.endsWith('.pdf')) {
-    event.respondWith(networkFirst(SHELL_CACHE, request));
+
+  // PDF (docs): network-first + no-store
+  if (url.pathname.endsWith('.pdf') || url.pathname.includes('/docs/')) {
+    event.respondWith(networkFirstNoStore(SHELL_CACHE, request));
     return;
   }
-  if (url.pathname.startsWith('/img/') || /\.(png|webp|jpg|jpeg|gif|svg)$/.test(url.pathname)) {
+
+  // Immagini: cache-first
+  if (url.pathname.includes('/img/') || /\.(png|webp|jpg|jpeg|gif|svg)$/.test(url.pathname)) {
     event.respondWith(cacheFirst(IMG_CACHE, request));
     return;
   }
+
+  // Shell & resto: network-first
   event.respondWith(networkFirst(SHELL_CACHE, request));
 });
 
@@ -90,6 +92,20 @@ async function networkFirst(cacheName, request) {
   const cache = await caches.open(cacheName);
   try {
     const resp = await fetch(request);
+    cache.put(request, resp.clone());
+    return resp;
+  } catch (err) {
+    const cached = await cache.match(request, { ignoreSearch: true });
+    if (cached) return cached;
+    return new Response('Offline', { status: 503, statusText: 'Offline' });
+  }
+}
+
+async function networkFirstNoStore(cacheName, request) {
+  const cache = await caches.open(cacheName);
+  try {
+    const noStoreReq = new Request(request, { cache: 'no-store' });
+    const resp = await fetch(noStoreReq);
     cache.put(request, resp.clone());
     return resp;
   } catch (err) {
