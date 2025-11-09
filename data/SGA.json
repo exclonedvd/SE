@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Il reclutamento nella Forza Armata è il processo di:",
+    "answers": [
+      "Cessazione del servizio.",
+      "Selezione e arruolamento del personale.",
+      "Solo avanzamento di carriera.",
+      "Addestramento basico."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Quali sono le principali fonti normative citate per reclutamento e stato giuridico?",
+    "answers": [
+      "D.Lgs. 66/2010 e D.P.R. 90/2010.",
+      "Codice Civile e Penale.",
+      "Solo circolari interne.",
+      "D.Lgs. 81/08."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Tra le categorie del personale militare NON rientra:",
+    "answers": [
+      "Ufficiali.",
+      "Sottufficiali.",
+      "Magistrati militari.",
+      "Graduati e truppa."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il VFP1 prevede:",
+    "answers": [
+      "Età 18–25 e ferma di 1 anno.",
+      "Età 25–35 e ferma di 4 anni.",
+      "Solo per laureati.",
+      "Accesso diretto a SP."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il VFP4 richiede:",
+    "answers": [
+      "Essere ex VFP1 e meno di 30 anni.",
+      "Più di 7 anni di servizio.",
+      "Nessun requisito precedente.",
+      "Più di 35 anni."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nel concorso per il ruolo Marescialli, la quota interna è:",
+    "answers": [
+      "10%",
+      "20%",
+      "30% (10% sergenti, 20% truppa SP)",
+      "70%"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Lo ‘stato giuridico’ del militare è:",
+    "answers": [
+      "Il solo stipendio.",
+      "L’insieme di diritti e doveri derivanti dall’essere militare.",
+      "Solo le sanzioni disciplinari.",
+      "Solo le norme sanitarie."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Le posizioni di stato durante il servizio permanente includono:",
+    "answers": [
+      "Servizio effettivo, aspettativa, sospensione dall’impiego.",
+      "Ferma prefissata, congedo, licenza.",
+      "Congedo assoluto, ausiliaria, riserva.",
+      "Solo servizio effettivo."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L’aspettativa per motivi di salute non dipendente da causa di servizio comporta nel 2° anno:",
+    "answers": [
+      "100% per tutto l’anno.",
+      "50% primo semestre, 0% secondo semestre.",
+      "0% sempre.",
+      "Solo progressione bloccata ma stipendio pieno."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La sospensione dall’impiego ha effetti:",
+    "answers": [
+      "Aumento retribuzione.",
+      "50% retribuzione e anzianità ridotta.",
+      "Nessun effetto economico.",
+      "Retroattività delle promozioni."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Una causa di cessazione dal SP è:",
+    "answers": [
+      "Trasferimento di sede.",
+      "Limiti di età o infermità permanente.",
+      "Richiamo in servizio.",
+      "Cambio di specialità."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il Ruolo d’Onore riguarda:",
+    "answers": [
+      "Militari con demerito disciplinare.",
+      "Militari non idonei per infermità da causa di servizio.",
+      "Solo civili del Ministero.",
+      "Marescialli in quiescenza."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L’esclusività nel SP significa:",
+    "answers": [
+      "Divieto di esercitare altri lavori senza autorizzazione.",
+      "Possibilità di lavoro libero.",
+      "Obbligo di doppio impiego.",
+      "Solo per ufficiali."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Chi emana i bandi di concorso?",
+    "answers": [
+      "SMA – 1° Reparto.",
+      "Comando Scuole A.M.",
+      "Direzione Generale del Personale Militare.",
+      "Stato Maggiore Difesa."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il Comando Scuole A.M. gestisce:",
+    "answers": [
+      "La selezione tramite Centro di Selezione.",
+      "L’addestramento operativo avanzato.",
+      "Solo la logistica.",
+      "Le missioni all’estero."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L’anzianità relativa è:",
+    "answers": [
+      "Il tempo effettivo nel grado.",
+      "La posizione rispetto ai pari grado in graduatoria di merito.",
+      "L’anzianità di servizio totale.",
+      "L’età anagrafica."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Tra le posizioni in congedo NON figura:",
+    "answers": [
+      "Ausiliaria.",
+      "Riserva.",
+      "Complemento.",
+      "Servizio effettivo."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Nel ruolo Marescialli la quota esterna è:",
+    "answers": [
+      "70%",
+      "30%",
+      "50%",
+      "20%"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Un obiettivo del reclutamento è:",
+    "answers": [
+      "Solo ridurre i costi.",
+      "Valutare qualità psicofisiche, morali, culturali e motivazionali.",
+      "Solo aumentare i numeri.",
+      "Limitare la tecnologia."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Le fasi del reclutamento NON includono:",
+    "answers": [
+      "Definizione aliquote e criteri.",
+      "Emissione del bando.",
+      "Valutazioni culturali/linguistiche.",
+      "Nomina del Governo."
+    ],
+    "correctIndex": 3
+  }
+]

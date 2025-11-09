@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Il DIU è una branca che:",
+    "answers": [
+      "Disciplina l’organizzazione interna degli Stati.",
+      "Limita la libertà degli Stati nella conduzione delle ostilità.",
+      "Regola solo i trattati commerciali.",
+      "Riguarda esclusivamente i diritti umani in tempo di pace."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Le principali fonti del DIU includono:",
+    "answers": [
+      "Solo consuetudine.",
+      "Solo trattati.",
+      "Consuetudine, trattati, principi generali.",
+      "Sentenze interne degli Stati."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Le quattro Convenzioni di Ginevra sono del:",
+    "answers": [
+      "1919",
+      "1949",
+      "1977",
+      "2002"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il Protocollo I del 1977 riguarda:",
+    "answers": [
+      "Conflitti armati non internazionali.",
+      "Condotta delle ostilità nei conflitti internazionali.",
+      "Crimini contro l’umanità.",
+      "Sanzioni economiche."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il principio di distinzione impone di:",
+    "answers": [
+      "Colpire sempre centri abitati.",
+      "Distinguere tra civili/combattenti e beni civili/obiettivi militari.",
+      "Usare armi proibite in casi estremi.",
+      "Evitare preavvisi prima degli attacchi."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La proporzionalità richiede che il danno ai civili sia:",
+    "answers": [
+      "Sempre nullo.",
+      "Eccessivo rispetto al vantaggio militare.",
+      "Non eccessivo rispetto al vantaggio militare concreto e diretto.",
+      "Irrilevante se l’obiettivo è legittimo."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Tra i mezzi vietati o regolati figurano:",
+    "answers": [
+      "Armi batteriologiche e chimiche, mine antipersona.",
+      "Fucili d’assalto convenzionali.",
+      "Veicoli corazzati.",
+      "Radio militari."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La perfidia è:",
+    "answers": [
+      "Un lecito stratagemma.",
+      "Vietata: inganno che sfrutta una protezione (es. falsa resa).",
+      "Una forma di sabotaggio.",
+      "Una tattica non regolata."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Lo spionaggio in abiti civili:",
+    "answers": [
+      "È sempre protetto dal DIU.",
+      "È lecito ma non dà protezione se scoperto.",
+      "È vietato.",
+      "È perfidia."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La CPI è stata istituita con:",
+    "answers": [
+      "Statuto di Roma 1998 (in vigore dal 2002).",
+      "Carta ONU 1945.",
+      "Convenzione di Parigi 1993.",
+      "Trattato di Maastricht 1992."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il principio di complementarità della CPI significa che:",
+    "answers": [
+      "La CPI giudica prima degli Stati.",
+      "Interviene solo se lo Stato è inattivo, incapace o non intenzionato.",
+      "Giudica solo Stati, non individui.",
+      "Si applica retroattivamente al 1949."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Tra le condizioni di giurisdizione della CPI rientra:",
+    "answers": [
+      "Solo la nazionalità della vittima.",
+      "Territorialità, nazionalità dell’autore o rinvio del Consiglio di Sicurezza ONU.",
+      "Approvazione del Paese terzo.",
+      "Unanimità dell’Assemblea generale ONU."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il principio di precauzione impone all’attaccante di:",
+    "answers": [
+      "Evitare ogni danno ai civili a prescindere.",
+      "Accertare la natura militare dell’obiettivo e dare preavviso se possibile.",
+      "Usare sempre armi non letali.",
+      "Chiedere autorizzazione alla CPI."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il saccheggio è:",
+    "answers": [
+      "Ammesso contro obiettivi militari.",
+      "Ammesso con autorizzazione del comandante.",
+      "Sempre vietato.",
+      "Vietato solo in ambito urbano."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Le armi chimiche sono vietate dalla:",
+    "answers": [
+      "Convenzione di Ottawa (1997).",
+      "Convenzione di Parigi (1993).",
+      "Protocollo di Ginevra (1925) sulle armi batteriologiche.",
+      "Statuto di Roma (1998)."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Le mine antipersona sono vietate dalla:",
+    "answers": [
+      "Convenzione di Ottawa (1997).",
+      "Protocollo I (1977).",
+      "Convenzione dell’Aia (1907).",
+      "Carta di Parigi (1990)."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Per giurisdizione ratione temporis della CPI si intende:",
+    "answers": [
+      "Solo fatti anteriori al 1998.",
+      "Crimini commessi dopo l’entrata in vigore dello Statuto.",
+      "Solo crimini di guerra.",
+      "Atti commessi in qualunque tempo."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il jus ad bellum regola:",
+    "answers": [
+      "Il diritto di fare guerra (uso della forza).",
+      "La condotta delle ostilità.",
+      "Le immunità diplomatiche.",
+      "Le sanzioni economiche."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Gli attacchi indiscriminati sono:",
+    "answers": [
+      "Ammessi se l’obiettivo è di grande valore.",
+      "Vietati in quanto non distinguono tra civili e militari.",
+      "Ammessi con preavviso.",
+      "Ammessi solo di notte."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il sabotaggio è:",
+    "answers": [
+      "Sempre vietato.",
+      "Ammesso contro obiettivi militari.",
+      "Perfidia.",
+      "Non regolato dal DIU."
+    ],
+    "correctIndex": 1
+  }
+]

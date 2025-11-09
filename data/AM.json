@@ -1,0 +1,202 @@
+[
+  {
+    "question": "L’Italia è:",
+    "answers": [
+      "Monarchia costituzionale.",
+      "Repubblica parlamentare dal 1946.",
+      "Repubblica presidenziale.",
+      "Stato federale."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La bandiera italiana è normata da:",
+    "answers": [
+      "Art. 11 Cost.",
+      "Art. 12 Cost.",
+      "Art. 1 Cost.",
+      "Statuto Albertino."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L’emblema della Repubblica include:",
+    "answers": [
+      "Alloro e corona reale.",
+      "Ulivo, quercia, stella, ruota dentata.",
+      "Spiga e falce.",
+      "Aquila e scudo sabaudo."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L’inno nazionale è:",
+    "answers": [
+      "Fratelli d’Italia (Il Canto degli Italiani).",
+      "Va, pensiero.",
+      "La Marsigliese.",
+      "Giovinezza."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il giuramento militare impegna a:",
+    "answers": [
+      "Obbedire al Governo.",
+      "Difendere Patria, istituzioni democratiche e Costituzione.",
+      "Solo l’AM.",
+      "La NATO."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Un sostegno alla famiglia del militare nel COM è:",
+    "answers": [
+      "Art. 1836 Fondo casa.",
+      "Art. 1 Statuto.",
+      "Art. 32 c.c.",
+      "Art. 2087 c.c."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La data di approvazione della Costituzione è:",
+    "answers": [
+      "1° gennaio 1948.",
+      "22 dicembre 1947 (in vigore dal 1° gennaio 1948).",
+      "2 giugno 1946.",
+      "25 aprile 1945."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La Regia Aeronautica nasce nel:",
+    "answers": [
+      "1911",
+      "1923",
+      "1943",
+      "1909"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Le stellette militari sono ispirate a:",
+    "answers": [
+      "Stella d’Italia.",
+      "Stella polare.",
+      "Stella cometa.",
+      "Stella alpina."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il motto dell’AM è:",
+    "answers": [
+      "Per aspera ad astra.",
+      "Virtute Siderum Tenus.",
+      "Volare oh oh.",
+      "E pluribus unum."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Francesco Baracca è associato a:",
+    "answers": [
+      "Il volo su Vienna.",
+      "Il cavallino rampante e 34 vittorie.",
+      "La prima traversata atlantica.",
+      "La fondazione dell’AM."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Arturo Ferrarin è noto per:",
+    "answers": [
+      "Raid Roma–Tokyo 1920.",
+      "Comando della 91ª Squadriglia.",
+      "Crociere atlantiche.",
+      "Primo volo 1903."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il simbolo della coccarda tricolore appartiene a:",
+    "answers": [
+      "Stemma repubblicano.",
+      "Aeronautica Militare.",
+      "Carabinieri.",
+      "Marina Mercantile."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Italo Balbo:",
+    "answers": [
+      "Fu Capo di Stato Maggiore della Difesa.",
+      "Organizzò crociere aeree atlantiche; figura politica del fascismo.",
+      "Fu pilota del raid Roma–Tokyo.",
+      "Inventò la mongolfiera."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La Sezione Aerostatica del Genio nasce nel:",
+    "answers": [
+      "1783",
+      "1884",
+      "1909",
+      "1920"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il primo volo dei fratelli Wright è del:",
+    "answers": [
+      "1903",
+      "1898",
+      "1911",
+      "1923"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La coccarda tricolore è:",
+    "answers": [
+      "Simbolo delle FS.",
+      "Simbolo aeronautico con cerchi verde-bianco-rosso.",
+      "Una medaglia al valore.",
+      "Parte dello stemma repubblicano."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La Madonna di Loreto è:",
+    "answers": [
+      "Patrona dell’AM.",
+      "Patrona della Marina.",
+      "Simbolo dell’Esercito.",
+      "Una base aerea."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il raid Roma–Tokyo coprì circa:",
+    "answers": [
+      "1.800 km.",
+      "18.000 km.",
+      "180.000 km.",
+      "8.000 km."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La bandiera di guerra dell’AM è:",
+    "answers": [
+      "Uno stendardo blu.",
+      "Il vessillo di reparto da combattimento.",
+      "La coccarda.",
+      "Il tricolore con scudo sabaudo."
+    ],
+    "correctIndex": 1
+  }
+]

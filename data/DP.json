@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Che cos’è il reato militare?",
+    "answers": [
+      "Reato previsto dal Codice Penale Militare",
+      "Qualsiasi reato commesso da un militare",
+      "Reato commesso in tempo di guerra",
+      "Infrazione disciplinare grave"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quando si applica il Codice Penale Militare di Guerra?",
+    "answers": [
+      "In tempo di pace",
+      "Solo in missioni all’estero",
+      "In tempo di guerra o operazioni assimilate",
+      "In tempo di pace all’estero"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Qual è un esempio di reato contro la disciplina?",
+    "answers": [
+      "Diserzione",
+      "Spionaggio",
+      "Insubordinazione",
+      "Vilipendio"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Cosa comporta la degradazione nel CPMP?",
+    "answers": [
+      "Licenziamento",
+      "Sospensione temporanea",
+      "Perdita definitiva della qualità di militare",
+      "Retrogradazione simbolica"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Chi giudica in primo grado i reati militari in tempo di pace?",
+    "answers": [
+      "Corte d’Appello",
+      "Tribunale Militare",
+      "Corte dei Conti",
+      "T.A.R."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il reato di vilipendio colpisce:",
+    "answers": [
+      "La bandiera",
+      "Il codice etico",
+      "L'onore della Forza Armata",
+      "L’equipaggiamento"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Cosa si intende per 'inosservanza della consegna'?",
+    "answers": [
+      "Una dimenticanza",
+      "Una violazione di ordini specifici di guardia o sorveglianza",
+      "Una negligenza tecnica",
+      "Un errore procedurale"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L’insubordinazione si verifica quando:",
+    "answers": [
+      "Il militare è assente",
+      "Si rifiuta un ordine",
+      "Si aggredisce verbalmente/fisicamente un superiore",
+      "Si chiede un cambio mansione"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La legittima difesa è:",
+    "answers": [
+      "Una pena",
+      "Una causa di non punibilità",
+      "Un illecito minore",
+      "Una procedura"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il Codice Penale Militare di Pace si applica:",
+    "answers": [
+      "Solo all’estero",
+      "Solo ai superiori",
+      "In tempo di pace in territorio nazionale",
+      "Solo a ufficiali"
+    ],
+    "correctIndex": 2
+  }
+]

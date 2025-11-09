@@ -1,0 +1,212 @@
+[
+  {
+    "question": "Il diritto costituzionale regola:",
+    "answers": [
+      "Solo il potere giudiziario.",
+      "Organizzazione dello Stato, organi, diritti e doveri, autonomie.",
+      "Solo i diritti sociali.",
+      "Solo le elezioni."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "I tre elementi costitutivi dello Stato sono:",
+    "answers": [
+      "Popolo, territorio, sovranità.",
+      "Parlamento, governo, presidente.",
+      "Regioni, province, comuni.",
+      "Esecutivo, legislativo, giudiziario."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Lo Stato regionale è:",
+    "answers": [
+      "Privo di autonomie.",
+      "Centrale su tutto.",
+      "Con autonomie locali significative (es. Italia).",
+      "Una federazione di Stati sovrani."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La forma di governo italiana è:",
+    "answers": [
+      "Presidenziale.",
+      "Parlamentare.",
+      "Semipresidenziale.",
+      "Direttoriale."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Lo Statuto Albertino era:",
+    "answers": [
+      "Rigido.",
+      "Flessibile concesso dal re.",
+      "Non scritto.",
+      "Una legge elettorale."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La Costituzione del 1948 è:",
+    "answers": [
+      "Flessibile.",
+      "Scritta, rigida, lunga, garantista.",
+      "Consuetudinaria.",
+      "Non democratica."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il Parlamento italiano è:",
+    "answers": [
+      "Monocamerale.",
+      "Bicamerale.",
+      "Tricamerale.",
+      "Assemblea costituente permanente."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Requisiti per il Presidente della Repubblica:",
+    "answers": [
+      "≥ 40 anni.",
+      "≥ 50 anni, cittadino italiano, diritti civili e politici.",
+      "≥ 35 anni.",
+      "Nessun requisito."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Durata del mandato presidenziale:",
+    "answers": [
+      "5 anni.",
+      "7 anni.",
+      "4 anni.",
+      "9 anni."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Elettorato attivo per la Camera:",
+    "answers": [
+      "≥ 21 anni.",
+      "≥ 18 anni.",
+      "≥ 25 anni.",
+      "≥ 40 anni."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Elettorato passivo per il Senato:",
+    "answers": [
+      "≥ 25 anni.",
+      "≥ 30 anni.",
+      "≥ 40 anni.",
+      "≥ 50 anni."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Numero dei deputati dopo la riforma:",
+    "answers": [
+      "630",
+      "400",
+      "500",
+      "200"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Numero dei senatori elettivi dopo la riforma:",
+    "answers": [
+      "315",
+      "200",
+      "100",
+      "250"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il Governo è responsabile:",
+    "answers": [
+      "Verso il Presidente.",
+      "Verso il Parlamento.",
+      "Verso la Corte dei Conti.",
+      "Verso la Corte Costituzionale."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Tra gli organi costituzionali NON rientra:",
+    "answers": [
+      "Parlamento.",
+      "Corte dei Conti.",
+      "Presidente della Repubblica.",
+      "Governo."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La Corte Costituzionale:",
+    "answers": [
+      "È un organo di rilievo costituzionale.",
+      "È un organo costituzionale.",
+      "Non è prevista.",
+      "È un organo amministrativo."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il CNEL è:",
+    "answers": [
+      "Organo di rilievo costituzionale.",
+      "Organo costituzionale.",
+      "Organo giudiziario.",
+      "Parte del Governo."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il corpo elettorale comprende:",
+    "answers": [
+      "Solo i cittadini con laurea.",
+      "I cittadini con requisiti (età e diritti) e non colpiti da interdizioni.",
+      "I residenti stranieri.",
+      "Solo i militari."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il Consiglio dei Ministri è:",
+    "answers": [
+      "Organo collegiale del Governo.",
+      "Organo monocratico.",
+      "Organo giudiziario.",
+      "Organo del Parlamento."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il Presidente della Repubblica, al termine del mandato:",
+    "answers": [
+      "Decade da ogni carica.",
+      "Diventa senatore a vita.",
+      "Diventa deputato.",
+      "Torna primo ministro."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il principio della separazione dei poteri implica:",
+    "answers": [
+      "Accumulo di poteri.",
+      "Ripartizione tra legislativo, esecutivo e giudiziario.",
+      "Supremazia del Parlamento.",
+      "Supremazia del Governo."
+    ],
+    "correctIndex": 1
+  }
+]
