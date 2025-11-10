@@ -6,6 +6,64 @@
 <style>
 .site-logo img{ border-radius:50%; width:64px; height:64px; object-fit:cover; display:block }
 @media (min-width:768px){ .site-logo img{ width:72px; height:72px } }
+
+.select-wrap{ position:relative; width:100% }
+.select.fancy{
+  -webkit-appearance:none; appearance:none;
+  width:100%;
+  padding:12px 44px 12px 14px;
+  border-radius:14px;
+  border:1px solid #ffffff1f;
+  color:var(--txt);
+  background:
+    linear-gradient(180deg, #ffffff14, #ffffff08),
+    var(--glass-strong);
+  box-shadow:0 10px 30px #00000033;
+  font:inherit; cursor:pointer;
+  transition: transform .12s ease, box-shadow .12s ease, background .2s, border-color .2s;
+}
+.select.fancy:hover{
+  transform: translateY(-1px);
+  box-shadow:0 14px 34px #00000044;
+  border-color:#9acbff44;
+  background:
+    linear-gradient(180deg, #75e6ff40, #7c6bff30),
+    var(--glass-strong);
+}
+.select.fancy:focus{ outline:2px solid #7daaffaa; outline-offset:2px }
+.select-wrap::after{
+  content:"";
+  position:absolute; right:12px; top:50%; transform:translateY(-50%);
+  width:22px; height:22px; pointer-events:none; opacity:.9;
+  background:
+    url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path fill='%23dfe8ff' d='M7 10l5 5 5-5z'/></svg>")
+    center/20px 20px no-repeat;
+  filter: drop-shadow(0 1px 0 rgba(0,0,0,.25));
+}
+@media (prefers-color-scheme: light){
+  .select-wrap::after{ background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path fill='%231a2440' d='M7 10l5 5 5-5z'/></svg>"); }
+}
+
+.modal-overlay{ position:fixed; inset:0; display:grid; place-items:center; background:rgba(0,0,0,.45); z-index:9999; backdrop-filter: blur(4px); }
+.modal-overlay.hidden{ display:none }
+.modal{ max-width:420px; width:92vw; border-radius:18px; padding:18px; background:var(--glass); border:1px solid #ffffff2a; box-shadow:0 20px 50px #00000055 }
+.modal-header{ font-weight:800; font-size:1.15rem; margin-bottom:10px }
+.modal-body{ color:var(--muted); margin-bottom:16px }
+.modal-actions{ display:flex; gap:10px; justify-content:flex-end }
+
+/* dropdown dark fix */
+.select.fancy{ color-scheme: dark; }
+.select.fancy option, .select.fancy optgroup{
+  background-color: rgba(16, 26, 44, .98);
+  color: var(--txt);
+}
+@media (prefers-color-scheme: light){
+  .select.fancy{ color-scheme: light; }
+  .select.fancy option, .select.fancy optgroup{
+    background-color:#fff;
+    color:#1a2440;
+  }
+}
 </style>
 
   <meta charset="utf-8" />
@@ -122,11 +180,11 @@
       <div class="grid">
         <div class="field">
           <label for="subject">Materia</label>
-          <select id="subject"></select>
+          <div class="select-wrap"><select id="subject" class="select fancy"></select></div>
         </div>
         <div class="field">
           <label for="qcount">Numero di domande</label>
-          <input type="number" id="qcount" min="1" max="200" value="20" />
+          <div class="select-wrap"><select id="qcount" class="select fancy"><option value="10">10</option><option value="20" selected>20</option><option value="30">30</option><option value="50">50</option><option value="100">100</option><option value="all">Tutte</option></select></div>
         </div>
       </div>
       <div class="btn-row" style="margin-top:14px">
@@ -179,6 +237,18 @@
 </div>
     <footer> </footer>
   </main>
+
+<div id="end-modal" class="modal-overlay hidden">
+  <div class="modal card">
+    <div class="modal-header">Termina quiz?</div>
+    <div class="modal-body">Vuoi terminare il quiz?</div>
+    <div class="modal-actions">
+      <button class="btn" id="end-cancel">Annulla</button>
+      <button class="btn primary" id="end-confirm">Termina</button>
+    </div>
+  </div>
+</div>
+
 
   <script>
     (function spawnParticles(){
@@ -245,6 +315,7 @@
 
     const subjectSelect = $('#subject');
     const qcountInput = $('#qcount');
+    const savedQ = load('qcount', '20'); if(qcountInput && savedQ) qcountInput.value = savedQ;
     const bankSizeTag = $('#bank-size');
     const shuffleBtn = $('#shuffle-toggle');
     const importBtn = $('#import-json');
@@ -302,7 +373,7 @@
       let bank = [];
       if(sel.startsWith('__local__:')){ bank = customBanks[sel.split(':')[1]] || []; } else { bank = await fetchJSON('data/' + sel) || []; }
       if(!Array.isArray(bank) || !bank.length) { alert('Banca dati vuota o non valida'); AudioFX.ko(); return }
-      const n = Math.min(parseInt(qcountInput.value||'1',10), bank.length);
+      const n = (qcountInput.value==='all') ? bank.length : Math.min(parseInt(qcountInput.value||'1',10), bank.length);
       let pool = [...bank.keys()]; if(SHUFFLE) pool = shuffle(pool);
       order = pool.slice(0, n);
       questions = bank; current = 0; score = 0; selected.clear(); viewOrder.clear(); locked.clear();
@@ -368,10 +439,17 @@
       if(nextIdx >= 0 && nextIdx < order.length){ current = nextIdx; renderQuestion(); AudioFX.click(); }
       setTimeout(()=> navBusy=false, 80);
     }
-    $('#next')?.addEventListener('click', ()=> safeNav(+1));
+    $('#next')?.addEventListener('click', ()=>{
+      try{
+        if(typeof current!=='undefined' && Array.isArray(order) && current >= order.length - 1){
+          openEndModal(); return;
+        }
+      }catch(_){}
+      safeNav(+1);
+    });
     $('#prev')?.addEventListener('click', ()=> safeNav(-1));
 
-    $('#finish')?.addEventListener('click', ()=>{ finishQuiz(); AudioFX.click(); });
+    $('#finish')?.addEventListener('click', ()=>{ openEndModal(); AudioFX.click(); });
     $('#restart')?.addEventListener('click', ()=>{
       const n = order.length;
       score=0; selected.clear(); locked.clear(); viewOrder.clear(); current=0;
@@ -562,5 +640,21 @@
       }, { passive: true });
     })();
   </script>
+
+<script>
+(function(){
+  const overlay = document.getElementById('end-modal');
+  const btnOk = document.getElementById('end-confirm');
+  const btnNo = document.getElementById('end-cancel');
+  function openEndModal(){ overlay?.classList.remove('hidden'); }
+  function closeEndModal(){ overlay?.classList.add('hidden'); }
+  window.openEndModal = openEndModal;
+  btnNo?.addEventListener('click', closeEndModal);
+  overlay?.addEventListener('click', (e)=>{ if(e.target===overlay) closeEndModal(); });
+  btnOk?.addEventListener('click', ()=>{ closeEndModal(); finishQuiz(); });
+  document.addEventListener('keydown', (e)=>{ if(e.key==='Escape') closeEndModal(); });
+})();
+</script>
+
 </body>
 </html>
