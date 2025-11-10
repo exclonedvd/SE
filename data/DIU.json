@@ -1,4 +1,264 @@
 [
+ {
+    "question": "Definizione e competenza",
+    "answers": [
+      "Obblighi interni degli Stati",
+      "Un obbligo internazionale essenziale alla protezione degli interessi della comunità nel suo insieme",
+      "Norme consuetudinarie minori",
+      "Regole amministrative ONU"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La competenza 'ratione materiae' della CPI (art. 5) riguarda:",
+    "answers": [
+      "Tutti i reati internazionali",
+      "Genocidio, crimini contro l’umanità, crimini di guerra e crimine di aggressione",
+      "Solo terrorismo e pirateria",
+      "Solo crimini ambientali"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L’articolo che definisce il genocidio nello Statuto di Roma è:",
+    "answers": [
+      "Art. 5",
+      "Art. 6",
+      "Art. 7",
+      "Art. 8 bis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "I crimini contro l’umanità sono disciplinati dall’art.:",
+    "answers": [
+      "6",
+      "7",
+      "8",
+      "8 bis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "I crimini di guerra sono disciplinati dall’art.:",
+    "answers": [
+      "8",
+      "6",
+      "7",
+      "9"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il crimine di aggressione è definito all’art.:",
+    "answers": [
+      "8 bis",
+      "6 bis",
+      "10",
+      "12"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il genocidio richiede che gli atti siano rivolti contro:",
+    "answers": [
+      "Qualsiasi gruppo sociale",
+      "Un gruppo nazionale, etnico, razziale o religioso in quanto tale",
+      "Solo minoranze politiche",
+      "Gruppi linguistici"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Tra gli atti tipici di genocidio figura:",
+    "answers": [
+      "Distruzione di beni culturali",
+      "Uccidere membri del gruppo",
+      "Spostamenti forzati interni",
+      "Imporre coprifuoco"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Tra gli atti tipici NON rientra:",
+    "answers": [
+      "Imporre misure dirette a impedire le nascite nel gruppo",
+      "Trasferire con la forza bambini del gruppo in un altro",
+      "Ridurre la libertà di circolazione",
+      "Sottoporre il gruppo a condizioni di vita volte alla sua distruzione"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "L’elemento soggettivo del genocidio richiede:",
+    "answers": [
+      "Consapevolezza generica del danno",
+      "L’intenzione di distruggere, in tutto o in parte, il gruppo preso di mira (dolo genocidiario)",
+      "Colpa grave",
+      "Animus lucrandi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La depersonalizzazione della vittima, nelle slide, indica che:",
+    "answers": [
+      "La vittima è considerata solo per la sua appartenenza al gruppo",
+      "Si tutela solo la persona singola",
+      "Non rileva l’appartenenza al gruppo",
+      "È elemento dei crimini di guerra"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "I crimini contro l’umanità sono atti:",
+    "answers": [
+      "Compiuti solo in guerra",
+      "Compiuti intenzionalmente nell’ambito di un attacco diffuso o sistematico contro la popolazione civile",
+      "Solo contro militari",
+      "Solo in tempo di pace"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Tra gli atti possibili rientrano:",
+    "answers": [
+      "Assassinio, sterminio, deportazione, riduzione in schiavitù, tortura",
+      "Solo furto e rapina",
+      "Solo danni ambientali",
+      "Solo propaganda"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Secondo le slide, possono essere vittime anche:",
+    "answers": [
+      "Solo civili",
+      "Militari hors de combat",
+      "Solo combattenti attivi",
+      "Solo personale ONU"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La natura 'diffusa o sistematica' richiama:",
+    "answers": [
+      "Una prassi estesa o un comportamento organizzato/persecutorio",
+      "Un singolo atto isolato",
+      "Una violenza casuale",
+      "Solo legge marziale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "I crimini di guerra sono azioni:",
+    "answers": [
+      "Sempre in tempo di pace",
+      "Compiute durante un conflitto armato con trattamento disumano di civili o combattenti",
+      "Solo contro beni culturali",
+      "Solo contro prigionieri"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Secondo le slide:",
+    "answers": [
+      "È necessario un gran numero di eventi",
+      "Anche un singolo crimine può costituire crimine di guerra",
+      "Servono almeno tre episodi",
+      "Solo atti contro la popolazione civile rilevano"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Per i conflitti armati internazionali l’art. 8, co. 2, lett. a) richiama:",
+    "answers": [
+      "Gravi violazioni delle Convenzioni di Ginevra del 1949",
+      "Solo violazioni della Carta ONU",
+      "Reati economici",
+      "Violazioni del diritto del mare"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Per i conflitti armati internazionali l’art. 8, co. 2, lett. b) richiama:",
+    "answers": [
+      "Altre gravi violazioni delle leggi e degli usi applicabili nel diritto internazionale (es. bambini soldato)",
+      "Solo crimini informatici",
+      "Solo violazioni ambientali",
+      "Solo saccheggio"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Per i conflitti armati non internazionali l’art. 8, co. 2, lett. c) richiama:",
+    "answers": [
+      "Gravi violazioni dell’art. 3 comune alle quattro Convenzioni di Ginevra",
+      "Solo violazioni dell’art. 2 della CEDU",
+      "Solo reati comuni",
+      "Solo violazioni amministrative"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Per i conflitti armati non internazionali l’art. 8, co. 2, lett. e) riguarda:",
+    "answers": [
+      "Violazioni del diritto del mare",
+      "Altre gravi violazioni delle leggi e degli usi applicabili nel diritto internazionale",
+      "Solo crimini di aggressione",
+      "Solo atti terroristici"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il crimine di aggressione consiste in:",
+    "answers": [
+      "Ogni uso della forza",
+      "Pianificazione, preparazione, inizio o esecuzione, da parte di chi dirige l’azione politica/militare dello Stato, di un atto di aggressione che costituisca manifesta violazione della Carta ONU",
+      "Solo invasione economica",
+      "Un atto qualunque di spionaggio"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La definizione identifica il soggetto attivo come:",
+    "answers": [
+      "Qualsiasi cittadino",
+      "Chi esercita controllo effettivo o dirige l’azione politica/militare dello Stato (leadership crime)",
+      "Solo militari di leva",
+      "Solo civili"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L’atto di aggressione (art. 8 bis, co. 2) è:",
+    "answers": [
+      "Uso della forza armata di uno Stato contro un altro Stato contrario alla Carta ONU",
+      "Uso di sanzioni economiche",
+      "Rompere relazioni diplomatiche",
+      "Un embargo commerciale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Per 'crimini trasversali' si intende che:",
+    "answers": [
+      "Ogni crimine è unico",
+      "Un solo fatto può configurare più fattispecie contemporaneamente (es. tortura come crimine contro l’umanità e crimine di guerra)",
+      "Non esiste concorso di norme",
+      "Riguarda solo il genocidio"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Un esempio di crimine trasversale nelle slide è:",
+    "answers": [
+      "Furto",
+      "Violenza sessuale (crimine di guerra, contro l’umanità e di genocidio)",
+      "Pirateria",
+      "Danneggiamento"
+    ],
+    "correctIndex": 1
+  },
   {
     "question": "Il Diritto internazionale dei conflitti armati è una branca del diritto internazionale pubblico che:",
     "answers": [
