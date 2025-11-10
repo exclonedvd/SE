@@ -1,0 +1,452 @@
+[
+  {
+    "question": "Obiettivo del briefing:",
+    "answers": [
+      "Illustrare norme di contabilità",
+      "Fornire elementi sulla figura di Gender Advisor e Gender Matter Focal Point",
+      "Presentare le uniformi storiche",
+      "Descrivere l’iter di avanzamento"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Tra i riferimenti normativi citati NELLE SLIDE figurano:",
+    "answers": [
+      "Linee guida SMD 2017 e SMA-ORD-140 (Ed. 2025), Risoluzione ONU 1325/2000",
+      "Carta ONU 1945 e Trattato di Maastricht",
+      "DPR 90/2010 e Codice della Strada",
+      "Solo Statuto di Roma 1998"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La Risoluzione ONU 1325 è stata adottata il:",
+    "answers": [
+      "31 ottobre 2000",
+      "1 gennaio 2002",
+      "11 novembre 2025",
+      "21 marzo 1999"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il 'sesso' (sex) riguarda:",
+    "answers": [
+      "Differenze biologiche/anatomiche e corredo cromosomico",
+      "Solo ruoli sociali",
+      "Orientamento politico",
+      "Appartenenza a un reparto"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il 'genere' (gender) è:",
+    "answers": [
+      "Innato e immutabile",
+      "Appreso/socialmente costruito e rappresentato nel comportamento/linguaggio/abbigliamento",
+      "Solo biologico",
+      "Sinonimo di sesso"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il genere:",
+    "answers": [
+      "È identico in tutte le culture",
+      "Varia tra culture e nel tempo, generando ruoli/responsabilità/opportunità diverse",
+      "Non influenza i bisogni",
+      "Riguarda solo le donne"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La parità di trattamento nel mondo militare implica assenza di discriminazioni in:",
+    "answers": [
+      "Accesso al lavoro, selezione, arruolamento, impiego, carriera, formazione e retribuzioni",
+      "Solo retribuzioni",
+      "Solo accesso ai corsi",
+      "Solo impieghi di rappresentanza"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il concetto di 'pari opportunità' mira a:",
+    "answers": [
+      "Uniformare i comportamenti",
+      "Garantire la possibilità di scelta senza discriminazioni, nella vita privata e professionale",
+      "Ridurre la presenza femminile",
+      "Limitare l’accesso ai ruoli operativi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Deroghe al principio di parità sono ammesse quando:",
+    "answers": [
+      "Non sono mai ammesse",
+      "Il sesso è requisito essenziale e determinante per specifici incarichi, con obiettivo legittimo e requisito proporzionato",
+      "Lo decide il comandante senza motivazione",
+      "Lo chiede l’interessato"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "All’atto dell’incorporazione l’Amministrazione verifica:",
+    "answers": [
+      "Solo il titolo di studio",
+      "Stato civile e maternità/paternità per gestire particolari esigenze (es. prime assegnazioni)",
+      "Solo l’idoneità fisica",
+      "Solo l’anzianità anagrafica"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Gli allievi/e in particolari condizioni familiari possono:",
+    "answers": [
+      "Essere esclusi dai corsi",
+      "Essere dispensati dal pernottamento in infrastruttura militare",
+      "Non essere assegnati",
+      "Essere sempre trasferiti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il personale femminile va assegnato:",
+    "answers": [
+      "Concentrato in pochi enti",
+      "In modo omogeneo presso le articolazioni FA/interforze per evitare minoranze esigue e favorire inserimento",
+      "Solo in reparti amministrativi",
+      "Solo in reparti operativi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Nelle attività di rappresentanza:",
+    "answers": [
+      "Si privilegia un genere",
+      "Impiegare equamente, garantendo eterogeneità per grado e FA",
+      "Solo uomini",
+      "Solo ufficiali"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Coniugi/parenti/affini (entro 4° grado) militari nello stesso Ente:",
+    "answers": [
+      "Devono essere nella stessa linea gerarchica",
+      "Vanno assegnati a Reparti/Uffici diversi; evitare impiego congiunto in attività ad alto rischio",
+      "Non possono convivere",
+      "Sono esclusi dalle missioni"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il gender mainstreaming è:",
+    "answers": [
+      "Una moda passeggera",
+      "La strategia UE per integrare esigenze/esperienze di uomini e donne in pianificazione/implementazione/monitoraggio/valutazione",
+      "Solo formazione",
+      "Solo un slogan"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L’obiettivo del gender mainstreaming è:",
+    "answers": [
+      "L’uguaglianza di genere",
+      "Ridurre la comunicazione",
+      "Escludere le donne",
+      "Uniformare le culture"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La prospettiva di genere significa:",
+    "answers": [
+      "Analizzare iniziative dal solo punto di vista femminile",
+      "Esaminare ogni iniziativa dal punto di vista di donne, uomini, ragazze e ragazzi per riconoscerne differenze di bisogni/priorità/contributi",
+      "Ridurre gli standard",
+      "Solo politica comunicativa"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il Gender Advisor è:",
+    "answers": [
+      "Un ispettore amministrativo",
+      "Una figura di staff/consulente per le questioni di genere a supporto del Comandante in patria e in teatro",
+      "Un funzionario civile esterno",
+      "Solo un formatore"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In patria il GA:",
+    "answers": [
+      "Si occupa solo di missioni estere",
+      "Favorisce pari opportunità, supera barriere di genere, sensibilizza su violenza (stalking/mobbing) e attua linee guida SMD",
+      "Gestisce stipendi",
+      "Comanda i reparti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In teatro operativo il GA:",
+    "answers": [
+      "Ha ruolo marginale",
+      "Assiste leadership/staff nella pianificazione/condotta, integra prospettiva di genere per efficacia e percezione positiva",
+      "Evita il contatto con la popolazione",
+      "Sostituisce il Comandante"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il Gender Focal Point:",
+    "answers": [
+      "È una figura alternativa al GA",
+      "Supporta il GA ai livelli minori creando rete informativa per integrare il fattore genere nelle attività quotidiane",
+      "È un organo di PG",
+      "È un addetto PAO"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Nella pianificazione operativa:",
+    "answers": [
+      "Il fattore genere è irrilevante",
+      "La pianificazione deve essere 'gender informed' sin dall’analisi (PMEESI) e generare task coerenti",
+      "Si considera solo la logistica",
+      "Conta solo l’intelligence tecnica"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L’analisi di genere si chiede, tra l’altro:",
+    "answers": [
+      "Chi prende ferie",
+      "Chi fa cosa, chi decide, usi/abitudini, aree/tempi frequentati, strade usate, aree sensibili (es. aggressioni)",
+      "Chi è il più anziano",
+      "Chi parla inglese"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il J9/CIMIC:",
+    "answers": [
+      "Evita temi di genere",
+      "Include aspetti di genere nei report e facilita contatti con organizzazioni femminili",
+      "Si occupa solo di welfare interno",
+      "Comanda il GA"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il PIO/PAO:",
+    "answers": [
+      "Non tratta il tema",
+      "Viene consigliato sull’inclusione di contenuti di genere nei messaggi a tutti i livelli",
+      "Opera solo in Patria",
+      "Si occupa solo di media militari"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Integrazione di genere:",
+    "answers": [
+      "È separare i generi",
+      "È strumento per valutare differenze di ruoli/potere/accesso risorse e rientra nel Comprehensive Approach NATO",
+      "È solo statistica",
+      "È un obbligo solo per civili"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Per armonizzare la preparazione sul tema è essenziale:",
+    "answers": [
+      "Formazioni occasionali",
+      "Formazione e addestramento per frequentatori di corsi, indottrinamento specifico ai Comandanti, team formativi misti, coinvolgere anche personale civile",
+      "Solo e-learning",
+      "Solo briefing al GA"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L’aspetto chiave (moltiplicatore di forza) in patria è:",
+    "answers": [
+      "Eventi isolati",
+      "Continuità dell’azione di Comando",
+      "Solo nuove infrastrutture",
+      "Sanzioni disciplinari"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il ruolo del Comandante include:",
+    "answers": [
+      "Ignorare indicatori di disagio",
+      "Vigilare e valutare indicatori (assenze, nervosismo, richieste improvvise di trasferimento) e promuovere cultura di integrazione",
+      "Affidare tutto al GA",
+      "Evitare la formazione"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Tra gli obiettivi della UNSCR 1325:",
+    "answers": [
+      "Solo disarmo",
+      "Riconoscere ruolo delle donne in prevenzione/risoluzione dei conflitti, maggiore partecipazione, prospettiva di genere, formazione sui diritti",
+      "Sostituire ONU",
+      "Riformare il CS ONU"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il paradigma delle '3P' sta per:",
+    "answers": [
+      "Peace, Power, Policy",
+      "Prevenzione, Partecipazione, Protezione",
+      "Policing, Planning, Publicity",
+      "People, Planet, Prosperity"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Secondo le slide, la prospettiva di genere:",
+    "answers": [
+      "È un codice rigido",
+      "È una sensibilità da trasmettere (non codice/scienza/ideologia/moda)",
+      "È una dottrina militare",
+      "È superflua"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Nel modello di Forze Armate moderne:",
+    "answers": [
+      "La componente femminile è marginale",
+      "La valorizzazione senza pregiudizi di tutte le risorse è essenziale per efficacia ed efficienza",
+      "Si limita l’impiego femminile all’amministrazione",
+      "Si evita l’addestramento congiunto"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il GA riporta principalmente a:",
+    "answers": [
+      "PAO/PIO",
+      "Comandante (con accesso diretto allo staff e al processo decisionale)",
+      "Capo Sezione Logistica",
+      "Infermeria di Corpo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il GFP:",
+    "answers": [
+      "Sostituisce il GA in teatro",
+      "Supporta GA ai livelli minori, raccoglie segnalazioni ed esigenze e cura il mainstreaming day-by-day",
+      "È un organo investigativo",
+      "Opera solo in tempo di pace"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Un output tipico del GA in operazione è:",
+    "answers": [
+      "Libro matricola",
+      "Annex/appendici gender a piani/OPORD/FRAGO e indicatori per reporting",
+      "Ordini di servizio amministrativi",
+      "Bollettini meteo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La differenza chiave GA vs GFP è che:",
+    "answers": [
+      "Il GA è un consigliere di staff, il GFP è un punto di contatto nei reparti/uffici",
+      "Il GA svolge solo PAO",
+      "Il GFP comanda il reparto",
+      "Non esistono differenze"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Tra gli indicatori precoci di disagio collegati a discriminazioni di genere rientrano:",
+    "answers": [
+      "Miglioramento della performance",
+      "Assenteismo anomalo, richieste improvvise di trasferimento, lamentele informali, calo rendimento",
+      "Premi e encomi",
+      "Partecipazione volontaria elevata"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Prima misura del Comandante di fronte a segnali credibili è:",
+    "answers": [
+      "Ignorare per evitare clamore",
+      "Ascolto attivo, raccolta dati, coinvolgimento di GA/GFP/ORP/medico e tutela della riservatezza",
+      "Inviare tutti in licenza",
+      "Trasferire d’autorità la presunta vittima"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In presenza di indizi di violenza/stalking/mobbing:",
+    "answers": [
+      "È tema solo privato",
+      "Si attivano i canali disciplinari/giudiziari e si dispone tutela immediata della persona offesa",
+      "Si convoca un’assemblea generale",
+      "Si pubblica sui social di reparto"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Per misurare il clima organizzativo uno strumento utile è:",
+    "answers": [
+      "Gara sportiva",
+      "Questionari anonimi/focus group periodici su percezione di equità e pari opportunità",
+      "Taglio straordinari",
+      "Rotazione forzata del personale"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Nel quadro PMEESI l’analisi di genere:",
+    "answers": [
+      "Riguarda solo la dimensione Military",
+      "Attraversa tutte le dimensioni (Political, Military, Economic, Environmental, Social, Informational)",
+      "È opzionale",
+      "Si fa solo in fase di condotta"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Un esito atteso dell’analisi di genere in pianificazione è:",
+    "answers": [
+      "Eliminare i CCIR",
+      "Definire task/LOA, misure e CCIR gender‑informed (es. accesso ai servizi, fasce orarie sicure, interlocutori)",
+      "Ridurre i contatti con la popolazione",
+      "Unicamente predisporre briefing PAO"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Esempio di misura operativa coerente con l’analisi di genere:",
+    "answers": [
+      "Pattuglie composte solo da personale maschile",
+      "Impiego di Female Engagement Team e finestre orarie/luoghi di contatto compatibili con usi locali",
+      "Vietare ogni interazione con civili",
+      "Spostare il TOA"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Nella comunicazione esterna è buona pratica:",
+    "answers": [
+      "Usare immagini stereotipate e messaggi generici",
+      "Presentare risultati con dati disaggregati per sesso e messaggi non stereotipati coerenti con l’azione operativa",
+      "Evitare ogni riferimento al tema",
+      "Delegare tutto al GA"
+    ],
+    "correctIndex": 1
+  }
+]
