@@ -1,0 +1,72 @@
+[
+  {
+    "question": "Cosa si intende per gender advaisor?",
+    "answers": [
+      "Ufficiale legale che segue contenziosi e procedure disciplinari in materia di pari opportunità.",
+      "Consulente per questioni di genere da impiegare in patria e in teatro operativo per l’adozione delle prospettive di genere è obbiettivo strategici dell ente a disposizione del comandante .",
+      "Funzionario addetto alla comunicazione (PAO) responsabile esclusivamente dei rapporti con i media.",
+      "Istruttore di educazione fisica incaricato dell’addestramento di base del personale."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Qual è il pilastro fondamentale da cui discende la  prospettiva di genere?",
+    "answers": [
+      "Direttiva SMD sul Gender Mainstreaming (edizioni nazionali).",
+      "É la risoluzione ONU \"Donne Pace Sicurezza\" n. 1325 del 2000.",
+      "Agenda ONU 2030 – Obiettivo 5 “Uguaglianza di genere”.",
+      "Risoluzione ONU 1820/2008 sulla violenza sessuale nei conflitti."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Quale norma ha introdotto emanazioni di decreti per disciplinare il reclutamento per lo stato giuridico dell’ avanzamento per il personale femminile?",
+    "answers": [
+      "D.P.R. 90/2010 (Testo unico regolamentare).",
+      "Legge 226/2004 (sospensione del servizio di leva obbligatorio).",
+      "D.Lgs. 66/2010 (Codice dell’ordinamento militare).",
+      "Legge n 380/1999"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Cosa ha comportato ingresso della compagine femminile nel mondo militare?",
+    "answers": [
+      "Obbligo di separazione totale di addestramento e servizi tra personale maschile e femminile.",
+      "Riduzione generalizzata dei requisiti fisici per il personale maschile.",
+      "Soppressione dei reparti misti a favore di unità esclusivamente femminili.",
+      "Ingresso della componente femminile ha comportato la necessità di adeguare non soltanto le infrastrutture militari, ma ha imposto un radicale cambiamento soprattutto nella mentalità"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Cosa e stato previsto con l’introduzione della legge 380 del 1999 in merito alla prospettiva di genere?",
+    "answers": [
+      "Sospensione dell’arruolamento femminile per un periodo transitorio.",
+      "Esclusione del personale femminile dalle operazioni all’estero.",
+      "Istituzione di un contingente femminile separato e non integrato.",
+      "Emanazione di una serie di decreti per disciplinare il reclutamento lo stato giuridico e l’avanzamento del personale femminile"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Cosa sono i FET? (Female Engagement Team)",
+    "answers": [
+      "Team medici di pronto intervento a supporto sanitario delle unità combattenti.",
+      "Nuclei di polizia militare dedicati alle attività investigative interne.",
+      "Unità speciali per operazioni di irruzione ad alto rischio.",
+      "Gruppi di squadre miste (Maschi e femmine) per raccogliere informazioni da tutte le componenti del tessuto sociale nelle aree di crisi, dove le forze armate sono chiamate a intervenire"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Quali sono le differenze tra Sesso e genere?",
+    "answers": [
+      "Sono sinonimi e usati in modo intercambiabile in ogni contesto.",
+      "Il genere è un dato esclusivamente biologico, mentre il sesso indica ruoli sociali.",
+      "Il sesso riguarda preferenze e stereotipi; il genere riguarda solo caratteristiche fisiche.",
+      "Il sesso riguarda le differenze biologiche anatomiche tra maschio e femmina, il genere è costituito e creato quotidianamente"
+    ],
+    "correctIndex": 3
+  }
+]
