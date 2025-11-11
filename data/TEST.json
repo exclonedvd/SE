@@ -1,6 +1,6 @@
 [
   {
-    "question": "Cosa si intende per gender advaisor?",
+    "question": "(GENDER) Cosa si intende per gender advaisor?",
     "answers": [
       "Ufficiale legale che segue contenziosi e procedure disciplinari in materia di pari opportunità.",
       "Consulente per questioni di genere da impiegare in patria e in teatro operativo per l’adozione delle prospettive di genere è obbiettivo strategici dell ente a disposizione del comandante .",
@@ -10,7 +10,7 @@
     "correctIndex": 1
   },
   {
-    "question": "Qual è il pilastro fondamentale da cui discende la  prospettiva di genere?",
+    "question": "(GENDER) Qual è il pilastro fondamentale da cui discende la  prospettiva di genere?",
     "answers": [
       "Direttiva SMD sul Gender Mainstreaming (edizioni nazionali).",
       "É la risoluzione ONU \"Donne Pace Sicurezza\" n. 1325 del 2000.",
@@ -20,7 +20,7 @@
     "correctIndex": 1
   },
   {
-    "question": "Quale norma ha introdotto emanazioni di decreti per disciplinare il reclutamento per lo stato giuridico dell’ avanzamento per il personale femminile?",
+    "question": "(GENDER) Quale norma ha introdotto emanazioni di decreti per disciplinare il reclutamento per lo stato giuridico dell’ avanzamento per il personale femminile?",
     "answers": [
       "D.P.R. 90/2010 (Testo unico regolamentare).",
       "Legge 226/2004 (sospensione del servizio di leva obbligatorio).",
@@ -30,7 +30,7 @@
     "correctIndex": 3
   },
   {
-    "question": "Cosa ha comportato ingresso della compagine femminile nel mondo militare?",
+    "question": "(GENDER) Cosa ha comportato ingresso della compagine femminile nel mondo militare?",
     "answers": [
       "Obbligo di separazione totale di addestramento e servizi tra personale maschile e femminile.",
       "Riduzione generalizzata dei requisiti fisici per il personale maschile.",
@@ -40,7 +40,7 @@
     "correctIndex": 3
   },
   {
-    "question": "Cosa e stato previsto con l’introduzione della legge 380 del 1999 in merito alla prospettiva di genere?",
+    "question": "(GENDER) Cosa e stato previsto con l’introduzione della legge 380 del 1999 in merito alla prospettiva di genere?",
     "answers": [
       "Sospensione dell’arruolamento femminile per un periodo transitorio.",
       "Esclusione del personale femminile dalle operazioni all’estero.",
@@ -50,7 +50,7 @@
     "correctIndex": 3
   },
   {
-    "question": "Cosa sono i FET? (Female Engagement Team)",
+    "question": "(GENDER) Cosa sono i F.E.T.(Female Engagement Team)?",
     "answers": [
       "Team medici di pronto intervento a supporto sanitario delle unità combattenti.",
       "Nuclei di polizia militare dedicati alle attività investigative interne.",
@@ -60,7 +60,7 @@
     "correctIndex": 3
   },
   {
-    "question": "Quali sono le differenze tra Sesso e genere?",
+    "question": "(GENDER) Quali sono le differenze tra Sesso e genere?",
     "answers": [
       "Sono sinonimi e usati in modo intercambiabile in ogni contesto.",
       "Il genere è un dato esclusivamente biologico, mentre il sesso indica ruoli sociali.",
