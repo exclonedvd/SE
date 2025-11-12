@@ -1,4 +1,255 @@
 [
+{
+    "question": "Che cos'è il COM?",
+    "answers": [
+      "È il quadro normativo che disciplina l'organizzazione, il funzionamento e i compiti del Ministero della Difesa.",
+      "È il Codice Penale Militare di Pace.",
+      "È la Costituzione della Repubblica Italiana.",
+      "È il testo che disciplina la Polizia di Stato (T.U.L.P.S.)."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cos'è il TUOM?",
+    "answers": [
+      "È il Testo Unico delle leggi di pubblica sicurezza (T.U.L.P.S.).",
+      "È il D.P.R. 445/2000 sul testo unico della documentazione amministrativa.",
+      "È il Testo Unico sull'Ordinamento Militare (D.P.R. 90/2010): regolamento che integra e attua il COM.",
+      "È il Codice dei contratti pubblici (D.Lgs. 36/2023)."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Che cos'è il Consiglio Supremo della Difesa (CSD)?",
+    "answers": [
+      "È il Comitato Interministeriale per la Sicurezza della Repubblica (CISR).",
+      "È il Comando Operativo di Vertice Interforze (COVI).",
+      "È un organo di rilievo costituzionale, presieduto dal Presidente della Repubblica, che stabilisce criteri e direttive per difesa e sicurezza nazionale.",
+      "È la Commissione Difesa della Camera dei Deputati."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Che cosa prevede l’articolo 2 del COM?",
+    "answers": [
+      "Regola il giuramento dei militari.",
+      "Il CSD esamina i problemi generali, politici e tecnici attinenti alla difesa nazionale e determina criteri e direttive per le attività che la riguardano.",
+      "Definisce i compiti del Ministro della Difesa.",
+      "Stabilisce i gradi del personale militare."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Da chi è presieduto il Consiglio Supremo della Difesa?",
+    "answers": [
+      "Dal Presidente della Repubblica.",
+      "Dal Ministro della Difesa.",
+      "Dal Presidente del Consiglio dei Ministri.",
+      "Dal Capo di Stato Maggiore della Difesa."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Chi è il vice presidente del Consiglio Supremo della Difesa?",
+    "answers": [
+      "Il Ministro dell'Interno.",
+      "Il Ministro degli Affari Esteri.",
+      "Il Sottosegretario alla Difesa.",
+      "Il Presidente del Consiglio dei Ministri."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Da chi è composto il Consiglio Supremo della Difesa (componenti stabili)?",
+    "answers": [
+      "Include stabilmente i Capi di Stato Maggiore di Esercito, Marina e Aeronautica.",
+      "Presidente della Repubblica, Presidente del Consiglio (vice-presidente), Ministri: Affari Esteri, Interno, Economia e Finanze, Difesa, Sviluppo Economico, e Capo di Stato Maggiore della Difesa; segretario scelto fuori dai componenti.",
+      "Include stabilmente i Presidenti delle Regioni.",
+      "Include i Presidenti delle Camere come membri di diritto."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Chi sono i componenti eventuali del CSD secondo l’articolo 4?",
+    "answers": [
+      "Il Presidente del Senato partecipa sempre come componente eventuale.",
+      "Il Procuratore generale della Corte di Cassazione è componente eventuale.",
+      "I Capi di Stato Maggiore di Esercito, Marina e Aeronautica possono essere convocati alle riunioni su invito del Presidente.",
+      "Il Sindaco della Capitale è componente eventuale."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Quante volte si riunisce il Consiglio Supremo della Difesa?",
+    "answers": [
+      "Una volta a trimestre, con cadenza fissa.",
+      "Almeno due volte all’anno ed inoltre quando se ne ravvisi la necessità su iniziativa del Presidente della Repubblica o su proposta del Presidente del Consiglio.",
+      "Solo in tempo di guerra.",
+      "Una volta al mese."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Chi è il massimo organo gerarchico e disciplinare in ambito militare?",
+    "answers": [
+      "Il Comandante di Corpo.",
+      "Il Presidente della Repubblica.",
+      "Il Capo di Stato Maggiore della Difesa.",
+      "Il Ministro della Difesa."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Quali sono i compiti delle Forze Armate?",
+    "answers": [
+      "Stipulare trattati internazionali.",
+      "Emettere decreti-legge.",
+      "Operare per la realizzazione della pace e della sicurezza nel rispetto del diritto internazionale e delle decisioni delle organizzazioni internazionali di cui l’Italia fa parte.",
+      "Gestire l’ordine pubblico quotidiano su tutto il territorio (compito ordinario delle forze di polizia)."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Quali sono i doveri attinenti al giuramento?",
+    "answers": [
+      "Impegno solenne a operare per i compiti istituzionali con assoluta fedeltà alle istituzioni repubblicane, disciplina, onore e senso di responsabilità, affrontando se necessario anche il rischio di sacrificare la vita.",
+      "Impegno a operare esclusivamente sul territorio nazionale.",
+      "Obbligo di mantenere segreti i trattamenti economici del personale.",
+      "Obbligo di iscriversi a un partito politico."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quali sono i doveri attinenti al grado?",
+    "answers": [
+      "Rifiutare gli ordini senza motivazione.",
+      "Criticare pubblicamente i superiori senza limiti.",
+      "Astenersi, anche fuori servizio, da comportamenti che ledano il prestigio dell’istituzione e l’estraneità delle Forze Armate alle competizioni politiche.",
+      "Indossare sempre abito civile fuori servizio."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Cosa indica l’uniforme secondo l’art. 720 TUOM?",
+    "answers": [
+      "Indica gli anni di servizio maturati.",
+      "Indica la Forza Armata, il corpo, il grado dei militari e, talvolta, le loro funzioni e incarichi.",
+      "Indica esclusivamente il reparto di prima assegnazione.",
+      "Indica lo stato civile del militare."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Quando è vietato l’uso dell’uniforme?",
+    "answers": [
+      "Quando il militare è sospeso dall’impiego, dal servizio o dalle funzioni del grado; e nello svolgimento delle attività private e pubbliche consentite.",
+      "Nelle parate ufficiali.",
+      "Durante il servizio di guardia.",
+      "Nelle cerimonie militari."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Doveri attinenti alla tutela del segreto e al riserbo (art. 722 TUOM): cosa deve fare il militare?",
+    "answers": [
+      "Osservare le norme sul segreto, mantenere il riserbo ed evitare la divulgazione di notizie di servizio anche se apparentemente insignificanti.",
+      "Discutere piani e procedure di servizio in ambito familiare.",
+      "Fornire documenti di servizio ai media se lo ritiene opportuno.",
+      "Condividere sui social esperienze operative senza autorizzazione."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Come deve eseguire gli ordini il militare?",
+    "answers": [
+      "Solo se impartiti in forma scritta.",
+      "Solo se l’ordine è coerente con le proprie opinioni personali.",
+      "Con calma, senza urgenza.",
+      "Con prontezza, senso di responsabilità ed esattezza, nei limiti stabiliti da COM e TUOM e attenendosi alle consegne e disposizioni di servizio."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Cos’è la ‘consegna’ (art. 730 TUOM)?",
+    "answers": [
+      "Il passaggio di consegne tra due comandanti al termine dell’incarico.",
+      "La sanzione disciplinare della consegna di rigore.",
+      "L’insieme di prescrizioni generali o particolari, permanenti o temporanee, scritte o verbali impartite per l’adempimento di un particolare servizio.",
+      "L’atto di recapito della corrispondenza al personale."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Come dev’essere la condotta del militare?",
+    "answers": [
+      "Neutrale e indifferente rispetto all’immagine dell’Amministrazione.",
+      "Orientata alla massima visibilità sui social network.",
+      "Sempre esemplare, a salvaguardia del prestigio delle Forze Armate.",
+      "Adeguata alle usanze locali anche se in contrasto con i regolamenti."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Come può un militare chiedere di conferire con il Ministro della Difesa o con un superiore?",
+    "answers": [
+      "Solo con lettera manoscritta inviata per posta ordinaria.",
+      "Per via gerarchica, precisando se si tratta di questioni di servizio (con il motivo) o di carattere privato.",
+      "Esclusivamente tramite un sindacato militare.",
+      "Unicamente per il tramite di un parlamentare."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A chi può presentarsi il militare per via gerarchica per gravi motivi?",
+    "answers": [
+      "Soltanto al Capo di Stato Maggiore della Difesa.",
+      "Unicamente al comandante di compagnia/reparto.",
+      "A qualsiasi superiore fino al comandante di corpo, per gravi e urgenti motivi.",
+      "Direttamente al Presidente della Repubblica."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Come devono essere regolati i turni di servizio?",
+    "answers": [
+      "A discrezione del comandante senza criteri predefiniti.",
+      "Nel rispetto di orari prestabiliti, turni di riposo e riposo festivo; equamente ripartiti e con adeguati periodi di recupero per i turni più impegnativi.",
+      "Eliminando i riposi durante le settimane operative.",
+      "Concentrando i turni più gravosi sul personale più giovane."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Quando e da chi può essere autorizzato l’alloggio in località diversa dalla sede di servizio?",
+    "answers": [
+      "Solo dal Ministro della Difesa con decreto.",
+      "Dal Comandante di Corpo, fatte salve le esigenze di servizio, per ufficiali, sottufficiali, VSP e VFP con oltre 12 mesi di servizio.",
+      "È sempre automatico per tutti i militari, senza limiti.",
+      "Dal Sindaco della città sede di servizio."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Cosa deve comunicare sollecitamente il militare al proprio comando/ente (art. 748 TUOM)?",
+    "answers": [
+      "Le preferenze sportive o associative.",
+      "Ogni cambiamento di stato civile e di famiglia e gli eventi in cui è rimasto coinvolto che possono avere riflessi sul servizio.",
+      "Il cambio di operatore telefonico personale.",
+      "Gli hobby e le attività ricreative praticate."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Quali norme regolano la vita di un militare?",
+    "answers": [
+      "Il regolamento condominiale del luogo di residenza.",
+      "Il Codice della Strada.",
+      "Le norme di comportamento e le norme di servizio.",
+      "Il manuale d’uso dell’arma individuale."
+    ],
+    "correctIndex": 2
+  }
+  
   {
     "question": "(GENDER) Cosa si intende per gender advaisor?",
     "answers": [
