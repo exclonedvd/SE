@@ -1,4 +1,254 @@
 [
+     {
+    "question": "Domande a risposta multipla sullo stato giuridico del personale militare",
+    "answers": [
+      "È la legge che ha istituito l’INPS.",
+      "È la prima fonte che ha introdotto il concetto di stato giuridico per il personale militare e da cui è iniziato il perfezionamento normativo.",
+      "Abolisce la leva obbligatoria.",
+      "Riguarda la protezione civile."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Che cosa si intende per “stato giuridico” o “status” del personale militare?",
+    "answers": [
+      "La durata della ferma volontaria.",
+      "L’insieme dei doveri e dei diritti inerenti al rapporto d’impiego del militare con lo Stato.",
+      "Solo i doveri di fedeltà e subordinazione.",
+      "La paga base spettante al militare."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Quali sono i doveri fondamentali del militare derivanti dal giuramento?",
+    "answers": [
+      "Fedeltà, subordinazione, legalità, diligenza e rettitudine.",
+      "Fedeltà, produttività, ricchezza e agilità.",
+      "Onestà, generosità, puntualità, obbedienza.",
+      "Fedeltà, amministrazione, subalternità e coraggio."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa significa il dovere di “fedeltà” per un militare?",
+    "answers": [
+      "Poter scegliere a quale Stato servire.",
+      "Svolgere la propria attività esclusivamente nell’interesse e secondo le finalità dello Stato.",
+      "Fare sempre ciò che si desidera.",
+      "Collaborare con aziende private."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Quali sono i diritti principali dello stato giuridico del militare secondo il documento?",
+    "answers": [
+      "Congedo illimitato, ferie illimitate e doppio stipendio.",
+      "Retribuzione, indennità, orario.",
+      "Diritto di sciopero.",
+      "Alloggi privati."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Lo status appare come fonte di speciali diritti e doveri per chi lo possiede. Quale affermazione è corretta?",
+    "answers": [
+      "Gli stessi diritti valgono per tutti i cittadini.",
+      "Solo chi si trova nello stato di militare possiede tali diritti e doveri.",
+      "Lo status non influisce sui diritti.",
+      "Determina solo doveri senza diritti."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L’anzianità di grado assoluta è definita come:",
+    "answers": [
+      "L’ordine di precedenza fra pari grado.",
+      "Il tempo trascorso dal militare nel proprio grado.",
+      "Il numero di missioni effettuate.",
+      "L’età del militare."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L’anzianità di grado relativa indica:",
+    "answers": [
+      "L’ordine di precedenza tra militari dello stesso grado nello stesso ruolo.",
+      "La differenza di età tra due militari.",
+      "La seniority rispetto ad altri reparti.",
+      "Il numero di anni di servizio."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quali sono le posizioni di stato giuridico previste per il personale militare?",
+    "answers": [
+      "Servizio permanente, servizio di leva, congedo e ferma provvisoria.",
+      "Servizio temporaneo, servizio permanente, congedo e congedo assoluto.",
+      "Ferma volontaria, rafferma, riserva e ausiliaria.",
+      "Congedo illimitato, servizio temporaneo e riserva."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Quali sono le posizioni d’impiego del personale in servizio permanente?",
+    "answers": [
+      "Servizio effettivo, aspettativa e sospeso dall’impiego.",
+      "Congedo illimitato, servizio temporaneo e ausiliaria.",
+      "Ferma temporanea, servizio limitato, riserva.",
+      "Servizio con part-time, full-time e smart working."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Che cos’è il servizio permanente?",
+    "answers": [
+      "Un rapporto di pubblico impiego stabile e continuativo, con professionalità intesa come esclusività.",
+      "Un servizio a termine.",
+      "Una mansione temporanea a progetto.",
+      "Solo un incarico di comando di breve durata."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quali sono gli elementi essenziali del rapporto di impiego in servizio permanente?",
+    "answers": [
+      "Retribuzione variabile a risultato e co.co.co.",
+      "Natura pubblica dell’ente, retribuzione predeterminata, continuità delle prestazioni, professionalità come esclusività.",
+      "Solo natura pubblica e pensione.",
+      "Libertà di svolgere altre professioni."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La professione militare è incompatibile con l’esercizio di altre professioni. Quale articolo costituzionale esprime tale principio?",
+    "answers": [
+      "Art. 3.",
+      "Art. 97.",
+      "Art. 98, primo comma.",
+      "Art. 1."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Quali attività possono essere svolte in compatibilità con lo stato di militare senza violare l’incompatibilità professionale?",
+    "answers": [
+      "Qualsiasi attività remunerata.",
+      "Collaborazioni con riviste, partecipazione a convegni, incarichi con rimborso spese, prestazioni artistiche e formazione ai dipendenti della P.A., se non interferiscono con i doveri e sono autorizzate.",
+      "Gestione di un’azienda.",
+      "Lavoro part‑time in una società privata."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Quali sono i tipi principali di aspettativa previsti per il personale militare?",
+    "answers": [
+      "Solo aspettativa per prigionia di guerra e per motivi privati.",
+      "Aspettativa per prigionia o disperso, per infermità temporanee (dipendenti o non dipendenti da causa di servizio), per motivi privati, per riduzione quadri, per cariche politiche o amministrative, per servizio all’estero del coniuge, per dottorato di ricerca e altre previste.",
+      "Aspettativa solo per dottorato.",
+      "Non esistono aspettative in ambito militare."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In caso di aspettativa per infermità temporanea non dipendente da causa di servizio, come è ripartito il trattamento economico?",
+    "answers": [
+      "100% per due anni.",
+      "50% per due anni.",
+      "100% il primo anno; 50% nel primo semestre del secondo anno e 0% nel secondo semestre.",
+      "0% fin dall’inizio."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "L’aspettativa per motivi privati richiede che:",
+    "answers": [
+      "Non si debba mai motivare la domanda.",
+      "La durata non sia inferiore a quattro mesi, la concessione sia subordinata alle esigenze di servizio e non spettino né retribuzione né anzianità.",
+      "Si possano svolgere altre professioni.",
+      "La retribuzione resti integra."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Quali sono alcune delle altre cause di aspettativa oltre a malattie o motivi privati?",
+    "answers": [
+      "Viaggi di piacere.",
+      "Mandato parlamentare, cariche amministrative, riduzione dei quadri, servizio all’estero del coniuge e dottorato di ricerca.",
+      "Costruzione della casa.",
+      "Attività sportive professionistiche."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Secondo il documento, l’aspettativa per infermità dipendente da causa di servizio può essere concessa fino a:",
+    "answers": [
+      "12 mesi.",
+      "24 mesi.",
+      "36 mesi.",
+      "Non esistono limiti."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "E l’aspettativa per infermità non dipendente da causa di servizio può essere concessa dal Comandante di corpo fino a:",
+    "answers": [
+      "6 mesi.",
+      "12 mesi continuativi.",
+      "18 mesi.",
+      "24 mesi."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Quali sono i caratteri principali della sospensione dall’impiego?",
+    "answers": [
+      "È un licenziamento definitivo.",
+      "È una privazione temporanea dell’effettivo servizio, può essere precauzionale, disciplinare o penale ed è disposta con decreto ministeriale che indica i motivi e la durata.",
+      "È una pausa ferie.",
+      "Consente di lavorare in aziende private."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Quali sono gli effetti economici della sospensione dall’impiego?",
+    "answers": [
+      "Nessun effetto, si percepisce la retribuzione piena.",
+      "Riduzione delle competenze al 50% e computo del tempo a metà ai fini pensionistici.",
+      "Aumento del salario.",
+      "Sospensione dello stipendio per sempre."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Quali sono alcune delle cause di cessazione dal servizio permanente (S.P.)?",
+    "answers": [
+      "Solo raggiungimento del limite di età.",
+      "Limiti di età, infermità, cessazione a domanda, scarso rendimento, non idoneità alle funzioni del grado, transito nell’impiego civile, decadenza.",
+      "Cambio di residenza.",
+      "Pensionamento del comandante."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La cessazione per limiti di età avviene:",
+    "answers": [
+      "A 50 anni.",
+      "Al raggiungimento del 60° anno di età con almeno 42 anni e 3 mesi di anzianità contributiva.",
+      "Solo su domanda.",
+      "Quando lo si desidera."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Cosa comporta la cessazione per non idoneità alle funzioni del grado?",
+    "answers": [
+      "Nessuna conseguenza.",
+      "Collocamento nella riserva o congedo assoluto a causa di insufficienti qualità morali, di carattere, intellettuali, militari o professionali.",
+      "Promozione automatica.",
+      "Richiamo immediato in servizio."
+    ],
+    "correctIndex": 1
+  }
 {
     "question": "Che cos'è il COM?",
     "answers": [
