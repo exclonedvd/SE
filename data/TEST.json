@@ -629,6 +629,136 @@
     ],
     "correctIndex": 1
   },
+     {
+    "question": "Domande a risposta multipla sulle sanzioni disciplinari",
+    "answers": [
+      "Sono ricompense per meriti speciali.",
+      "Sono provvedimenti adottati per sanzionare il personale delle forze armate che viola i doveri relativi alla disciplina, al servizio o alla condotta.",
+      "Sono premi concessi ai militari più anziani.",
+      "Sono concessioni di ferie straordinarie."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Come si distinguono le sanzioni disciplinari?",
+    "answers": [
+      "In sanzioni civili e penali.",
+      "In sanzioni disciplinari di stato (maggiore gravità) e di corpo (minore gravità).",
+      "In sanzioni ordinarie e straordinarie.",
+      "In sanzioni amministrative e giudiziarie."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La perdita del grado per rimozione prevista dall’articolo 1357 è:",
+    "answers": [
+      "Una sanzione disciplinare di corpo.",
+      "Una sanzione disciplinare di stato.",
+      "Un premio per merito.",
+      "Una forma di congedo anticipato."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Quali sono le sanzioni disciplinari di stato previste dal Codice dell’Ordinamento Militare?",
+    "answers": [
+      "Richiamo, rimprovero, consegna e consegna di rigore.",
+      "Sospensione disciplinare dall’impiego, sospensione dalle funzioni del grado, cessazione della ferma o rafferma e perdita del grado per rimozione.",
+      "Condono e sospensione.",
+      "Ricorso gerarchico e riesame."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Quali sono le sanzioni disciplinari di corpo?",
+    "answers": [
+      "Richiamo, rimprovero, consegna, consegna di rigore.",
+      "Sospensione, destituzione, interdizione.",
+      "Condono e sospensione.",
+      "Cessazione del servizio permanente."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La consegna semplice esiste?",
+    "answers": [
+      "Sì, per le infrazioni minori.",
+      "No, non esiste; le sanzioni di corpo sono il richiamo, il rimprovero, la consegna e la consegna di rigore.",
+      "Solo in casi eccezionali.",
+      "È stata abolita dal COM."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In cosa consiste la consegna?",
+    "answers": [
+      "Nell’allontanamento dal servizio.",
+      "Nella privazione della libera uscita fino a un massimo di sette giorni consecutivi.",
+      "Nella sospensione dalle funzioni del grado.",
+      "Nella perdita definitiva dello stipendio."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In cosa consiste la consegna di rigore?",
+    "answers": [
+      "Nella privazione della libera uscita con permanenza in appositi locali fino a un massimo di quindici giorni.",
+      "Nella privazione della libera uscita fino a sette giorni.",
+      "Nell’allontanamento dal servizio con perdita di stipendio.",
+      "Nel conferimento di incarichi superiori."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Che cos’è il richiamo e da chi può essere inflitto?",
+    "answers": [
+      "È un ammonimento verbale per lievi mancanze o omissioni dovute a negligenza e può essere inflitto da qualsiasi superiore.",
+      "È una dichiarazione scritta inflitta da un tribunale.",
+      "È una ricompensa al merito.",
+      "È una promozione temporanea."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Qual è l’effetto del richiamo sulla documentazione personale del militare?",
+    "answers": [
+      "Viene trascritto e rimane per sempre.",
+      "Non dà luogo a trascrizione nella documentazione personale dell’interessato.",
+      "Comporta la perdita di metà dello stipendio.",
+      "Blocca la progressione di carriera."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Che cos’è il rimprovero e da chi è inflitto?",
+    "answers": [
+      "È un ammonimento verbale inflitto da qualsiasi militare.",
+      "È una dichiarazione di biasimo scritta che punisce lievi trasgressioni alla disciplina o recidive ed è inflitto dalle autorità previste dall’articolo 1396 del COM.",
+      "È un premio di produttività.",
+      "È una sospensione dallo stipendio."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Quali sono le conseguenze del rimprovero?",
+    "answers": [
+      "Non ha alcuna conseguenza.",
+      "Influisce negativamente sulla valutazione periodica della documentazione caratteristica e può ritardare o precludere l’avanzamento; dopo due anni di buona condotta può essere cancellato.",
+      "Comporta la perdita del grado.",
+      "Determina il trasferimento a un’altra Forza armata."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Cosa prevede l’articolo 1369 del Codice dell’Ordinamento Militare?",
+    "answers": [
+      "Stabilisce le regole per infliggere la consegna.",
+      "Prevede che i militari possano chiedere la cessazione di ogni effetto delle sanzioni disciplinari trascritte nella documentazione personale dopo almeno due anni di servizio e in assenza di ulteriori sanzioni.",
+      "Regola la consegna di rigore.",
+      "Introduce la figura del condono automatico."
+    ],
+    "correctIndex": 1
+  },
   {
     "question": "Cosa deve comunicare sollecitamente il militare al proprio comando/ente (art. 748 TUOM)?",
     "answers": [
