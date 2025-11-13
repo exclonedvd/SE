@@ -249,6 +249,156 @@
     ],
     "correctIndex": 1
   },
+  {
+    "question": "A quale dovere derivante dal giuramento corrisponde l’obbligo di svolgere la propria attività esclusivamente nell’interesse dello Stato?",
+    "answers": [
+      "Rettitudine",
+      "Diligenza",
+      "Fedeltà",
+      "Legalità"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Che cosa significa il dovere di subordinazione per il militare?",
+    "answers": [
+      "Rispetto di tutte le leggi",
+      "Obbedienza nei confronti dei superiori",
+      "Condotta irreprensibile nella vita privata",
+      "Scrupolosità nell’adempimento degli atti d’ufficio"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Quale dovere implica il rispetto di tutte le leggi che tutelano l’interesse dello Stato?",
+    "answers": [
+      "Legalità",
+      "Fedeltà",
+      "Diligenza",
+      "Rettitudine"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale dovere comporta scrupolosità, puntualità e precisione nell’adempimento delle proprie mansioni?",
+    "answers": [
+      "Fedeltà",
+      "Rettitudine",
+      "Diligenza",
+      "Legalità"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il dovere di rettitudine indica:",
+    "answers": [
+      "Condotta irreprensibile sia nei rapporti d’ufficio sia in quelli privati, adeguata alla condizione di militare",
+      "Svolgere la propria attività nell’interesse dello Stato",
+      "Rispettare tutte le leggi",
+      "Obbedienza ai superiori"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Che cos’è il servizio temporaneo per il personale militare?",
+    "answers": [
+      "Un rapporto stabile e continuativo.",
+      "Un rapporto di servizio a carattere temporaneo che si estingue con lo scadere del termine stabilito.",
+      "L’aspettativa.",
+      "La sospensione disciplinare."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Che cos’è il congedo nel contesto dello stato giuridico?",
+    "answers": [
+      "Una promozione di grado.",
+      "L’estinzione dell’ordinario rapporto di lavoro/pubblico impiego.",
+      "Un periodo di ferie.",
+      "Un periodo di addestramento."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Che cos’è il congedo assoluto?",
+    "answers": [
+      "Una licenza lunga per malattia.",
+      "Una misura disciplinare.",
+      "La situazione in cui si trovano i militari non idonei, per ragioni di età o infermità, all’esercizio delle attribuzioni del grado.",
+      "Una fase di addestramento avanzato."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Che cos’è il servizio effettivo per il personale militare?",
+    "answers": [
+      "Una fase di addestramento iniziale.",
+      "La posizione in cui il militare è concretamente impiegato per svolgere le proprie mansioni e deve possedere l’idoneità fisica al servizio incondizionato.",
+      "Una licenza annuale.",
+      "Un periodo di prova senza stipendio."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Che cos’è l’aspettativa secondo il documento?",
+    "answers": [
+      "Una promozione temporanea.",
+      "Una modifica temporanea del rapporto di impiego che consiste nella sospensione dell’obbligo di prestare servizio e che, in generale, non può superare i due anni nel quinquennio.",
+      "L’attesa di ricevere l’avanzamento.",
+      "Una sanzione disciplinare."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Che cos’è la sospensione dall’impiego?",
+    "answers": [
+      "La cessazione definitiva del rapporto di lavoro.",
+      "La privazione temporanea dell’effettivo servizio che può essere precauzionale, disciplinare o penale, disposta con decreto ministeriale.",
+      "Un periodo di ferie obbligatorie.",
+      "L’aspettativa per motivi privati."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Come è disposta l’aspettativa per infermità temporanea dipendente da causa di servizio?",
+    "answers": [
+      "Solo a domanda del militare.",
+      "A domanda o d’autorità dopo accertamenti sanitari.",
+      "Sempre con decreto del giudice.",
+      "Non è prevista."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L’aspettativa per motivi privati è:",
+    "answers": [
+      "Sempre d’ufficio.",
+      "Sempre a domanda motivata e non può essere inferiore a quattro mesi.",
+      "Disposta dal comando senza domanda.",
+      "Concessa su decisione del giudice."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Chi è competente a concedere l’aspettativa per infermità dipendente da causa di servizio entro i limiti previsti?",
+    "answers": [
+      "Il Comandante di corpo.",
+      "Il Presidente della Repubblica.",
+      "Il Ministero dell’Interno.",
+      "La commissione medica ospedaliera."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Chi è competente a concedere l’aspettativa per infermità non dipendente da causa di servizio per periodi superiori a 12 mesi e a concedere l’aspettativa per motivi privati?",
+    "answers": [
+      "Il Comandante di corpo.",
+      "Il Ministero della Difesa – D.G.P.M. II Reparto.",
+      "Il sindaco del comune.",
+      "L’INPS."
+    ],
+    "correctIndex": 1
+  },
 {
     "question": "Che cos'è il COM?",
     "answers": [
