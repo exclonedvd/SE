@@ -1,14 +1,5 @@
 [
-     {
-    "question": "Domande a risposta multipla sullo stato giuridico del personale militare",
-    "answers": [
-      "È la legge che ha istituito l’INPS.",
-      "È la prima fonte che ha introdotto il concetto di stato giuridico per il personale militare e da cui è iniziato il perfezionamento normativo.",
-      "Abolisce la leva obbligatoria.",
-      "Riguarda la protezione civile."
-    ],
-    "correctIndex": 1
-  },
+     
   {
     "question": "Che cosa si intende per “stato giuridico” o “status” del personale militare?",
     "answers": [
