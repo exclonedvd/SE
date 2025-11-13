@@ -400,6 +400,46 @@
     ],
     "correctIndex": 0
   },
+     {
+    "question": "(NSR) Cosa ha sancito la legge n. 46 del 2022?",
+    "answers": [
+      "Ha introdotto la possibilità di eleggere il Presidente della Repubblica.",
+      "Ha sancito il Diritto di associazione professionale a carattere sindacale in ambito militare.",
+      "Ha abolito il servizio militare obbligatorio.",
+      "Ha istituito la sospensione del servizio permanente."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "(NSR) Cosa prevede l’articolo 1476?",
+    "answers": [
+      "Che l’adesione alle associazioni è obbligatoria e determinata per legge.",
+      "Che l’adesione alle APCSM è limitata a coloro che hanno superato il concorso.",
+      "Che l’adesione alle APCSM è libera, volontaria e individuale.",
+      "Che i comandanti devono aderire a più associazioni sindacali."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "(NSR) Secondo l’articolo 1476, cosa viene vietato alle APCSM?",
+    "answers": [
+      "Promuovere manifestazioni pubbliche in uniforme.",
+      "Rappresentare lavoratori non appartenenti alle Forze Armate.",
+      "Preannunciare o proclamare lo sciopero o parteciparvi anche se proclamato da organizzazioni sindacali esterne al personale militare.",
+      "Eleggere il Presidente del Consiglio."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "(NSR) In merito all’articolo 1480‑bis, quali sono le modalità di riunioni?",
+    "answers": [
+      "Le riunioni non sono consentite durante il servizio.",
+      "Le modalità di tempo e di luogo per lo svolgimento delle riunioni sono concordate con i comandanti al fine di renderle compatibili con le esigenze di servizio.",
+      "Le riunioni sono consentite solo nei giorni festivi e senza preavviso.",
+      "Le riunioni possono essere convocate senza informare i comandanti."
+    ],
+    "correctIndex": 1
+  },
   {
     "question": "(NSR) Cos'è il TUOM?",
     "answers": [
