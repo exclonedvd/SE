@@ -1,7 +1,7 @@
 [
      
   {
-    "question": "(SGA)Che cosa si intende per “stato giuridico” o “status” del personale militare?",
+    "question": "(SGA) Che cosa si intende per “stato giuridico” o “status” del personale militare?",
     "answers": [
       "La durata della ferma volontaria.",
       "L’insieme dei doveri e dei diritti inerenti al rapporto d’impiego del militare con lo Stato.",
@@ -11,7 +11,7 @@
     "correctIndex": 1
   },
   {
-    "question": "(SGA)Quali sono i doveri fondamentali del militare derivanti dal giuramento?",
+    "question": "(SGA) Quali sono i doveri fondamentali del militare derivanti dal giuramento?",
     "answers": [
       "Fedeltà, subordinazione, legalità, diligenza e rettitudine.",
       "Fedeltà, produttività, ricchezza e agilità.",
@@ -21,7 +21,7 @@
     "correctIndex": 0
   },
   {
-    "question": "(SGA)Cosa significa il dovere di “fedeltà” per un militare?",
+    "question": "(SGA) Cosa significa il dovere di “fedeltà” per un militare?",
     "answers": [
       "Poter scegliere a quale Stato servire.",
       "Svolgere la propria attività esclusivamente nell’interesse e secondo le finalità dello Stato.",
@@ -31,7 +31,7 @@
     "correctIndex": 1
   },
   {
-    "question": "(SGA)Quali sono i diritti principali dello stato giuridico del militare secondo il documento?",
+    "question": "(SGA) Quali sono i diritti principali dello stato giuridico del militare secondo il documento?",
     "answers": [
       "Congedo illimitato, ferie illimitate e doppio stipendio.",
       "Retribuzione, indennità, orario.",
@@ -41,7 +41,7 @@
     "correctIndex": 1
   },
   {
-    "question": "(SGA)Lo status appare come fonte di speciali diritti e doveri per chi lo possiede. Quale affermazione è corretta?",
+    "question": "(SGA) Lo status appare come fonte di speciali diritti e doveri per chi lo possiede. Quale affermazione è corretta?",
     "answers": [
       "Gli stessi diritti valgono per tutti i cittadini.",
       "Solo chi si trova nello stato di militare possiede tali diritti e doveri.",
@@ -51,7 +51,7 @@
     "correctIndex": 1
   },
   {
-    "question": "(SGA)L’anzianità di grado assoluta è definita come:",
+    "question": "(SGA) L’anzianità di grado assoluta è definita come:",
     "answers": [
       "L’ordine di precedenza fra pari grado.",
       "Il tempo trascorso dal militare nel proprio grado.",
@@ -61,7 +61,7 @@
     "correctIndex": 1
   },
   {
-    "question": "(SGA)L’anzianità di grado relativa indica:",
+    "question": "(SGA) L’anzianità di grado relativa indica:",
     "answers": [
       "L’ordine di precedenza tra militari dello stesso grado nello stesso ruolo.",
       "La differenza di età tra due militari.",
@@ -71,7 +71,7 @@
     "correctIndex": 0
   },
   {
-    "question": "(SGA)Quali sono le posizioni di stato giuridico previste per il personale militare?",
+    "question": "(SGA) Quali sono le posizioni di stato giuridico previste per il personale militare?",
     "answers": [
       "Servizio permanente, servizio di leva, congedo e ferma provvisoria.",
       "Servizio temporaneo, servizio permanente, congedo e congedo assoluto.",
@@ -81,7 +81,7 @@
     "correctIndex": 1
   },
   {
-    "question": "(SGA)Quali sono le posizioni d’impiego del personale in servizio permanente?",
+    "question": "(SGA) Quali sono le posizioni d’impiego del personale in servizio permanente?",
     "answers": [
       "Servizio effettivo, aspettativa e sospeso dall’impiego.",
       "Congedo illimitato, servizio temporaneo e ausiliaria.",
@@ -91,7 +91,7 @@
     "correctIndex": 0
   },
   {
-    "question": "(SGA)Che cos’è il servizio permanente?",
+    "question": "(SGA) Che cos’è il servizio permanente?",
     "answers": [
       "Un rapporto di pubblico impiego stabile e continuativo, con professionalità intesa come esclusività.",
       "Un servizio a termine.",
@@ -101,7 +101,7 @@
     "correctIndex": 0
   },
   {
-    "question": "(SGA)Quali sono gli elementi essenziali del rapporto di impiego in servizio permanente?",
+    "question": "(SGA) Quali sono gli elementi essenziali del rapporto di impiego in servizio permanente?",
     "answers": [
       "Retribuzione variabile a risultato e co.co.co.",
       "Natura pubblica dell’ente, retribuzione predeterminata, continuità delle prestazioni, professionalità come esclusività.",
@@ -111,7 +111,7 @@
     "correctIndex": 1
   },
   {
-    "question": "(SGA)La professione militare è incompatibile con l’esercizio di altre professioni. Quale articolo costituzionale esprime tale principio?",
+    "question": "(SGA) La professione militare è incompatibile con l’esercizio di altre professioni. Quale articolo costituzionale esprime tale principio?",
     "answers": [
       "Art. 3.",
       "Art. 97.",
@@ -121,7 +121,7 @@
     "correctIndex": 2
   },
   {
-    "question": "(SGA)Quali attività possono essere svolte in compatibilità con lo stato di militare senza violare l’incompatibilità professionale?",
+    "question": "(SGA) Quali attività possono essere svolte in compatibilità con lo stato di militare senza violare l’incompatibilità professionale?",
     "answers": [
       "Qualsiasi attività remunerata.",
       "Collaborazioni con riviste, partecipazione a convegni, incarichi con rimborso spese, prestazioni artistiche e formazione ai dipendenti della P.A., se non interferiscono con i doveri e sono autorizzate.",
@@ -131,7 +131,7 @@
     "correctIndex": 1
   },
   {
-    "question": "(SGA)Quali sono i tipi principali di aspettativa previsti per il personale militare?",
+    "question": "(SGA) Quali sono i tipi principali di aspettativa previsti per il personale militare?",
     "answers": [
       "Solo aspettativa per prigionia di guerra e per motivi privati.",
       "Aspettativa per prigionia o disperso, per infermità temporanee (dipendenti o non dipendenti da causa di servizio), per motivi privati, per riduzione quadri, per cariche politiche o amministrative, per servizio all’estero del coniuge, per dottorato di ricerca e altre previste.",
@@ -141,7 +141,7 @@
     "correctIndex": 1
   },
   {
-    "question": "(SGA)In caso di aspettativa per infermità temporanea non dipendente da causa di servizio, come è ripartito il trattamento economico?",
+    "question": "(SGA) In caso di aspettativa per infermità temporanea non dipendente da causa di servizio, come è ripartito il trattamento economico?",
     "answers": [
       "100% per due anni.",
       "50% per due anni.",
@@ -151,7 +151,7 @@
     "correctIndex": 2
   },
   {
-    "question":"(SGA)L’aspettativa per motivi privati richiede che:",
+    "question":"(SGA) L’aspettativa per motivi privati richiede che:",
     "answers": [
       "Non si debba mai motivare la domanda.",
       "La durata non sia inferiore a quattro mesi, la concessione sia subordinata alle esigenze di servizio e non spettino né retribuzione né anzianità.",
@@ -161,7 +161,7 @@
     "correctIndex": 1
   },
   {
-    "question": "(SGA)Quali sono alcune delle altre cause di aspettativa oltre a malattie o motivi privati?",
+    "question": "(SGA) Quali sono alcune delle altre cause di aspettativa oltre a malattie o motivi privati?",
     "answers": [
       "Viaggi di piacere.",
       "Mandato parlamentare, cariche amministrative, riduzione dei quadri, servizio all’estero del coniuge e dottorato di ricerca.",
@@ -171,7 +171,7 @@
     "correctIndex": 1
   },
   {
-    "question": "(SGA)Secondo il documento, l’aspettativa per infermità dipendente da causa di servizio può essere concessa fino a:",
+    "question": "(SGA) Secondo il documento, l’aspettativa per infermità dipendente da causa di servizio può essere concessa fino a:",
     "answers": [
       "12 mesi.",
       "24 mesi.",
@@ -181,7 +181,7 @@
     "correctIndex": 1
   },
   {
-    "question": "(SGA)E l’aspettativa per infermità non dipendente da causa di servizio può essere concessa dal Comandante di corpo fino a:",
+    "question": "(SGA) E l’aspettativa per infermità non dipendente da causa di servizio può essere concessa dal Comandante di corpo fino a:",
     "answers": [
       "6 mesi.",
       "12 mesi continuativi.",
@@ -191,7 +191,7 @@
     "correctIndex": 1
   },
   {
-    "question": "(SGA)Quali sono i caratteri principali della sospensione dall’impiego?",
+    "question": "(SGA) Quali sono i caratteri principali della sospensione dall’impiego?",
     "answers": [
       "È un licenziamento definitivo.",
       "È una privazione temporanea dell’effettivo servizio, può essere precauzionale, disciplinare o penale ed è disposta con decreto ministeriale che indica i motivi e la durata.",
@@ -201,7 +201,7 @@
     "correctIndex": 1
   },
   {
-    "question": "(SGA)Quali sono gli effetti economici della sospensione dall’impiego?",
+    "question": "(SGA) Quali sono gli effetti economici della sospensione dall’impiego?",
     "answers": [
       "Nessun effetto, si percepisce la retribuzione piena.",
       "Riduzione delle competenze al 50% e computo del tempo a metà ai fini pensionistici.",
@@ -211,7 +211,7 @@
     "correctIndex": 1
   },
   {
-    "question": "(SGA)Quali sono alcune delle cause di cessazione dal servizio permanente (S.P.)?",
+    "question": "(SGA) Quali sono alcune delle cause di cessazione dal servizio permanente (S.P.)?",
     "answers": [
       "Solo raggiungimento del limite di età.",
       "Limiti di età, infermità, cessazione a domanda, scarso rendimento, non idoneità alle funzioni del grado, transito nell’impiego civile, decadenza.",
@@ -221,7 +221,7 @@
     "correctIndex": 1
   },
   {
-    "question": "(SGA)La cessazione per limiti di età avviene:",
+    "question": "(SGA) La cessazione per limiti di età avviene:",
     "answers": [
       "A 50 anni.",
       "Al raggiungimento del 60° anno di età con almeno 42 anni e 3 mesi di anzianità contributiva.",
@@ -231,7 +231,7 @@
     "correctIndex": 1
   },
   {
-    "question": "(SGA)Cosa comporta la cessazione per non idoneità alle funzioni del grado?",
+    "question": "(SGA) Cosa comporta la cessazione per non idoneità alle funzioni del grado?",
     "answers": [
       "Nessuna conseguenza.",
       "Collocamento nella riserva o congedo assoluto a causa di insufficienti qualità morali, di carattere, intellettuali, militari o professionali.",
@@ -241,7 +241,7 @@
     "correctIndex": 1
   },
   {
-    "question": "(SGA)A quale dovere derivante dal giuramento corrisponde l’obbligo di svolgere la propria attività esclusivamente nell’interesse dello Stato?",
+    "question": "(SGA) A quale dovere derivante dal giuramento corrisponde l’obbligo di svolgere la propria attività esclusivamente nell’interesse dello Stato?",
     "answers": [
       "Rettitudine",
       "Diligenza",
@@ -251,7 +251,7 @@
     "correctIndex": 2
   },
   {
-    "question": "(SGA)Che cosa significa il dovere di subordinazione per il militare?",
+    "question": "(SGA) Che cosa significa il dovere di subordinazione per il militare?",
     "answers": [
       "Rispetto di tutte le leggi",
       "Obbedienza nei confronti dei superiori",
@@ -261,7 +261,7 @@
     "correctIndex": 1
   },
   {
-    "question": "(SGA)Quale dovere implica il rispetto di tutte le leggi che tutelano l’interesse dello Stato?",
+    "question": "(SGA) Quale dovere implica il rispetto di tutte le leggi che tutelano l’interesse dello Stato?",
     "answers": [
       "Legalità",
       "Fedeltà",
@@ -271,7 +271,7 @@
     "correctIndex": 0
   },
   {
-    "question": "(SGA)Quale dovere comporta scrupolosità, puntualità e precisione nell’adempimento delle proprie mansioni?",
+    "question": "(SGA) Quale dovere comporta scrupolosità, puntualità e precisione nell’adempimento delle proprie mansioni?",
     "answers": [
       "Fedeltà",
       "Rettitudine",
@@ -281,7 +281,7 @@
     "correctIndex": 2
   },
   {
-    "question": "(SGA)Il dovere di rettitudine indica:",
+    "question": "(SGA) Il dovere di rettitudine indica:",
     "answers": [
       "Condotta irreprensibile sia nei rapporti d’ufficio sia in quelli privati, adeguata alla condizione di militare",
       "Svolgere la propria attività nell’interesse dello Stato",
@@ -291,7 +291,7 @@
     "correctIndex": 0
   },
   {
-    "question": "(SGA)Che cos’è il servizio temporaneo per il personale militare?",
+    "question": "(SGA) Che cos’è il servizio temporaneo per il personale militare?",
     "answers": [
       "Un rapporto stabile e continuativo.",
       "Un rapporto di servizio a carattere temporaneo che si estingue con lo scadere del termine stabilito.",
@@ -301,7 +301,7 @@
     "correctIndex": 1
   },
   {
-    "question": "(SGA)Che cos’è il congedo nel contesto dello stato giuridico?",
+    "question": "(SGA) Che cos’è il congedo nel contesto dello stato giuridico?",
     "answers": [
       "Una promozione di grado.",
       "L’estinzione dell’ordinario rapporto di lavoro/pubblico impiego.",
@@ -311,7 +311,7 @@
     "correctIndex": 1
   },
   {
-    "question": "(SGA)Che cos’è il congedo assoluto?",
+    "question": "(SGA) Che cos’è il congedo assoluto?",
     "answers": [
       "Una licenza lunga per malattia.",
       "Una misura disciplinare.",
@@ -321,7 +321,7 @@
     "correctIndex": 2
   },
   {
-    "question": "(SGA)Che cos’è il servizio effettivo per il personale militare?",
+    "question": "(SGA) Che cos’è il servizio effettivo per il personale militare?",
     "answers": [
       "Una fase di addestramento iniziale.",
       "La posizione in cui il militare è concretamente impiegato per svolgere le proprie mansioni e deve possedere l’idoneità fisica al servizio incondizionato.",
@@ -331,7 +331,7 @@
     "correctIndex": 1
   },
   {
-    "question": "(SGA)Che cos’è l’aspettativa secondo il documento?",
+    "question": "(SGA) Che cos’è l’aspettativa secondo il documento?",
     "answers": [
       "Una promozione temporanea.",
       "Una modifica temporanea del rapporto di impiego che consiste nella sospensione dell’obbligo di prestare servizio e che, in generale, non può superare i due anni nel quinquennio.",
@@ -341,7 +341,7 @@
     "correctIndex": 1
   },
   {
-    "question": "(SGA)Che cos’è la sospensione dall’impiego?",
+    "question": "(SGA) Che cos’è la sospensione dall’impiego?",
     "answers": [
       "La cessazione definitiva del rapporto di lavoro.",
       "La privazione temporanea dell’effettivo servizio che può essere precauzionale, disciplinare o penale, disposta con decreto ministeriale.",
@@ -351,7 +351,7 @@
     "correctIndex": 1
   },
   {
-    "question": "(SGA)Come è disposta l’aspettativa per infermità temporanea dipendente da causa di servizio?",
+    "question": "(SGA) Come è disposta l’aspettativa per infermità temporanea dipendente da causa di servizio?",
     "answers": [
       "Solo a domanda del militare.",
       "A domanda o d’autorità dopo accertamenti sanitari.",
@@ -361,7 +361,7 @@
     "correctIndex": 1
   },
   {
-    "question": "(SGA)L’aspettativa per motivi privati è:",
+    "question": "(SGA) L’aspettativa per motivi privati è:",
     "answers": [
       "Sempre d’ufficio.",
       "Sempre a domanda motivata e non può essere inferiore a quattro mesi.",
@@ -371,7 +371,7 @@
     "correctIndex": 1
   },
   {
-    "question": "(SGA)Chi è competente a concedere l’aspettativa per infermità dipendente da causa di servizio entro i limiti previsti?",
+    "question": "(SGA) Chi è competente a concedere l’aspettativa per infermità dipendente da causa di servizio entro i limiti previsti?",
     "answers": [
       "Il Comandante di corpo.",
       "Il Presidente della Repubblica.",
@@ -381,7 +381,7 @@
     "correctIndex": 0
   },
   {
-    "question": "(SGA)Chi è competente a concedere l’aspettativa per infermità non dipendente da causa di servizio per periodi superiori a 12 mesi e a concedere l’aspettativa per motivi privati?",
+    "question": "(SGA) Chi è competente a concedere l’aspettativa per infermità non dipendente da causa di servizio per periodi superiori a 12 mesi e a concedere l’aspettativa per motivi privati?",
     "answers": [
       "Il Comandante di corpo.",
       "Il Ministero della Difesa – D.G.P.M. II Reparto.",
@@ -391,7 +391,7 @@
     "correctIndex": 1
   },
 {
-    "question": "(NSR)Che cos'è il COM?",
+    "question": "(NSR) Che cos'è il COM?",
     "answers": [
       "È il quadro normativo che disciplina l'organizzazione, il funzionamento e i compiti del Ministero della Difesa.",
       "È il Codice Penale Militare di Pace.",
@@ -401,7 +401,7 @@
     "correctIndex": 0
   },
   {
-    "question": "(NSR)Cos'è il TUOM?",
+    "question": "(NSR) Cos'è il TUOM?",
     "answers": [
       "È il Testo Unico delle leggi di pubblica sicurezza (T.U.L.P.S.).",
       "È il D.P.R. 445/2000 sul testo unico della documentazione amministrativa.",
@@ -411,7 +411,7 @@
     "correctIndex": 2
   },
   {
-    "question": "(NSR)Che cos'è il Consiglio Supremo della Difesa (CSD)?",
+    "question": "(NSR) Che cos'è il Consiglio Supremo della Difesa (CSD)?",
     "answers": [
       "È il Comitato Interministeriale per la Sicurezza della Repubblica (CISR).",
       "È il Comando Operativo di Vertice Interforze (COVI).",
@@ -421,7 +421,7 @@
     "correctIndex": 2
   },
   {
-    "question": "(NSR)Che cosa prevede l’articolo 2 del COM?",
+    "question": "(NSR) Che cosa prevede l’articolo 2 del COM?",
     "answers": [
       "Regola il giuramento dei militari.",
       "Il CSD esamina i problemi generali, politici e tecnici attinenti alla difesa nazionale e determina criteri e direttive per le attività che la riguardano.",
@@ -431,7 +431,7 @@
     "correctIndex": 1
   },
   {
-    "question": "(NSR)Da chi è presieduto il Consiglio Supremo della Difesa?",
+    "question": "(NSR) Da chi è presieduto il Consiglio Supremo della Difesa?",
     "answers": [
       "Dal Presidente della Repubblica.",
       "Dal Ministro della Difesa.",
@@ -441,7 +441,7 @@
     "correctIndex": 0
   },
   {
-    "question": "(NSR)Chi è il vice presidente del Consiglio Supremo della Difesa?",
+    "question": "(NSR) Chi è il vice presidente del Consiglio Supremo della Difesa?",
     "answers": [
       "Il Ministro dell'Interno.",
       "Il Ministro degli Affari Esteri.",
@@ -451,7 +451,7 @@
     "correctIndex": 3
   },
   {
-    "question": "(NSR)Da chi è composto il Consiglio Supremo della Difesa (componenti stabili)?",
+    "question": "(NSR) Da chi è composto il Consiglio Supremo della Difesa (componenti stabili)?",
     "answers": [
       "Include stabilmente i Capi di Stato Maggiore di Esercito, Marina e Aeronautica.",
       "Presidente della Repubblica, Presidente del Consiglio (vice-presidente), Ministri: Affari Esteri, Interno, Economia e Finanze, Difesa, Sviluppo Economico, e Capo di Stato Maggiore della Difesa; segretario scelto fuori dai componenti.",
@@ -461,7 +461,7 @@
     "correctIndex": 1
   },
   {
-    "question": "(NSR)Chi sono i componenti eventuali del CSD secondo l’articolo 4?",
+    "question": "(NSR) Chi sono i componenti eventuali del CSD secondo l’articolo 4?",
     "answers": [
       "Il Presidente del Senato partecipa sempre come componente eventuale.",
       "Il Procuratore generale della Corte di Cassazione è componente eventuale.",
@@ -471,7 +471,7 @@
     "correctIndex": 2
   },
   {
-    "question": "(NSR)Quante volte si riunisce il Consiglio Supremo della Difesa?",
+    "question": "(NSR) Quante volte si riunisce il Consiglio Supremo della Difesa?",
     "answers": [
       "Una volta a trimestre, con cadenza fissa.",
       "Almeno due volte all’anno ed inoltre quando se ne ravvisi la necessità su iniziativa del Presidente della Repubblica o su proposta del Presidente del Consiglio.",
@@ -481,7 +481,7 @@
     "correctIndex": 1
   },
   {
-    "question": "(NSR)Chi è il massimo organo gerarchico e disciplinare in ambito militare?",
+    "question": "(NSR) Chi è il massimo organo gerarchico e disciplinare in ambito militare?",
     "answers": [
       "Il Comandante di Corpo.",
       "Il Presidente della Repubblica.",
@@ -491,7 +491,7 @@
     "correctIndex": 3
   },
   {
-    "question": "(NSR)Quali sono i compiti delle Forze Armate?",
+    "question": "(NSR) Quali sono i compiti delle Forze Armate?",
     "answers": [
       "Stipulare trattati internazionali.",
       "Emettere decreti-legge.",
@@ -501,7 +501,7 @@
     "correctIndex": 2
   },
   {
-    "question": "(NSR)Quali sono i doveri attinenti al giuramento?",
+    "question": "(NSR) Quali sono i doveri attinenti al giuramento?",
     "answers": [
       "Impegno solenne a operare per i compiti istituzionali con assoluta fedeltà alle istituzioni repubblicane, disciplina, onore e senso di responsabilità, affrontando se necessario anche il rischio di sacrificare la vita.",
       "Impegno a operare esclusivamente sul territorio nazionale.",
@@ -511,7 +511,7 @@
     "correctIndex": 0
   },
   {
-    "question": "(NSR)Quali sono i doveri attinenti al grado?",
+    "question": "(NSR) Quali sono i doveri attinenti al grado?",
     "answers": [
       "Rifiutare gli ordini senza motivazione.",
       "Criticare pubblicamente i superiori senza limiti.",
@@ -521,7 +521,7 @@
     "correctIndex": 2
   },
   {
-    "question": "(NSR)Cosa indica l’uniforme secondo l’art. 720 TUOM?",
+    "question": "(NSR) Cosa indica l’uniforme secondo l’art. 720 TUOM?",
     "answers": [
       "Indica gli anni di servizio maturati.",
       "Indica la Forza Armata, il corpo, il grado dei militari e, talvolta, le loro funzioni e incarichi.",
@@ -531,7 +531,7 @@
     "correctIndex": 1
   },
   {
-    "question": "(NSR)Quando è vietato l’uso dell’uniforme?",
+    "question": "(NSR) Quando è vietato l’uso dell’uniforme?",
     "answers": [
       "Quando il militare è sospeso dall’impiego, dal servizio o dalle funzioni del grado; e nello svolgimento delle attività private e pubbliche consentite.",
       "Nelle parate ufficiali.",
@@ -541,7 +541,7 @@
     "correctIndex": 0
   },
   {
-    "question": "(NSR)Doveri attinenti alla tutela del segreto e al riserbo (art. 722 TUOM): cosa deve fare il militare?",
+    "question": "(NSR) Doveri attinenti alla tutela del segreto e al riserbo (art. 722 TUOM): cosa deve fare il militare?",
     "answers": [
       "Osservare le norme sul segreto, mantenere il riserbo ed evitare la divulgazione di notizie di servizio anche se apparentemente insignificanti.",
       "Discutere piani e procedure di servizio in ambito familiare.",
@@ -551,7 +551,7 @@
     "correctIndex": 0
   },
   {
-    "question": "(NSR)Come deve eseguire gli ordini il militare?",
+    "question": "(NSR) Come deve eseguire gli ordini il militare?",
     "answers": [
       "Solo se impartiti in forma scritta.",
       "Solo se l’ordine è coerente con le proprie opinioni personali.",
@@ -561,7 +561,7 @@
     "correctIndex": 3
   },
   {
-    "question": "(NSR)Cos’è la ‘consegna’ (art. 730 TUOM)?",
+    "question": "(NSR) Cos’è la ‘consegna’ (art. 730 TUOM)?",
     "answers": [
       "Il passaggio di consegne tra due comandanti al termine dell’incarico.",
       "La sanzione disciplinare della consegna di rigore.",
@@ -571,7 +571,7 @@
     "correctIndex": 2
   },
   {
-    "question": "(NSR)Come dev’essere la condotta del militare?",
+    "question": "(NSR) Come dev’essere la condotta del militare?",
     "answers": [
       "Neutrale e indifferente rispetto all’immagine dell’Amministrazione.",
       "Orientata alla massima visibilità sui social network.",
@@ -581,7 +581,7 @@
     "correctIndex": 2
   },
   {
-    "question": "(NSR)Come può un militare chiedere di conferire con il Ministro della Difesa o con un superiore?",
+    "question": "(NSR) Come può un militare chiedere di conferire con il Ministro della Difesa o con un superiore?",
     "answers": [
       "Solo con lettera manoscritta inviata per posta ordinaria.",
       "Per via gerarchica, precisando se si tratta di questioni di servizio (con il motivo) o di carattere privato.",
@@ -591,7 +591,7 @@
     "correctIndex": 1
   },
   {
-    "question": "(NSR)A chi può presentarsi il militare per via gerarchica per gravi motivi?",
+    "question": "(NSR) A chi può presentarsi il militare per via gerarchica per gravi motivi?",
     "answers": [
       "Soltanto al Capo di Stato Maggiore della Difesa.",
       "Unicamente al comandante di compagnia/reparto.",
@@ -601,7 +601,7 @@
     "correctIndex": 2
   },
   {
-    "question": "(NSR)Come devono essere regolati i turni di servizio?",
+    "question": "(NSR) Come devono essere regolati i turni di servizio?",
     "answers": [
       "A discrezione del comandante senza criteri predefiniti.",
       "Nel rispetto di orari prestabiliti, turni di riposo e riposo festivo; equamente ripartiti e con adeguati periodi di recupero per i turni più impegnativi.",
@@ -611,7 +611,7 @@
     "correctIndex": 1
   },
   {
-    "question": "(NSR)Quando e da chi può essere autorizzato l’alloggio in località diversa dalla sede di servizio?",
+    "question": "(NSR) Quando e da chi può essere autorizzato l’alloggio in località diversa dalla sede di servizio?",
     "answers": [
       "Solo dal Ministro della Difesa con decreto.",
       "Dal Comandante di Corpo, fatte salve le esigenze di servizio, per ufficiali, sottufficiali, VSP e VFP con oltre 12 mesi di servizio.",
@@ -621,7 +621,7 @@
     "correctIndex": 1
   },
      {
-    "question": "(NSR)Domande a risposta multipla sulle sanzioni disciplinari",
+    "question": "(NSR) Domande a risposta multipla sulle sanzioni disciplinari",
     "answers": [
       "Sono ricompense per meriti speciali.",
       "Sono provvedimenti adottati per sanzionare il personale delle forze armate che viola i doveri relativi alla disciplina, al servizio o alla condotta.",
@@ -631,7 +631,7 @@
     "correctIndex": 1
   },
   {
-    "question": "(NSR)Come si distinguono le sanzioni disciplinari?",
+    "question": "(NSR) Come si distinguono le sanzioni disciplinari?",
     "answers": [
       "In sanzioni civili e penali.",
       "In sanzioni disciplinari di stato (maggiore gravità) e di corpo (minore gravità).",
@@ -641,7 +641,7 @@
     "correctIndex": 1
   },
   {
-    "question": "(NSR)La perdita del grado per rimozione prevista dall’articolo 1357 è:",
+    "question": "(NSR) La perdita del grado per rimozione prevista dall’articolo 1357 è:",
     "answers": [
       "Una sanzione disciplinare di corpo.",
       "Una sanzione disciplinare di stato.",
@@ -651,7 +651,7 @@
     "correctIndex": 1
   },
   {
-    "question": "(NSR)Quali sono le sanzioni disciplinari di stato previste dal Codice dell’Ordinamento Militare?",
+    "question": "(NSR) Quali sono le sanzioni disciplinari di stato previste dal Codice dell’Ordinamento Militare?",
     "answers": [
       "Richiamo, rimprovero, consegna e consegna di rigore.",
       "Sospensione disciplinare dall’impiego, sospensione dalle funzioni del grado, cessazione della ferma o rafferma e perdita del grado per rimozione.",
@@ -661,7 +661,7 @@
     "correctIndex": 1
   },
   {
-    "question": "(NSR)Quali sono le sanzioni disciplinari di corpo?",
+    "question": "(NSR) Quali sono le sanzioni disciplinari di corpo?",
     "answers": [
       "Richiamo, rimprovero, consegna, consegna di rigore.",
       "Sospensione, destituzione, interdizione.",
@@ -671,7 +671,7 @@
     "correctIndex": 0
   },
   {
-    "question": "(NSR)La consegna semplice esiste?",
+    "question": "(NSR) La consegna semplice esiste?",
     "answers": [
       "Sì, per le infrazioni minori.",
       "No, non esiste; le sanzioni di corpo sono il richiamo, il rimprovero, la consegna e la consegna di rigore.",
@@ -681,7 +681,7 @@
     "correctIndex": 1
   },
   {
-    "question": "(NSR)In cosa consiste la consegna?",
+    "question": "(NSR) In cosa consiste la consegna?",
     "answers": [
       "Nell’allontanamento dal servizio.",
       "Nella privazione della libera uscita fino a un massimo di sette giorni consecutivi.",
@@ -691,7 +691,7 @@
     "correctIndex": 1
   },
   {
-    "question": "(NSR)In cosa consiste la consegna di rigore?",
+    "question": "(NSR) In cosa consiste la consegna di rigore?",
     "answers": [
       "Nella privazione della libera uscita con permanenza in appositi locali fino a un massimo di quindici giorni.",
       "Nella privazione della libera uscita fino a sette giorni.",
@@ -701,7 +701,7 @@
     "correctIndex": 0
   },
   {
-    "question": "(NSR)Che cos’è il richiamo e da chi può essere inflitto?",
+    "question": "(NSR) Che cos’è il richiamo e da chi può essere inflitto?",
     "answers": [
       "È un ammonimento verbale per lievi mancanze o omissioni dovute a negligenza e può essere inflitto da qualsiasi superiore.",
       "È una dichiarazione scritta inflitta da un tribunale.",
@@ -711,7 +711,7 @@
     "correctIndex": 0
   },
   {
-    "question": "(NSR)Qual è l’effetto del richiamo sulla documentazione personale del militare?",
+    "question": "(NSR) Qual è l’effetto del richiamo sulla documentazione personale del militare?",
     "answers": [
       "Viene trascritto e rimane per sempre.",
       "Non dà luogo a trascrizione nella documentazione personale dell’interessato.",
@@ -721,7 +721,7 @@
     "correctIndex": 1
   },
   {
-    "question": "(NSR)Che cos’è il rimprovero e da chi è inflitto?",
+    "question": "(NSR) Che cos’è il rimprovero e da chi è inflitto?",
     "answers": [
       "È un ammonimento verbale inflitto da qualsiasi militare.",
       "È una dichiarazione di biasimo scritta che punisce lievi trasgressioni alla disciplina o recidive ed è inflitto dalle autorità previste dall’articolo 1396 del COM.",
@@ -731,7 +731,7 @@
     "correctIndex": 1
   },
   {
-    "question": "(NSR)Quali sono le conseguenze del rimprovero?",
+    "question": "(NSR) Quali sono le conseguenze del rimprovero?",
     "answers": [
       "Non ha alcuna conseguenza.",
       "Influisce negativamente sulla valutazione periodica della documentazione caratteristica e può ritardare o precludere l’avanzamento; dopo due anni di buona condotta può essere cancellato.",
@@ -771,7 +771,7 @@
     "correctIndex": 2
   },
    {
-    "question": "(GENDER) Cosa si intende per gender advaisor?",
+    "question": "(GE) Cosa si intende per gender advaisor?",
     "answers": [
       "Ufficiale legale che segue contenziosi e procedure disciplinari in materia di pari opportunità.",
       "Consulente per questioni di genere da impiegare in patria e in teatro operativo per l’adozione delle prospettive di genere è obbiettivo strategici dell ente a disposizione del comandante .",
@@ -781,7 +781,7 @@
     "correctIndex": 1
   },
   {
-    "question": "(GENDER) Qual è il pilastro fondamentale da cui discende la  prospettiva di genere?",
+    "question": "(GE) Qual è il pilastro fondamentale da cui discende la  prospettiva di genere?",
     "answers": [
       "Direttiva SMD sul Gender Mainstreaming (edizioni nazionali).",
       "É la risoluzione ONU \"Donne Pace Sicurezza\" n. 1325 del 2000.",
@@ -791,7 +791,7 @@
     "correctIndex": 1
   },
   {
-    "question": "(GENDER) Quale norma ha introdotto emanazioni di decreti per disciplinare il reclutamento per lo stato giuridico dell’ avanzamento per il personale femminile?",
+    "question": "(GE) Quale norma ha introdotto emanazioni di decreti per disciplinare il reclutamento per lo stato giuridico dell’ avanzamento per il personale femminile?",
     "answers": [
       "D.P.R. 90/2010 (Testo unico regolamentare).",
       "Legge 226/2004 (sospensione del servizio di leva obbligatorio).",
@@ -801,7 +801,7 @@
     "correctIndex": 3
   },
   {
-    "question": "(GENDER) Cosa ha comportato ingresso della compagine femminile nel mondo militare?",
+    "question": "(GE) Cosa ha comportato ingresso della compagine femminile nel mondo militare?",
     "answers": [
       "Obbligo di separazione totale di addestramento e servizi tra personale maschile e femminile.",
       "Riduzione generalizzata dei requisiti fisici per il personale maschile.",
@@ -811,7 +811,7 @@
     "correctIndex": 3
   },
   {
-    "question": "(GENDER) Cosa e stato previsto con l’introduzione della legge 380 del 1999 in merito alla prospettiva di genere?",
+    "question": "(GE) Cosa e stato previsto con l’introduzione della legge 380 del 1999 in merito alla prospettiva di genere?",
     "answers": [
       "Sospensione dell’arruolamento femminile per un periodo transitorio.",
       "Esclusione del personale femminile dalle operazioni all’estero.",
@@ -821,7 +821,7 @@
     "correctIndex": 3
   },
   {
-    "question": "(GENDER) Cosa sono i F.E.T.(Female Engagement Team)?",
+    "question": "(GE) Cosa sono i F.E.T.(Female Engagement Team)?",
     "answers": [
       "Team medici di pronto intervento a supporto sanitario delle unità combattenti.",
       "Nuclei di polizia militare dedicati alle attività investigative interne.",
