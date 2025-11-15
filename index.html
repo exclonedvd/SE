@@ -81,6 +81,49 @@
             color: #ff7b4b;
         }
 
+        .telegram-btn {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+            margin-top: 18px;
+            padding: 10px 22px;
+            border-radius: 999px;
+            border: 1px solid rgba(255, 255, 255, 0.16);
+            text-decoration: none;
+            font-size: 0.78rem;
+            font-weight: 600;
+            letter-spacing: 0.18em;
+            text-transform: uppercase;
+            background: linear-gradient(135deg, #ff7b4b, #ffcc66);
+            color: #050608;
+            box-shadow:
+                0 12px 26px rgba(0, 0, 0, 0.65),
+                0 0 0 1px rgba(0, 0, 0, 0.8);
+            cursor: pointer;
+            transition: transform 0.15s ease, box-shadow 0.15s ease, opacity 0.15s ease;
+        }
+
+        .telegram-btn span.icon {
+            font-size: 1rem;
+            line-height: 1;
+        }
+
+        .telegram-btn:hover {
+            transform: translateY(-1px);
+            box-shadow:
+                0 16px 32px rgba(0, 0, 0, 0.75),
+                0 0 0 1px rgba(0, 0, 0, 0.9);
+            opacity: 0.98;
+        }
+
+        .telegram-btn:active {
+            transform: translateY(1px);
+            box-shadow:
+                0 8px 18px rgba(0, 0, 0, 0.7),
+                0 0 0 1px rgba(0, 0, 0, 0.9);
+        }
+
         .footer-note {
             margin-top: 24px;
             font-size: 0.8rem;
@@ -109,13 +152,24 @@
 
         <!-- Frase educata -->
         <p>
-            A causa della banda limitata del server che ospita l’app, si sono verificati rallentamenti e disconnessioni che compromettono la stabilità del servizio. Per tutelare le prestazioni e ridurre il rischio di ulteriori problemi, l’accesso è stato reso esclusivo e limitato a un numero ristretto di utenti.
-.
+            A causa della banda limitata del server che ospita l’app, per evitare sovraccarichi e problemi, l’accesso è stato reso esclusivo e limitato a un numero ristretto di utenti.
         </p>
 
         <span class="tag">Grazie per la comprensione</span>
 
-        
+        <a
+            class="telegram-btn"
+            href="https://t.me/+ExY16SPlFuc5YmQ0"
+            target="_blank"
+            rel="noopener noreferrer"
+        >
+            <span class="icon">📨</span>
+            <span>Info gruppo Telegram</span>
+        </a>
+
+        <div class="footer-note">
+            Antares II · Tool non ufficiale, creato da colleghi per colleghi.
+        </div>
     </main>
 </body>
 </html>
