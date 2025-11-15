@@ -2,7 +2,7 @@
 <html lang="it">
 <head>
     <meta charset="UTF-8">
-    <title>App in manutenzione – Antares II</title>
+    <title>Antares II – App di nuovo online</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Favicon -->
@@ -22,163 +22,402 @@
             display: flex;
             align-items: center;
             justify-content: center;
-            background: radial-gradient(circle at top, #1e252e 0, #050608 55%, #000000 100%);
+            background: radial-gradient(circle at top, #131922 0, #050608 55%, #000000 100%);
             color: #f5f5f5;
+            overflow: hidden;
+            position: relative;
+        }
+
+        /* Bagliori di sfondo */
+        body::before {
+            content: "";
+            position: fixed;
+            inset: -40%;
+            background:
+                radial-gradient(circle at 15% 0, rgba(255, 123, 75, 0.22), transparent 60%),
+                radial-gradient(circle at 85% 10%, rgba(255, 204, 102, 0.20), transparent 60%);
+            opacity: 0.9;
+            filter: blur(3px);
+            pointer-events: none;
+            z-index: 0;
+            animation: bgPulse 9s ease-in-out infinite alternate;
+        }
+
+        @keyframes bgPulse {
+            0% { opacity: 0.55; transform: scale(1); }
+            50% { opacity: 0.95; transform: scale(1.03); }
+            100% { opacity: 0.7; transform: scale(1.01); }
         }
 
         .wrapper {
+            position: relative;
             text-align: center;
-            padding: 40px 30px;
-            max-width: 480px;
-            width: 90%;
-            background: rgba(10, 12, 16, 0.92);
-            border-radius: 18px;
+            padding: 22px 18px 20px;
+            max-width: 360px;
+            width: 94%;
+            background: rgba(10, 12, 16, 0.94);
+            border-radius: 16px;
             box-shadow:
-                0 18px 40px rgba(0, 0, 0, 0.6),
+                0 14px 32px rgba(0, 0, 0, 0.75),
                 0 0 0 1px rgba(255, 255, 255, 0.03);
             backdrop-filter: blur(10px);
+            z-index: 1;
+            overflow: hidden;
+        }
+
+        /* Bordo luminoso animato */
+        .wrapper::before {
+            content: "";
+            position: absolute;
+            inset: -1px;
+            border-radius: inherit;
+            background: conic-gradient(
+                from 180deg,
+                rgba(255, 204, 102, 0.0),
+                rgba(255, 123, 75, 0.7),
+                rgba(255, 204, 102, 0.0),
+                rgba(255, 123, 75, 0.9),
+                rgba(255, 204, 102, 0.0)
+            );
+            opacity: 0.32;
+            z-index: -1;
+            animation: borderRotate 9s linear infinite;
+        }
+
+        .wrapper::after {
+            content: "";
+            position: absolute;
+            inset: 1px;
+            border-radius: 15px;
+            background: radial-gradient(circle at top, #171d27 0, #06080c 55%, #050608 100%);
+            z-index: -1;
+        }
+
+        @keyframes borderRotate {
+            to { transform: rotate(360deg); }
         }
 
         .logo {
-            width: 120px;
-            height: 120px;
-            margin-bottom: 20px;
+            width: 72px;
+            height: 72px;
+            margin-bottom: 12px;
             border-radius: 50%;
-            box-shadow: 0 0 18px rgba(255, 96, 64, 0.55);
+            box-shadow:
+                0 0 14px rgba(255, 96, 64, 0.75),
+                0 0 32px rgba(255, 204, 102, 0.55);
+            animation: logoFloat 3.4s ease-in-out infinite;
+        }
+
+        @keyframes logoFloat {
+            0%   { transform: translateY(0); }
+            50%  { transform: translateY(-3px); }
+            100% { transform: translateY(0); }
         }
 
         h1 {
-            font-size: 1.6rem;
-            letter-spacing: 0.08em;
+            font-size: 1.25rem;
+            letter-spacing: 0.09em;
             text-transform: uppercase;
-            margin-bottom: 6px;
+            margin-bottom: 4px;
         }
 
         .subtitle {
-            font-size: 0.9rem;
+            font-size: 0.7rem;
             text-transform: uppercase;
-            letter-spacing: 0.18em;
+            letter-spacing: 0.2em;
             color: #ffcc66;
-            margin-bottom: 18px;
+            margin-bottom: 10px;
+            opacity: 0.95;
+        }
+
+        .highlight-text {
+            font-size: 0.9rem;
+            line-height: 1.5;
+            color: #ffe2b4;
+            margin-bottom: 10px;
+            font-weight: 600;
         }
 
         p {
-            font-size: 0.95rem;
-            line-height: 1.6;
-            color: #d4d4d4;
-            margin-bottom: 20px;
+            font-size: 0.86rem;
+            line-height: 1.5;
+            color: #d7dde8;
+            margin-bottom: 10px;
         }
 
         .tag {
             display: inline-block;
-            margin-top: 4px;
-            padding: 6px 14px;
+            margin-top: 6px;
+            padding: 5px 12px;
             border-radius: 999px;
-            border: 1px solid rgba(255, 255, 255, 0.12);
-            font-size: 0.75rem;
-            letter-spacing: 0.18em;
+            border: 1px solid rgba(255, 255, 255, 0.18);
+            font-size: 0.68rem;
+            letter-spacing: 0.21em;
             text-transform: uppercase;
             color: #ff7b4b;
+            animation: tagGlow 2.7s ease-in-out infinite alternate;
         }
 
+        @keyframes tagGlow {
+            0% {
+                box-shadow: 0 0 0 rgba(255, 123, 75, 0);
+                opacity: 0.85;
+            }
+            100% {
+                box-shadow:
+                    0 0 8px rgba(255, 123, 75, 0.7),
+                    0 0 18px rgba(255, 204, 102, 0.25);
+                opacity: 1;
+            }
+        }
+
+        .btn-group {
+            margin-top: 14px;
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+
+        .app-btn,
         .telegram-btn {
             display: inline-flex;
             align-items: center;
             justify-content: center;
-            gap: 8px;
-            margin-top: 18px;
-            padding: 10px 22px;
+            gap: 6px;
+            padding: 9px 18px;
             border-radius: 999px;
-            border: 1px solid rgba(255, 255, 255, 0.16);
             text-decoration: none;
-            font-size: 0.78rem;
-            font-weight: 600;
-            letter-spacing: 0.18em;
+            font-size: 0.72rem;
+            letter-spacing: 0.21em;
             text-transform: uppercase;
+            cursor: pointer;
+            transition: transform 0.16s ease, box-shadow 0.16s ease, opacity 0.16s ease;
+            white-space: nowrap;
+        }
+
+        .app-btn {
+            border: 1px solid rgba(255, 255, 255, 0.22);
+            font-weight: 700;
+            background: radial-gradient(circle at 0 0, #ffcc66, #ff7b4b);
+            color: #050608;
+            box-shadow:
+                0 10px 24px rgba(0, 0, 0, 0.85),
+                0 0 0 1px rgba(0, 0, 0, 0.8);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .app-btn::before {
+            content: "";
+            position: absolute;
+            inset: 0;
+            background: linear-gradient(120deg,
+                transparent 0%,
+                rgba(255, 255, 255, 0.42) 45%,
+                transparent 80%);
+            transform: translateX(-120%);
+            opacity: 0.0;
+        }
+
+        .app-btn:hover::before {
+            animation: btnShine 0.75s ease-out forwards;
+        }
+
+        @keyframes btnShine {
+            0% { transform: translateX(-120%); opacity: 0; }
+            20% { opacity: 1; }
+            100% { transform: translateX(120%); opacity: 0; }
+        }
+
+        .telegram-btn {
+            border: 1px solid rgba(255, 255, 255, 0.18);
+            font-weight: 600;
             background: linear-gradient(135deg, #ff7b4b, #ffcc66);
             color: #050608;
             box-shadow:
-                0 12px 26px rgba(0, 0, 0, 0.65),
+                0 8px 20px rgba(0, 0, 0, 0.75),
                 0 0 0 1px rgba(0, 0, 0, 0.8);
-            cursor: pointer;
-            transition: transform 0.15s ease, box-shadow 0.15s ease, opacity 0.15s ease;
         }
 
+        .app-btn span.icon,
         .telegram-btn span.icon {
-            font-size: 1rem;
+            font-size: 0.95rem;
             line-height: 1;
         }
 
+        .app-btn:hover,
         .telegram-btn:hover {
             transform: translateY(-1px);
-            box-shadow:
-                0 16px 32px rgba(0, 0, 0, 0.75),
-                0 0 0 1px rgba(0, 0, 0, 0.9);
             opacity: 0.98;
         }
 
+        .app-btn:active,
         .telegram-btn:active {
-            transform: translateY(1px);
+            transform: translateY(1px) scale(0.99);
             box-shadow:
-                0 8px 18px rgba(0, 0, 0, 0.7),
+                0 6px 14px rgba(0, 0, 0, 0.7),
                 0 0 0 1px rgba(0, 0, 0, 0.9);
         }
 
         .footer-note {
-            margin-top: 24px;
-            font-size: 0.8rem;
+            margin-top: 14px;
+            font-size: 0.72rem;
             color: #8f9bae;
-            opacity: 0.9;
+            opacity: 0.95;
+        }
+
+        /* Fuochi d'artificio / scintille agli angoli */
+        .fireworks-layer {
+            position: fixed;
+            inset: 0;
+            pointer-events: none;
+            overflow: hidden;
+            z-index: 0;
+        }
+
+        .firework {
+            position: absolute;
+            width: 4px;
+            height: 4px;
+            border-radius: 50%;
+            background: radial-gradient(circle, #ffcc66 0, #ff7b4b 55%, transparent 75%);
+            opacity: 0;
+            animation: fireworkBurst 2.7s ease-out infinite;
+        }
+
+        .firework.f1 { left: 12%; top: 8%; animation-delay: 0.1s; }
+        .firework.f2 { right: 10%; top: 16%; animation-delay: 0.7s; }
+        .firework.f3 { left: 8%; bottom: 14%; animation-delay: 1.4s; }
+        .firework.f4 { right: 10%; bottom: 10%; animation-delay: 2.0s; }
+        .firework.f5 { left: 50%; top: 4%; animation-delay: 2.3s; }
+
+        @keyframes fireworkBurst {
+            0% {
+                transform: scale(0.2) translateY(16px);
+                opacity: 0;
+            }
+            15% {
+                opacity: 1;
+                transform: scale(1) translateY(0);
+            }
+            45% {
+                opacity: 0.45;
+                transform: scale(1.7) translateY(-6px);
+            }
+            100% {
+                opacity: 0;
+                transform: scale(2.2) translateY(-12px);
+            }
+        }
+
+        /* Piccole particelle scintillanti intorno alla card */
+        .sparkle {
+            position: absolute;
+            width: 2px;
+            height: 2px;
+            background: radial-gradient(circle, #ffe9b8 0, transparent 70%);
+            opacity: 0;
+            border-radius: 50%;
+            animation: sparkleBlink 3.2s ease-in-out infinite;
+        }
+
+        .sparkle.s1 { top: 12%; left: 8%; animation-delay: 0.3s; }
+        .sparkle.s2 { top: 18%; right: 6%; animation-delay: 1s; }
+        .sparkle.s3 { bottom: 16%; left: 18%; animation-delay: 1.8s; }
+        .sparkle.s4 { bottom: 12%; right: 14%; animation-delay: 2.5s; }
+
+        @keyframes sparkleBlink {
+            0%, 80%, 100% { opacity: 0; transform: scale(0.3); }
+            35% { opacity: 1; transform: scale(1); }
+            55% { opacity: 0.4; transform: scale(0.7); }
         }
 
         @media (max-width: 480px) {
             .wrapper {
-                padding: 32px 22px;
+                padding: 18px 16px 18px;
+                max-width: 340px;
             }
             h1 {
-                font-size: 1.35rem;
+                font-size: 1.15rem;
+            }
+            .subtitle {
+                font-size: 0.66rem;
+            }
+            .btn-group {
+                gap: 7px;
             }
         }
     </style>
 </head>
 <body>
+    <!-- Effetti di festa / fuochi -->
+    <div class="fireworks-layer">
+        <div class="firework f1"></div>
+        <div class="firework f2"></div>
+        <div class="firework f3"></div>
+        <div class="firework f4"></div>
+        <div class="firework f5"></div>
+    </div>
+
     <main class="wrapper">
+        <!-- Particelle luminose intorno alla card -->
+        <div class="sparkle s1"></div>
+        <div class="sparkle s2"></div>
+        <div class="sparkle s3"></div>
+        <div class="sparkle s4"></div>
+
         <!-- Logo -->
         <img src="icon-192.png" alt="Logo Antares II" class="logo">
 
         <!-- Titoli -->
         <div class="subtitle">27° Corso Sergenti · Aeronautica Militare</div>
-        <h1>APP in manutenzione</h1>
+        <h1>APP di nuovo online</h1>
 
-      
-
-        <p>
-            Vista la rapida diffusione dell’app, si è verificato un problema nella gestione della banda. Abbiamo già apportato dei miglioramenti, ma stiamo continuando a lavorare per trovare una soluzione che permetta a tutti di partecipare senza difficoltà.
+        <p class="highlight-text">
+            Antares II è tornata operativa su un nuovo indirizzo più stabile e veloce:
         </p>
 
         <p>
-            Ricordo a tutti che sull’app sono condivisi i nostri appunti e i quiz generati tramite Intelligenza Artificiale. Si tratta quindi di materiale di supporto allo studio e non dei quiz ufficiali che verranno utilizzati nel test finale. L’obiettivo è facilitare la preparazione, non sostituire le prove reali.
+            Da ora puoi accedere all’app dal nuovo link qui sotto. Ti consigliamo di salvarlo
+            tra i preferiti o aggiungerlo alla schermata Home del telefono come <em>web app</em> (Seguendo le istruzioni del tasto 'Installa Antares'),
+            così lo avrai sempre a portata di tap durante la preparazione.
+        </p>
+
+        <!-- Pulsante nuova app + Telegram -->
+        <div class="btn-group">
+            <a
+                class="app-btn"
+                href="https://27se.pages.dev/"
+                target="_blank"
+                rel="noopener noreferrer"
+            >
+                <span class="icon">🚀</span>
+                <span>Apri la nuova app</span>
+            </a>
+
+            <a
+                class="telegram-btn"
+                href="https://t.me/+ExY16SPlFuc5YmQ0"
+                target="_blank"
+                rel="noopener noreferrer"
+            >
+                <span class="icon">📨</span>
+                <span>Info gruppo Telegram</span>
+            </a>
+        </div>
+
+        <p style="margin-top: 12px;">
+            All’interno trovi appunti e quiz generati tramite Intelligenza Artificiale:
+            sono un supporto allo studio, non i quiz ufficiali del test finale. L’obiettivo
+            è darti uno strumento rapido e pratico per ripassare quando vuoi.
         </p>
 
         <p>
-            Non è garantito che l’app torni online, ma faremo il possibile per ripristinarla o quantomeno tentare ogni soluzione utile.
+            Il gruppo Telegram resta il punto di riferimento per aggiornamenti, segnalazioni
+            e suggerimenti: entra se vuoi contribuire a migliorare l’app e restare sempre allineato.
         </p>
 
-        <p>
-            Vi invito a unirvi al gruppo Telegram così da capire quanti stanno utilizzando l’app e facilitarci il lavoro di gestione e organizzazione.
-        </p>
-
-        <span class="tag">Grazie per la comprensione</span>
-
-        <a
-            class="telegram-btn"
-            href="https://t.me/+ExY16SPlFuc5YmQ0"
-            target="_blank"
-            rel="noopener noreferrer"
-        >
-            <span class="icon">📨</span>
-            <span>Info gruppo Telegram</span>
-        </a>
+        <span class="tag">Grazie per la pazienza e il supporto</span>
 
         <div class="footer-note">
             Antares II · Tool non ufficiale, creato da colleghi per colleghi.
